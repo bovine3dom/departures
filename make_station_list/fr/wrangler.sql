@@ -14,7 +14,7 @@ copy (
                         strip_accents(lower(nom)),
                     ' - ', ' '),
                 '-', ' '),
-            ' en | sur | de | et | le | les ', ' ')
+            ' en | sur | de | et | le | les ', ' ', 'g')
         , ' ', '-')
     , '/horaires#main-content')
     as url, ST_X(position_geographique) lon, ST_Y(position_geographique) lat from 'gares-de-voyageurs.parquet'
