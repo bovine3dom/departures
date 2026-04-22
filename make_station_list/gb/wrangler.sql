@@ -1,6 +1,6 @@
 -- duckdb
 copy (
-    select 'GB' country, name, url, 
+    select 'GB' country, name, url,
     longitude lon,
     latitude lat 
     from (
@@ -9,6 +9,6 @@ copy (
         )
         where d.UIC not like '% %' and d."3ALPHA" not like '% %'
     ) c
-    left join '../stations.csv' s on (s.uic = c.uic) or (s.sncf_id = concat('GB', c.a3))
+    left join '../stations.csv' s on (s.uic = c.uic) --or (s.sncf_id = concat('GB', c.a3)) -- this is a trap
     where latitude is not null and longitude is not null
 ) to 'gb-stations.csv' (header false);

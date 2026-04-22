@@ -4,7 +4,7 @@ select c1 country, c2 name, c3 url, c4 lon, c5 lat, geoToH3(lat, lon, 8) h3, p.p
 from file('chungus/friendly_stations.csv') fs
 left join public_kontur_population_20231101 p on p.h3 = h3
 order by name asc
-into outfile 'friendly_stations_with_pop.csv' format CSVWithNames; -- always a surprise: goes in working dir
+into outfile 'friendly_stations_with_pop.csv' truncate format CSVWithNames; -- always a surprise: goes in working dir
 
 -- this needs loads of memory and is it really better?
  --left join (
