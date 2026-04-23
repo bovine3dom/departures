@@ -16076,6 +16076,8 @@ const input = document.getElementById('station-search');
 const list = document.getElementById('station-results');
 
 let activeIndex = -1; 
+let lastMouseX = 0;
+let lastMouseY = 0;
 
 function updateList(query) {
     list.innerHTML = ''; 
@@ -16093,16 +16095,21 @@ function updateList(query) {
             const li = document.createElement('li');
             li.textContent = station.name;
             li.dataset.url = station.url;
-            
+
             li.addEventListener('mousedown', () => {
                 window.location.href = station.url;
             });
 
-            li.addEventListener('mouseenter', () => {
-                activeIndex = index;
-                updateActiveVisuals();
-            });
-            
+            // only track "pointer move" if there's a mouse
+            if (window.matchMedia("(hover: hover)").matches) {
+                li.addEventListener('mousemove', (e) => {
+                    if (e.screenX === lastMouseX && e.screenY === lastMouseY) return;
+                    lastMouseX = e.screenX;
+                    lastMouseY = e.screenY;
+                    activeIndex = index;
+                    updateActiveVisuals(false);
+                });
+            }
             list.appendChild(li);
         });
     } else {
@@ -16112,13 +16119,15 @@ function updateList(query) {
     return matches; 
 }
 
-function updateActiveVisuals() {
+function updateActiveVisuals(shouldScroll) {
     const items = list.querySelectorAll('li');
     items.forEach(item => item.classList.remove('active'));
     if (activeIndex >= 0 && activeIndex < items.length) {
         const activeItem = items[activeIndex];
         activeItem.classList.add('active');
-        activeItem.scrollIntoView({ block: 'nearest' });
+        if (shouldScroll) { // only scroll for keyboards
+            activeItem.scrollIntoView({ block: 'nearest' });
+        }
     }
 }
 
@@ -16135,13 +16144,13 @@ input.addEventListener('keydown', (e) => {
             e.preventDefault();
             activeIndex++;
             if (activeIndex >= items.length) activeIndex = 0;
-            updateActiveVisuals();
+            updateActiveVisuals(true);
             
         } else if (e.key === 'ArrowUp' || (e.key === 'Tab' && e.shiftKey)) {
             e.preventDefault();
             activeIndex--;
             if (activeIndex < 0) activeIndex = items.length - 1;
-            updateActiveVisuals();
+            updateActiveVisuals(true);
             
         } else if (e.key === 'Enter') {
             e.preventDefault();
