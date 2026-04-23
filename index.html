@@ -99,6 +99,22 @@ input:focus {
     body { padding: 15px; }
     h1 { font-size: 1.5rem; }
 }
+
+.footer-link {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 0.85rem;
+    color: var(--text-color);
+    opacity: 0.5;
+    text-decoration: none;
+    transition: opacity 0.2s, color 0.2s;
+}
+
+.footer-link:hover {
+    opacity: 1;
+    color: var(--accent);
+}
 </style>
     </head>
     <body>
@@ -108,7 +124,7 @@ input:focus {
             <input type="search" autocomplete="off" spellcheck="false" id="station-search" placeholder="Type a station name...">
             <ul id="station-results" class="dropdown"></ul>
         </div>
-
+        <a href="https://github.com/bovine3dom/departures" target="_blank" class="footer-link">made with love by bovine3dom ❤️</a>
     </body>
    <script>
        const stations =
