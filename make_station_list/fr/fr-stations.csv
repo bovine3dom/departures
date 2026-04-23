@@ -21,7 +21,7 @@ FR,Aillevillers,"https://www.garesetconnexions.sncf/fr/gares-services/ailleville
 FR,Ailly-sur-Noye,"https://www.garesetconnexions.sncf/fr/gares-services/ailly-noye/horaires#main-content",2.36419,49.75448
 FR,Ailly-sur-Somme,"https://www.garesetconnexions.sncf/fr/gares-services/ailly-somme/horaires#main-content",2.20059,49.92838
 FR,Aimargues,"https://www.garesetconnexions.sncf/fr/gares-services/aimargues/horaires#main-content",4.2082933,43.6786107
-FR,Aime - La Plagne,"https://www.garesetconnexions.sncf/fr/gares-services/aime-la-plagne/horaires#main-content",6.648646,45.5544
+FR,Aime - La Plagne,"https://www.garesetconnexions.sncf/fr/gares-services/aime-plagne/horaires#main-content",6.648646,45.5544
 FR,Aiserey,"https://www.garesetconnexions.sncf/fr/gares-services/aiserey/horaires#main-content",5.1582447,47.170501
 FR,Aix-en-Provence,"https://www.garesetconnexions.sncf/fr/gares-services/aix-provence/horaires#main-content",5.445345,43.522912
 FR,Aix-en-Provence TGV,"https://www.garesetconnexions.sncf/fr/gares-services/aix-provence-tgv/horaires#main-content",5.317534,43.455237
@@ -189,7 +189,7 @@ FR,Ballan-Miré,"https://www.garesetconnexions.sncf/fr/gares-services/ballan-mir
 FR,Ballancourt-sur-Essonne,"https://www.garesetconnexions.sncf/fr/gares-services/ballancourt-essonne/horaires#main-content",2.371274,48.532114
 FR,Ballersdorf,"https://www.garesetconnexions.sncf/fr/gares-services/ballersdorf/horaires#main-content",,
 FR,Balsièges,"https://www.garesetconnexions.sncf/fr/gares-services/balsieges/horaires#main-content",3.4560976,44.4820108
-FR,Banassac - La Canourgue,"https://www.garesetconnexions.sncf/fr/gares-services/banassac-la-canourgue/horaires#main-content",3.1958518,44.4477632
+FR,Banassac - La Canourgue,"https://www.garesetconnexions.sncf/fr/gares-services/banassac-canourgue/horaires#main-content",3.1958518,44.4477632
 FR,Bandol,"https://www.garesetconnexions.sncf/fr/gares-services/bandol/horaires#main-content",5.750118,43.140344
 FR,Bannalec,"https://www.garesetconnexions.sncf/fr/gares-services/bannalec/horaires#main-content",-3.7065268,47.9267473
 FR,Bantzenheim,"https://www.garesetconnexions.sncf/fr/gares-services/bantzenheim/horaires#main-content",7.5038675,47.8109675
@@ -296,7 +296,7 @@ FR,Blanzy,"https://www.garesetconnexions.sncf/fr/gares-services/blanzy/horaires#
 FR,Blesme - Haussignémont,"https://www.garesetconnexions.sncf/fr/gares-services/blesme-haussignemont/horaires#main-content",,
 FR,Blois - Chambord,"https://www.garesetconnexions.sncf/fr/gares-services/blois-chambord/horaires#main-content",1.323823,47.585445
 FR,Blonville-sur-Mer - Benerville,"https://www.garesetconnexions.sncf/fr/gares-services/blonville-mer-benerville/horaires#main-content",0.0356856,49.3313919
-FR,Bléré - La Croix,"https://www.garesetconnexions.sncf/fr/gares-services/blere-la-croix/horaires#main-content",0.9877583,47.3377228
+FR,Bléré - La Croix,"https://www.garesetconnexions.sncf/fr/gares-services/blere-croix/horaires#main-content",0.9877583,47.3377228
 FR,Bogny-sur-Meuse,"https://www.garesetconnexions.sncf/fr/gares-services/bogny-meuse/horaires#main-content",4.7632317,49.8583117
 FR,Bohain-en-Vermandois,"https://www.garesetconnexions.sncf/fr/gares-services/bohain-vermandois/horaires#main-content",3.4431289,49.9884143
 FR,Boigneville,"https://www.garesetconnexions.sncf/fr/gares-services/boigneville/horaires#main-content",2.3789793,48.342078
@@ -307,10 +307,10 @@ FR,Boisleux-au-Mont,"https://www.garesetconnexions.sncf/fr/gares-services/boisle
 FR,Boisseaux,"https://www.garesetconnexions.sncf/fr/gares-services/boisseaux/horaires#main-content",1.9727681,48.2566238
 FR,Boisset,"https://www.garesetconnexions.sncf/fr/gares-services/boisset/horaires#main-content",2.2497669,44.786038
 FR,Boissise-le-Roi,"https://www.garesetconnexions.sncf/fr/gares-services/boissise-roi/horaires#main-content",2.572953,48.529319
-FR,Boissy-l'Aillerie,"https://www.garesetconnexions.sncf/fr/gares-services/boissy-l'aillerie/horaires#main-content",2.02513,49.07598
+FR,Boissy-l'Aillerie,"https://www.garesetconnexions.sncf/fr/gares-services/boissy-aillerie/horaires#main-content",2.02513,49.07598
 FR,Bolbec - Nointot,"https://www.garesetconnexions.sncf/fr/gares-services/bolbec-nointot/horaires#main-content",,
 FR,Bollwiller,"https://www.garesetconnexions.sncf/fr/gares-services/bollwiller/horaires#main-content",7.2672555,47.8569694
-FR,Bollène La Croisière,"https://www.garesetconnexions.sncf/fr/gares-services/bollene-la-croisiere/horaires#main-content",4.707908,44.271525
+FR,Bollène La Croisière,"https://www.garesetconnexions.sncf/fr/gares-services/bollene-croisiere/horaires#main-content",4.707908,44.271525
 FR,Bologne,"https://www.garesetconnexions.sncf/fr/gares-services/bologne/horaires#main-content",5.1342228,48.1986877
 FR,Bolquère - Eyne,"https://www.garesetconnexions.sncf/fr/gares-services/bolquere-eyne/horaires#main-content",,
 FR,Bondy,"https://www.garesetconnexions.sncf/fr/gares-services/bondy/horaires#main-content",2.4786,48.894208
@@ -349,7 +349,7 @@ FR,Bourgtheroulde - Thuit-Hébert,"https://www.garesetconnexions.sncf/fr/gares-s
 FR,Bournezeau,"https://www.garesetconnexions.sncf/fr/gares-services/bournezeau/horaires#main-content",-1.1806169,46.6518258
 FR,Bourron-Marlotte - Grez,"https://www.garesetconnexions.sncf/fr/gares-services/bourron-marlotte-grez/horaires#main-content",2.6924552,48.3326884
 FR,Bourth,"https://www.garesetconnexions.sncf/fr/gares-services/bourth/horaires#main-content",,
-FR,Boussay - La Bruffière,"https://www.garesetconnexions.sncf/fr/gares-services/boussay-la-bruffiere/horaires#main-content",-1.1828046,47.0505741
+FR,Boussay - La Bruffière,"https://www.garesetconnexions.sncf/fr/gares-services/boussay-bruffiere/horaires#main-content",-1.1828046,47.0505741
 FR,Boussens,"https://www.garesetconnexions.sncf/fr/gares-services/boussens/horaires#main-content",0.972543,43.179617
 FR,Boussy-Saint-Antoine,"https://www.garesetconnexions.sncf/fr/gares-services/boussy-saint-antoine/horaires#main-content",2.532726,48.680893
 FR,Bouthéon,"https://www.garesetconnexions.sncf/fr/gares-services/boutheon/horaires#main-content",4.2777187,45.5246289
@@ -384,11 +384,11 @@ FR,Brignais,"https://www.garesetconnexions.sncf/fr/gares-services/brignais/horai
 FR,Brignoud,"https://www.garesetconnexions.sncf/fr/gares-services/brignoud/horaires#main-content",5.901472,45.26245
 FR,Brimeux,"https://www.garesetconnexions.sncf/fr/gares-services/brimeux/horaires#main-content",1.8313826,50.4470409
 FR,Brion - Laizy,"https://www.garesetconnexions.sncf/fr/gares-services/brion-laizy/horaires#main-content",,
-FR,Brion - Montréal-la-Cluse,"https://www.garesetconnexions.sncf/fr/gares-services/brion-montreal-la-cluse/horaires#main-content",5.5585203,46.1757013
+FR,Brion - Montréal-la-Cluse,"https://www.garesetconnexions.sncf/fr/gares-services/brion-montreal-cluse/horaires#main-content",5.5585203,46.1757013
 FR,Brionne,"https://www.garesetconnexions.sncf/fr/gares-services/brionne/horaires#main-content",0.7115304,49.1964187
 FR,Brioude,"https://www.garesetconnexions.sncf/fr/gares-services/brioude/horaires#main-content",3.3786344,45.3006493
 FR,Briouze,"https://www.garesetconnexions.sncf/fr/gares-services/briouze/horaires#main-content",-0.3682036,48.7018622
-FR,Brive-la-Gaillarde,"https://www.garesetconnexions.sncf/fr/gares-services/brive-la-gaillarde/horaires#main-content",1.528655,45.152618
+FR,Brive-la-Gaillarde,"https://www.garesetconnexions.sncf/fr/gares-services/brive-gaillarde/horaires#main-content",1.528655,45.152618
 FR,Broons,"https://www.garesetconnexions.sncf/fr/gares-services/broons/horaires#main-content",-2.2356578,48.3332957
 FR,Brou,"https://www.garesetconnexions.sncf/fr/gares-services/brou/horaires#main-content",1.1606705,48.2157588
 FR,Broye,"https://www.garesetconnexions.sncf/fr/gares-services/broye/horaires#main-content",4.2960996,46.8619444
@@ -440,7 +440,7 @@ FR,Cambrai,"https://www.garesetconnexions.sncf/fr/gares-services/cambrai/horaire
 FR,Campagnac - Saint-Geniez,"https://www.garesetconnexions.sncf/fr/gares-services/campagnac-saint-geniez/horaires#main-content",3.0664008,44.4219559
 FR,Campagne-sur-Aude,"https://www.garesetconnexions.sncf/fr/gares-services/campagne-aude/horaires#main-content",,
 FR,Cannes,"https://www.garesetconnexions.sncf/fr/gares-services/cannes/horaires#main-content",7.019682,43.553839
-FR,Cannes La Bocca,"https://www.garesetconnexions.sncf/fr/gares-services/cannes-la-bocca/horaires#main-content",6.986601,43.548787
+FR,Cannes La Bocca,"https://www.garesetconnexions.sncf/fr/gares-services/cannes-bocca/horaires#main-content",6.986601,43.548787
 FR,Cantin,"https://www.garesetconnexions.sncf/fr/gares-services/cantin/horaires#main-content",3.121943,50.3124545
 FR,Cap-d'Ail,"https://www.garesetconnexions.sncf/fr/gares-services/cap-d'ail/horaires#main-content",7.3943362,43.7205382
 FR,Capdenac,"https://www.garesetconnexions.sncf/fr/gares-services/capdenac/horaires#main-content",2.0779632,44.5782458
@@ -463,7 +463,7 @@ FR,Cassis,"https://www.garesetconnexions.sncf/fr/gares-services/cassis/horaires#
 FR,Castelnau-d'Estrétefonds,"https://www.garesetconnexions.sncf/fr/gares-services/castelnau-d'estretefonds/horaires#main-content",1.341761,43.786196
 FR,Castelnaudary,"https://www.garesetconnexions.sncf/fr/gares-services/castelnaudary/horaires#main-content",1.95039,43.312292
 FR,Castelsarrasin,"https://www.garesetconnexions.sncf/fr/gares-services/castelsarrasin/horaires#main-content",1.1143954,44.0403503
-FR,Castillon-la-Bataille,"https://www.garesetconnexions.sncf/fr/gares-services/castillon-la-bataille/horaires#main-content",-0.04066,44.856999
+FR,Castillon-la-Bataille,"https://www.garesetconnexions.sncf/fr/gares-services/castillon-bataille/horaires#main-content",-0.04066,44.856999
 FR,Castres,"https://www.garesetconnexions.sncf/fr/gares-services/castres/horaires#main-content",2.231223,43.599131
 FR,Cattenières,"https://www.garesetconnexions.sncf/fr/gares-services/cattenieres/horaires#main-content",3.3337877,50.1280738
 FR,Caudrot,"https://www.garesetconnexions.sncf/fr/gares-services/caudrot/horaires#main-content",-0.1452784,44.5801152
@@ -479,7 +479,7 @@ FR,Ceintrey,"https://www.garesetconnexions.sncf/fr/gares-services/ceintrey/horai
 FR,Cenon,"https://www.garesetconnexions.sncf/fr/gares-services/cenon/horaires#main-content",-0.5336487,44.8563465
 FR,Cerbère,"https://www.garesetconnexions.sncf/fr/gares-services/cerbere/horaires#main-content",3.1634033,42.4417732
 FR,Cercottes,"https://www.garesetconnexions.sncf/fr/gares-services/cercottes/horaires#main-content",1.8849813,47.9861553
-FR,Cercy-la-Tour,"https://www.garesetconnexions.sncf/fr/gares-services/cercy-la-tour/horaires#main-content",3.6452029,46.8578816
+FR,Cercy-la-Tour,"https://www.garesetconnexions.sncf/fr/gares-services/cercy-tour/horaires#main-content",3.6452029,46.8578816
 FR,Cergy Préfecture,"https://www.garesetconnexions.sncf/fr/gares-services/cergy-prefecture/horaires#main-content",2.07982,49.03639
 FR,Cergy Saint-Christophe,"https://www.garesetconnexions.sncf/fr/gares-services/cergy-saint-christophe/horaires#main-content",2.0343975,49.0496151
 FR,Cergy le Haut,"https://www.garesetconnexions.sncf/fr/gares-services/cergy-haut/horaires#main-content",2.0118725,49.0484932
@@ -586,7 +586,7 @@ FR,Château-Gaillard,"https://www.garesetconnexions.sncf/fr/gares-services/chate
 FR,Château-Renault,"https://www.garesetconnexions.sncf/fr/gares-services/chateau-renault/horaires#main-content",0.9015238,47.5877961
 FR,Château-Thierry,"https://www.garesetconnexions.sncf/fr/gares-services/chateau-thierry/horaires#main-content",3.409514,49.038224
 FR,Château-du-Loir,"https://www.garesetconnexions.sncf/fr/gares-services/chateau-du-loir/horaires#main-content",0.414912,47.683392
-FR,Château-l'Évêque,"https://www.garesetconnexions.sncf/fr/gares-services/chateau-l'eveque/horaires#main-content",0.6882106,45.2445887
+FR,Château-l'Évêque,"https://www.garesetconnexions.sncf/fr/gares-services/chateau-eveque/horaires#main-content",0.6882106,45.2445887
 FR,Châteaubourg,"https://www.garesetconnexions.sncf/fr/gares-services/chateaubourg/horaires#main-content",-1.405159,48.106361
 FR,Châteaubriant,"https://www.garesetconnexions.sncf/fr/gares-services/chateaubriant/horaires#main-content",,
 FR,Châteaubriant,"https://www.garesetconnexions.sncf/fr/gares-services/chateaubriant/horaires#main-content",-1.3715152,47.7175212
@@ -605,7 +605,7 @@ FR,Châtillon d'Azergues,"https://www.garesetconnexions.sncf/fr/gares-services/c
 FR,Chèvremont,"https://www.garesetconnexions.sncf/fr/gares-services/chevremont/horaires#main-content",,
 FR,Chépy - Valines,"https://www.garesetconnexions.sncf/fr/gares-services/chepy-valines/horaires#main-content",,
 FR,Chézy-sur-Marne,"https://www.garesetconnexions.sncf/fr/gares-services/chezy-marne/horaires#main-content",3.3644624,48.9919109
-FR,Cinq-Mars-la-Pile,"https://www.garesetconnexions.sncf/fr/gares-services/cinq-mars-la-pile/horaires#main-content",0.4604878,47.3452264
+FR,Cinq-Mars-la-Pile,"https://www.garesetconnexions.sncf/fr/gares-services/cinq-mars-pile/horaires#main-content",0.4604878,47.3452264
 FR,Cintegabelle,"https://www.garesetconnexions.sncf/fr/gares-services/cintegabelle/horaires#main-content",1.5204268,43.3054202
 FR,Cires-lès-Mello,"https://www.garesetconnexions.sncf/fr/gares-services/cires-mello/horaires#main-content",2.3601903,49.2717956
 FR,Ciry-le-Noble,"https://www.garesetconnexions.sncf/fr/gares-services/ciry-noble/horaires#main-content",4.2997146,46.6040913
@@ -615,8 +615,8 @@ FR,Clacy - Mons,"https://www.garesetconnexions.sncf/fr/gares-services/clacy-mons
 FR,Clamart,"https://www.garesetconnexions.sncf/fr/gares-services/clamart/horaires#main-content",2.2733273,48.813844
 FR,Clamecy,"https://www.garesetconnexions.sncf/fr/gares-services/clamecy/horaires#main-content",3.5207672,47.4666984
 FR,Clelles - Mens,"https://www.garesetconnexions.sncf/fr/gares-services/clelles-mens/horaires#main-content",5.6050622,44.8272443
-FR,Clermont La Pardieu,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-la-pardieu/horaires#main-content",3.134163,45.766947
-FR,Clermont La Rotonde,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-la-rotonde/horaires#main-content",3.0909704,45.7680954
+FR,Clermont La Pardieu,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-pardieu/horaires#main-content",3.134163,45.766947
+FR,Clermont La Rotonde,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-rotonde/horaires#main-content",3.0909704,45.7680954
 FR,Clermont de l'Oise,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-l'oise/horaires#main-content",2.41767,49.38531
 FR,Clermont-Ferrand,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-ferrand/horaires#main-content",3.100543,45.778945
 FR,Clermont-en-Argonne,"https://www.garesetconnexions.sncf/fr/gares-services/clermont-argonne/horaires#main-content",,
@@ -643,7 +643,7 @@ FR,Colomiers,"https://www.garesetconnexions.sncf/fr/gares-services/colomiers/hor
 FR,Colomiers Lycée International,"https://www.garesetconnexions.sncf/fr/gares-services/colomiers-lycee-international/horaires#main-content",1.3141157,43.6163055
 FR,Colroy - Lubine,"https://www.garesetconnexions.sncf/fr/gares-services/colroy-lubine/horaires#main-content",,
 FR,Combourg,"https://www.garesetconnexions.sncf/fr/gares-services/combourg/horaires#main-content",-1.72792,48.41609
-FR,Combs-la-Ville - Quincy,"https://www.garesetconnexions.sncf/fr/gares-services/combs-la-ville-quincy/horaires#main-content",2.547798,48.667179
+FR,Combs-la-Ville - Quincy,"https://www.garesetconnexions.sncf/fr/gares-services/combs-ville-quincy/horaires#main-content",2.547798,48.667179
 FR,Comines,"https://www.garesetconnexions.sncf/fr/gares-services/comines/horaires#main-content",,
 FR,Commentry,"https://www.garesetconnexions.sncf/fr/gares-services/commentry/horaires#main-content",2.739949,46.295102
 FR,Commercy,"https://www.garesetconnexions.sncf/fr/gares-services/commercy/horaires#main-content",5.58861,48.765749
@@ -707,14 +707,14 @@ FR,Crest,"https://www.garesetconnexions.sncf/fr/gares-services/crest/horaires#ma
 FR,Creutzwald,"https://www.garesetconnexions.sncf/fr/gares-services/creutzwald/horaires#main-content",,
 FR,Crissé,"https://www.garesetconnexions.sncf/fr/gares-services/crisse/horaires#main-content",,
 FR,Croix - Wasquehal,"https://www.garesetconnexions.sncf/fr/gares-services/croix-wasquehal/horaires#main-content",3.1380315,50.6785574
-FR,Croix L'Allumette,"https://www.garesetconnexions.sncf/fr/gares-services/croix-l'allumette/horaires#main-content",3.1516591,50.6872009
+FR,Croix L'Allumette,"https://www.garesetconnexions.sncf/fr/gares-services/croix-allumette/horaires#main-content",3.1516591,50.6872009
 FR,Croix Sainte,"https://www.garesetconnexions.sncf/fr/gares-services/croix-sainte/horaires#main-content",5.0196445,43.4088317
 FR,Croix du Prince,"https://www.garesetconnexions.sncf/fr/gares-services/croix-du-prince/horaires#main-content",-0.3791261,43.2857104
 FR,Cros de Cagnes,"https://www.garesetconnexions.sncf/fr/gares-services/cros-cagnes/horaires#main-content",7.167111,43.660465
 FR,Crouy,"https://www.garesetconnexions.sncf/fr/gares-services/crouy/horaires#main-content",3.3569138,49.4037093
 FR,Crouy-sur-Ourcq,"https://www.garesetconnexions.sncf/fr/gares-services/crouy-ourcq/horaires#main-content",3.063081,49.091821
-FR,Crécy-la-Chapelle,"https://www.garesetconnexions.sncf/fr/gares-services/crecy-la-chapelle/horaires#main-content",2.905748,48.859391
-FR,Crépieux la Pape,"https://www.garesetconnexions.sncf/fr/gares-services/crepieux-la-pape/horaires#main-content",4.8922918,45.8038348
+FR,Crécy-la-Chapelle,"https://www.garesetconnexions.sncf/fr/gares-services/crecy-chapelle/horaires#main-content",2.905748,48.859391
+FR,Crépieux la Pape,"https://www.garesetconnexions.sncf/fr/gares-services/crepieux-pape/horaires#main-content",4.8922918,45.8038348
 FR,Crépy - Couvron,"https://www.garesetconnexions.sncf/fr/gares-services/crepy-couvron/horaires#main-content",3.5167165,49.6233401
 FR,Crépy-en-Valois,"https://www.garesetconnexions.sncf/fr/gares-services/crepy-valois/horaires#main-content",2.8864694,49.231235
 FR,Créteil Pompadour,"https://www.garesetconnexions.sncf/fr/gares-services/creteil-pompadour/horaires#main-content",2.4352763,48.7715403
@@ -727,7 +727,7 @@ FR,Culmont - Chalindrey,"https://www.garesetconnexions.sncf/fr/gares-services/cu
 FR,Culoz,"https://www.garesetconnexions.sncf/fr/gares-services/culoz/horaires#main-content",5.778784,45.843264
 FR,Cérons,"https://www.garesetconnexions.sncf/fr/gares-services/cerons/horaires#main-content",-0.340526,44.632346
 FR,Dachstein,"https://www.garesetconnexions.sncf/fr/gares-services/dachstein/horaires#main-content",7.5330038,48.5428546
-FR,Dambach-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/dambach-la-ville/horaires#main-content",7.4355565,48.3216345
+FR,Dambach-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/dambach-ville/horaires#main-content",7.4355565,48.3216345
 FR,Damblain,"https://www.garesetconnexions.sncf/fr/gares-services/damblain/horaires#main-content",,
 FR,Damiatte - Saint-Paul,"https://www.garesetconnexions.sncf/fr/gares-services/damiatte-saint-paul/horaires#main-content",1.9733585,43.6566194
 FR,Dammartin - Juilly - Saint-Mard,"https://www.garesetconnexions.sncf/fr/gares-services/dammartin-juilly-saint-mard/horaires#main-content",2.69887,49.03219
@@ -788,7 +788,7 @@ FR,Dorlisheim,"https://www.garesetconnexions.sncf/fr/gares-services/dorlisheim/h
 FR,Dormans,"https://www.garesetconnexions.sncf/fr/gares-services/dormans/horaires#main-content",3.641709,49.0791611
 FR,Douai,"https://www.garesetconnexions.sncf/fr/gares-services/douai/horaires#main-content",3.089986,50.371677
 FR,Dourdan,"https://www.garesetconnexions.sncf/fr/gares-services/dourdan/horaires#main-content",2.009643,48.533466
-FR,Dourdan La Forêt,"https://www.garesetconnexions.sncf/fr/gares-services/dourdan-la-foret/horaires#main-content",1.994908,48.535314
+FR,Dourdan La Forêt,"https://www.garesetconnexions.sncf/fr/gares-services/dourdan-foret/horaires#main-content",1.994908,48.535314
 FR,Dourges,"https://www.garesetconnexions.sncf/fr/gares-services/dourges/horaires#main-content",2.98697,50.43192
 FR,Douzillac,"https://www.garesetconnexions.sncf/fr/gares-services/douzillac/horaires#main-content",,
 FR,Drancy,"https://www.garesetconnexions.sncf/fr/gares-services/drancy/horaires#main-content",2.45497,48.93298
@@ -798,7 +798,7 @@ FR,Dreuil-lès-Amiens,"https://www.garesetconnexions.sncf/fr/gares-services/dreu
 FR,Dreux,"https://www.garesetconnexions.sncf/fr/gares-services/dreux/horaires#main-content",1.3701604,48.7314561
 FR,Drusenheim,"https://www.garesetconnexions.sncf/fr/gares-services/drusenheim/horaires#main-content",7.9478463,48.7659128
 FR,Druye,"https://www.garesetconnexions.sncf/fr/gares-services/druye/horaires#main-content",0.5354805,47.3070191
-FR,Dugny - La Courneuve T11,"https://www.garesetconnexions.sncf/fr/gares-services/dugny-la-courneuve-t11/horaires#main-content",2.4115,48.9439
+FR,Dugny - La Courneuve T11,"https://www.garesetconnexions.sncf/fr/gares-services/dugny-courneuve-t11/horaires#main-content",2.4115,48.9439
 FR,Dunkerque,"https://www.garesetconnexions.sncf/fr/gares-services/dunkerque/horaires#main-content",2.368961,51.03047
 FR,Duppigheim,"https://www.garesetconnexions.sncf/fr/gares-services/duppigheim/horaires#main-content",7.5868091,48.5439674
 FR,Durtol - Nohanent,"https://www.garesetconnexions.sncf/fr/gares-services/durtol-nohanent/horaires#main-content",3.048557,45.7947707
@@ -933,8 +933,8 @@ FR,Gandrange - Amnéville,"https://www.garesetconnexions.sncf/fr/gares-services/
 FR,Gannat,"https://www.garesetconnexions.sncf/fr/gares-services/gannat/horaires#main-content",3.2047514,46.0975964
 FR,Gannes,"https://www.garesetconnexions.sncf/fr/gares-services/gannes/horaires#main-content",2.4370074,49.5723315
 FR,Gap,"https://www.garesetconnexions.sncf/fr/gares-services/gap/horaires#main-content",6.085638,44.563693
-FR,Garancières - La Queue,"https://www.garesetconnexions.sncf/fr/gares-services/garancieres-la-queue/horaires#main-content",1.7647546,48.8106338
-FR,Garches - Marnes-la-Coquette,"https://www.garesetconnexions.sncf/fr/gares-services/garches-marnes-la-coquette/horaires#main-content",2.18692,48.83839
+FR,Garancières - La Queue,"https://www.garesetconnexions.sncf/fr/gares-services/garancieres-queue/horaires#main-content",1.7647546,48.8106338
+FR,Garches - Marnes-la-Coquette,"https://www.garesetconnexions.sncf/fr/gares-services/garches-marnes-coquette/horaires#main-content",2.18692,48.83839
 FR,Garchizy,"https://www.garesetconnexions.sncf/fr/gares-services/garchizy/horaires#main-content",3.0858769,47.0429987
 FR,Gardanne,"https://www.garesetconnexions.sncf/fr/gares-services/gardanne/horaires#main-content",5.463332,43.455992
 FR,Gardonne,"https://www.garesetconnexions.sncf/fr/gares-services/gardonne/horaires#main-content",0.3319427,44.8347538
@@ -980,7 +980,7 @@ FR,Graffenwald,"https://www.garesetconnexions.sncf/fr/gares-services/graffenwald
 FR,Gragnague,"https://www.garesetconnexions.sncf/fr/gares-services/gragnague/horaires#main-content",1.567731,43.696179
 FR,Gramat,"https://www.garesetconnexions.sncf/fr/gares-services/gramat/horaires#main-content",1.7223028,44.7734284
 FR,Grand Bourg,"https://www.garesetconnexions.sncf/fr/gares-services/grand-bourg/horaires#main-content",2.435939,48.648004
-FR,Grand-Combe la Pise,"https://www.garesetconnexions.sncf/fr/gares-services/grand-combe-la-pise/horaires#main-content",4.0329591,44.2098159
+FR,Grand-Combe la Pise,"https://www.garesetconnexions.sncf/fr/gares-services/grand-combe-pise/horaires#main-content",4.0329591,44.2098159
 FR,Grande-Synthe,"https://www.garesetconnexions.sncf/fr/gares-services/grande-synthe/horaires#main-content",2.3133547,51.0026884
 FR,Grandvillars,"https://www.garesetconnexions.sncf/fr/gares-services/grandvillars/horaires#main-content",6.9785,47.53763
 FR,Grandvilliers,"https://www.garesetconnexions.sncf/fr/gares-services/grandvilliers/horaires#main-content",1.9384836,49.6593779
@@ -1009,7 +1009,7 @@ FR,Guingamp,"https://www.garesetconnexions.sncf/fr/gares-services/guingamp/horai
 FR,Gujan-Mestras,"https://www.garesetconnexions.sncf/fr/gares-services/gujan-mestras/horaires#main-content",-1.06906,44.640454
 FR,Gundershoffen,"https://www.garesetconnexions.sncf/fr/gares-services/gundershoffen/horaires#main-content",7.6535345,48.905261
 FR,Gunsbach - Griesbach,"https://www.garesetconnexions.sncf/fr/gares-services/gunsbach-griesbach/horaires#main-content",7.1748407,48.0414908
-FR,Guérard - La Celle-sur-Morin,"https://www.garesetconnexions.sncf/fr/gares-services/guerard-la-celle-morin/horaires#main-content",2.954783,48.810588
+FR,Guérard - La Celle-sur-Morin,"https://www.garesetconnexions.sncf/fr/gares-services/guerard-celle-morin/horaires#main-content",2.954783,48.810588
 FR,Guéret,"https://www.garesetconnexions.sncf/fr/gares-services/gueret/horaires#main-content",1.8793855,46.1741863
 FR,Guéthary,"https://www.garesetconnexions.sncf/fr/gares-services/guethary/horaires#main-content",-1.6098615,43.4253491
 FR,Génelard,"https://www.garesetconnexions.sncf/fr/gares-services/genelard/horaires#main-content",4.2379965,46.5812177
@@ -1104,11 +1104,11 @@ FR,Iteuil,"https://www.garesetconnexions.sncf/fr/gares-services/iteuil/horaires#
 FR,Itxassou,"https://www.garesetconnexions.sncf/fr/gares-services/itxassou/horaires#main-content",-1.3956111,43.324043
 FR,Ivry-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/ivry-seine/horaires#main-content",2.39099,48.814371
 FR,Iwuy,"https://www.garesetconnexions.sncf/fr/gares-services/iwuy/horaires#main-content",3.3298634,50.2255015
-FR,Jacques Monod la Demi-Lieue,"https://www.garesetconnexions.sncf/fr/gares-services/jacques-monod-la-demi-lieue/horaires#main-content",,
+FR,Jacques Monod la Demi-Lieue,"https://www.garesetconnexions.sncf/fr/gares-services/jacques-monod-demi-lieue/horaires#main-content",,
 FR,Janzé,"https://www.garesetconnexions.sncf/fr/gares-services/janze/horaires#main-content",-1.497538,47.955364
 FR,Jarnac,"https://www.garesetconnexions.sncf/fr/gares-services/jarnac/horaires#main-content",-0.1777613,45.6711292
 FR,Jarrie - Vizille,"https://www.garesetconnexions.sncf/fr/gares-services/jarrie-vizille/horaires#main-content",5.7424487,45.0854543
-FR,Jarville-la-Malgrange,"https://www.garesetconnexions.sncf/fr/gares-services/jarville-la-malgrange/horaires#main-content",6.2024643,48.6698381
+FR,Jarville-la-Malgrange,"https://www.garesetconnexions.sncf/fr/gares-services/jarville-malgrange/horaires#main-content",6.2024643,48.6698381
 FR,Jassonneix,"https://www.garesetconnexions.sncf/fr/gares-services/jassonneix/horaires#main-content",,
 FR,Jaunay-Clan,"https://www.garesetconnexions.sncf/fr/gares-services/jaunay-clan/horaires#main-content",0.3816535,46.682044
 FR,Jaux,"https://www.garesetconnexions.sncf/fr/gares-services/jaux/horaires#main-content",2.777316,49.3868029
@@ -1141,25 +1141,25 @@ FR,Kruth,"https://www.garesetconnexions.sncf/fr/gares-services/kruth/horaires#ma
 FR,Kuntzig,"https://www.garesetconnexions.sncf/fr/gares-services/kuntzig/horaires#main-content",,
 FR,Kurtzenhouse,"https://www.garesetconnexions.sncf/fr/gares-services/kurtzenhouse/horaires#main-content",7.8130449,48.741862
 FR,Kédange,"https://www.garesetconnexions.sncf/fr/gares-services/kedange/horaires#main-content",,
-FR,L'Abbaye,"https://www.garesetconnexions.sncf/fr/gares-services/l'abbaye/horaires#main-content",2.516874,48.922211
-FR,L'Aigle,"https://www.garesetconnexions.sncf/fr/gares-services/l'aigle/horaires#main-content",0.620014,48.766229
-FR,L'Aiguille,"https://www.garesetconnexions.sncf/fr/gares-services/l'aiguille/horaires#main-content",1.2049024,45.7783702
-FR,L'Arbresle,"https://www.garesetconnexions.sncf/fr/gares-services/l'arbresle/horaires#main-content",4.618319,45.833299
-FR,L'Argentière Les Écrins,"https://www.garesetconnexions.sncf/fr/gares-services/l'argentiere-ecrins/horaires#main-content",6.5564162,44.7909802
-FR,L'Ariane La Trinité,"https://www.garesetconnexions.sncf/fr/gares-services/l'ariane-la-trinite/horaires#main-content",7.3025298,43.7343716
-FR,L'Escarène,"https://www.garesetconnexions.sncf/fr/gares-services/l'escarene/horaires#main-content",,
-FR,L'Estaque,"https://www.garesetconnexions.sncf/fr/gares-services/l'estaque/horaires#main-content",5.3213598,43.363628
-FR,L'Etang les Sablons,"https://www.garesetconnexions.sncf/fr/gares-services/l'etang-sablons/horaires#main-content",2.0688744062680113,48.872302065217156
-FR,L'Herbergement - Les Brouzils,"https://www.garesetconnexions.sncf/fr/gares-services/l'herbergement-brouzils/horaires#main-content",-1.3712431,46.9069172
-FR,L'Hermitage - Mordelles,"https://www.garesetconnexions.sncf/fr/gares-services/l'hermitage-mordelles/horaires#main-content",-1.8192987,48.123142
-FR,L'Hôpital-du-Grosbois,"https://www.garesetconnexions.sncf/fr/gares-services/l'hopital-du-grosbois/horaires#main-content",6.2130861,47.1691016
-FR,L'Isle-Adam - Parmain,"https://www.garesetconnexions.sncf/fr/gares-services/l'isle-adam-parmain/horaires#main-content",2.20976,49.11482
-FR,L'Isle-Jourdain,"https://www.garesetconnexions.sncf/fr/gares-services/l'isle-jourdain/horaires#main-content",1.089829,43.617185
-FR,L'Isle-d'Abeau,"https://www.garesetconnexions.sncf/fr/gares-services/l'isle-d'abeau/horaires#main-content",5.21969,45.607645
-FR,L'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse,"https://www.garesetconnexions.sncf/fr/gares-services/l'isle-la-sorgue-fontaine-vaucluse/horaires#main-content",5.047615,43.917393
-FR,L'Isle-sur-le-Doubs,"https://www.garesetconnexions.sncf/fr/gares-services/l'isle-le-doubs/horaires#main-content",6.5812614,47.4473777
-FR,L'Isthme,"https://www.garesetconnexions.sncf/fr/gares-services/l'isthme/horaires#main-content",-3.1335359717958777,47.54653639699773
-FR,L'Étang-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/l'etang-la-ville/horaires#main-content",2.0766932,48.86822
+FR,L'Abbaye,"https://www.garesetconnexions.sncf/fr/gares-services/abbaye/horaires#main-content",2.516874,48.922211
+FR,L'Aigle,"https://www.garesetconnexions.sncf/fr/gares-services/aigle/horaires#main-content",0.620014,48.766229
+FR,L'Aiguille,"https://www.garesetconnexions.sncf/fr/gares-services/aiguille/horaires#main-content",1.2049024,45.7783702
+FR,L'Arbresle,"https://www.garesetconnexions.sncf/fr/gares-services/arbresle/horaires#main-content",4.618319,45.833299
+FR,L'Argentière Les Écrins,"https://www.garesetconnexions.sncf/fr/gares-services/argentiere-ecrins/horaires#main-content",6.5564162,44.7909802
+FR,L'Ariane La Trinité,"https://www.garesetconnexions.sncf/fr/gares-services/ariane-trinite/horaires#main-content",7.3025298,43.7343716
+FR,L'Escarène,"https://www.garesetconnexions.sncf/fr/gares-services/escarene/horaires#main-content",,
+FR,L'Estaque,"https://www.garesetconnexions.sncf/fr/gares-services/estaque/horaires#main-content",5.3213598,43.363628
+FR,L'Etang les Sablons,"https://www.garesetconnexions.sncf/fr/gares-services/etang-sablons/horaires#main-content",2.0688744062680113,48.872302065217156
+FR,L'Herbergement - Les Brouzils,"https://www.garesetconnexions.sncf/fr/gares-services/herbergement-brouzils/horaires#main-content",-1.3712431,46.9069172
+FR,L'Hermitage - Mordelles,"https://www.garesetconnexions.sncf/fr/gares-services/hermitage-mordelles/horaires#main-content",-1.8192987,48.123142
+FR,L'Hôpital-du-Grosbois,"https://www.garesetconnexions.sncf/fr/gares-services/hopital-du-grosbois/horaires#main-content",6.2130861,47.1691016
+FR,L'Isle-Adam - Parmain,"https://www.garesetconnexions.sncf/fr/gares-services/isle-adam-parmain/horaires#main-content",2.20976,49.11482
+FR,L'Isle-Jourdain,"https://www.garesetconnexions.sncf/fr/gares-services/isle-jourdain/horaires#main-content",1.089829,43.617185
+FR,L'Isle-d'Abeau,"https://www.garesetconnexions.sncf/fr/gares-services/isle-d'abeau/horaires#main-content",5.21969,45.607645
+FR,L'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse,"https://www.garesetconnexions.sncf/fr/gares-services/isle-la-sorgue-fontaine-vaucluse/horaires#main-content",5.047615,43.917393
+FR,L'Isle-sur-le-Doubs,"https://www.garesetconnexions.sncf/fr/gares-services/isle-le-doubs/horaires#main-content",6.5812614,47.4473777
+FR,L'Isthme,"https://www.garesetconnexions.sncf/fr/gares-services/isthme/horaires#main-content",-3.1335359717958777,47.54653639699773
+FR,L'Étang-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/etang-ville/horaires#main-content",2.0766932,48.86822
 FR,La Bachellerie,"https://www.garesetconnexions.sncf/fr/gares-services/la-bachellerie/horaires#main-content",,
 FR,La Barasse,"https://www.garesetconnexions.sncf/fr/gares-services/la-barasse/horaires#main-content",5.4845101,43.2858384
 FR,La Barre Ormesson,"https://www.garesetconnexions.sncf/fr/gares-services/la-barre-ormesson/horaires#main-content",2.31688,48.96633
@@ -1388,11 +1388,11 @@ FR,Le Luc - Le Cannet,"https://www.garesetconnexions.sncf/fr/gares-services/le-l
 FR,Le Mans,"https://www.garesetconnexions.sncf/fr/gares-services/le-mans/horaires#main-content",0.192578,47.995689
 FR,Le Mans Hôpital-Université,"https://www.garesetconnexions.sncf/fr/gares-services/le-mans-hopital-universite/horaires#main-content",0.17445113,48.014871
 FR,Le Merlerault,"https://www.garesetconnexions.sncf/fr/gares-services/le-merlerault/horaires#main-content",,
-FR,Le Meux - La Croix-Saint-Ouen,"https://www.garesetconnexions.sncf/fr/gares-services/le-meux-la-croix-saint-ouen/horaires#main-content",2.7532645,49.3594029
+FR,Le Meux - La Croix-Saint-Ouen,"https://www.garesetconnexions.sncf/fr/gares-services/le-meux-croix-saint-ouen/horaires#main-content",2.7532645,49.3594029
 FR,Le Molay-Littry,"https://www.garesetconnexions.sncf/fr/gares-services/le-molay-littry/horaires#main-content",-0.8809741,49.2493263
 FR,Le Monastier-Pin-Moriès,"https://www.garesetconnexions.sncf/fr/gares-services/le-monastier-pin-mories/horaires#main-content",3.252057,44.5089682
 FR,Le Mée-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/le-mee-seine/horaires#main-content",2.624116,48.540086
-FR,Le Méridien La Ferrière,"https://www.garesetconnexions.sncf/fr/gares-services/le-meridien-la-ferriere/horaires#main-content",4.7484432,45.7684995
+FR,Le Méridien La Ferrière,"https://www.garesetconnexions.sncf/fr/gares-services/le-meridien-ferriere/horaires#main-content",4.7484432,45.7684995
 FR,Le Pallet,"https://www.garesetconnexions.sncf/fr/gares-services/le-pallet/horaires#main-content",-1.346898,47.143831
 FR,Le Perray-en-Yvelines,"https://www.garesetconnexions.sncf/fr/gares-services/le-perray-yvelines/horaires#main-content",1.856057,48.6933406
 FR,Le Plessis Chenet,"https://www.garesetconnexions.sncf/fr/gares-services/le-plessis-chenet/horaires#main-content",2.479586,48.5735652
@@ -1411,7 +1411,7 @@ FR,Le Soler,"https://www.garesetconnexions.sncf/fr/gares-services/le-soler/horai
 FR,Le Stade,"https://www.garesetconnexions.sncf/fr/gares-services/le-stade/horaires#main-content",2.26056,48.93093
 FR,Le Teich,"https://www.garesetconnexions.sncf/fr/gares-services/le-teich/horaires#main-content",-1.025556,44.632507
 FR,Le Teil,"https://www.garesetconnexions.sncf/fr/gares-services/le-teil/horaires#main-content",,
-FR,Le Theil - La Rouge,"https://www.garesetconnexions.sncf/fr/gares-services/le-theil-la-rouge/horaires#main-content",0.6944581,48.2672964
+FR,Le Theil - La Rouge,"https://www.garesetconnexions.sncf/fr/gares-services/le-theil-rouge/horaires#main-content",0.6944581,48.2672964
 FR,Le Theil-de-Bretagne,"https://www.garesetconnexions.sncf/fr/gares-services/le-theil-bretagne/horaires#main-content",-1.4319925,47.918742
 FR,Le Thor,"https://www.garesetconnexions.sncf/fr/gares-services/le-thor/horaires#main-content",4.9962663,43.9265047
 FR,Le Toec,"https://www.garesetconnexions.sncf/fr/gares-services/le-toec/horaires#main-content",1.4014496,43.5956037
@@ -1482,7 +1482,7 @@ FR,Lesparre-Médoc,"https://www.garesetconnexions.sncf/fr/gares-services/lesparr
 FR,Lesquin,"https://www.garesetconnexions.sncf/fr/gares-services/lesquin/horaires#main-content",3.11771,50.59068
 FR,Lesseux - Frapelle,"https://www.garesetconnexions.sncf/fr/gares-services/lesseux-frapelle/horaires#main-content",,
 FR,Lestelle-de-Saint-Martory,"https://www.garesetconnexions.sncf/fr/gares-services/lestelle-saint-martory/horaires#main-content",,
-FR,Leucate La Franqui,"https://www.garesetconnexions.sncf/fr/gares-services/leucate-la-franqui/horaires#main-content",3.0128555,42.9327725
+FR,Leucate La Franqui,"https://www.garesetconnexions.sncf/fr/gares-services/leucate-franqui/horaires#main-content",3.0128555,42.9327725
 FR,Leval,"https://www.garesetconnexions.sncf/fr/gares-services/leval/horaires#main-content",3.8366811,50.1845311
 FR,Lexos,"https://www.garesetconnexions.sncf/fr/gares-services/lexos/horaires#main-content",1.8851014,44.1423958
 FR,Lezennes,"https://www.garesetconnexions.sncf/fr/gares-services/lezennes/horaires#main-content",3.0986481,50.6205699
@@ -1560,7 +1560,7 @@ FR,Luant,"https://www.garesetconnexions.sncf/fr/gares-services/luant/horaires#ma
 FR,Lubersac,"https://www.garesetconnexions.sncf/fr/gares-services/lubersac/horaires#main-content",,
 FR,Luc,"https://www.garesetconnexions.sncf/fr/gares-services/luc/horaires#main-content",3.8915631,44.654092
 FR,Luc-en-Diois,"https://www.garesetconnexions.sncf/fr/gares-services/luc-diois/horaires#main-content",5.4546227,44.6136615
-FR,Luc-la-Primaube,"https://www.garesetconnexions.sncf/fr/gares-services/luc-la-primaube/horaires#main-content",2.5544751,44.2913982
+FR,Luc-la-Primaube,"https://www.garesetconnexions.sncf/fr/gares-services/luc-primaube/horaires#main-content",2.5544751,44.2913982
 FR,Luchon,"https://www.garesetconnexions.sncf/fr/gares-services/luchon/horaires#main-content",,
 FR,Lucé,"https://www.garesetconnexions.sncf/fr/gares-services/luce/horaires#main-content",1.4529681,48.4366725
 FR,Ludon-Médoc,"https://www.garesetconnexions.sncf/fr/gares-services/ludon-medoc/horaires#main-content",-0.6118009,44.9744015
@@ -1573,7 +1573,7 @@ FR,Lunery,"https://www.garesetconnexions.sncf/fr/gares-services/lunery/horaires#
 FR,Lunéville,"https://www.garesetconnexions.sncf/fr/gares-services/luneville/horaires#main-content",6.49727,48.588233
 FR,Lurbe-Saint-Christau,"https://www.garesetconnexions.sncf/fr/gares-services/lurbe-saint-christau/horaires#main-content",-0.60408,43.12099
 FR,Lure,"https://www.garesetconnexions.sncf/fr/gares-services/lure/horaires#main-content",6.4925787,47.683269
-FR,Lus-la-Croix-Haute,"https://www.garesetconnexions.sncf/fr/gares-services/lus-la-croix-haute/horaires#main-content",5.6973678,44.6709898
+FR,Lus-la-Croix-Haute,"https://www.garesetconnexions.sncf/fr/gares-services/lus-croix-haute/horaires#main-content",5.6973678,44.6709898
 FR,Lusignan,"https://www.garesetconnexions.sncf/fr/gares-services/lusignan/horaires#main-content",0.116555,46.4354949
 FR,Lussac-les-Châteaux,"https://www.garesetconnexions.sncf/fr/gares-services/lussac-chateaux/horaires#main-content",0.7186918,46.4051106
 FR,Luttenbach-près-Munster,"https://www.garesetconnexions.sncf/fr/gares-services/luttenbach-pres-munster/horaires#main-content",7.1186307,48.0352559
@@ -1596,7 +1596,7 @@ FR,Lyon Saint-Exupéry TGV,"https://www.garesetconnexions.sncf/fr/gares-services
 FR,Lyon Saint-Paul,"https://www.garesetconnexions.sncf/fr/gares-services/lyon-saint-paul/horaires#main-content",4.827057,45.76601
 FR,Lyon Vaise,"https://www.garesetconnexions.sncf/fr/gares-services/lyon-vaise/horaires#main-content",4.80396,45.779938
 FR,Lépanges,"https://www.garesetconnexions.sncf/fr/gares-services/lepanges/horaires#main-content",,
-FR,Lépin-le-Lac - La Bauche,"https://www.garesetconnexions.sncf/fr/gares-services/lepin-lac-la-bauche/horaires#main-content",5.7649834,45.541519
+FR,Lépin-le-Lac - La Bauche,"https://www.garesetconnexions.sncf/fr/gares-services/lepin-lac-bauche/horaires#main-content",5.7649834,45.541519
 FR,Lérouville,"https://www.garesetconnexions.sncf/fr/gares-services/lerouville/horaires#main-content",5.5387053,48.7972181
 FR,Lézignan-Corbières,"https://www.garesetconnexions.sncf/fr/gares-services/lezignan-corbieres/horaires#main-content",2.7699635,43.1999609
 FR,Macau,"https://www.garesetconnexions.sncf/fr/gares-services/macau/horaires#main-content",-0.6200068,45.0040981
@@ -1609,7 +1609,7 @@ FR,Magnac - Vicq,"https://www.garesetconnexions.sncf/fr/gares-services/magnac-vi
 FR,Magnette,"https://www.garesetconnexions.sncf/fr/gares-services/magnette/horaires#main-content",2.6028771,46.4641418
 FR,Magneux - Courlandon,"https://www.garesetconnexions.sncf/fr/gares-services/magneux-courlandon/horaires#main-content",3.7331444,49.3100006
 FR,Magny - Blandainville,"https://www.garesetconnexions.sncf/fr/gares-services/magny-blandainville/horaires#main-content",1.2811066,48.3342906
-FR,Mailly-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/mailly-la-ville/horaires#main-content",3.6751472,47.6041692
+FR,Mailly-la-Ville,"https://www.garesetconnexions.sncf/fr/gares-services/mailly-ville/horaires#main-content",3.6751472,47.6041692
 FR,Maillé,"https://www.garesetconnexions.sncf/fr/gares-services/maille/horaires#main-content",0.5830236,47.0533855
 FR,Maintenon,"https://www.garesetconnexions.sncf/fr/gares-services/maintenon/horaires#main-content",1.5920651,48.5854793
 FR,Maisons-Alfort - Alfortville,"https://www.garesetconnexions.sncf/fr/gares-services/maisons-alfort-alfortville/horaires#main-content",2.426977,48.802071
@@ -1622,10 +1622,10 @@ FR,Malause,"https://www.garesetconnexions.sncf/fr/gares-services/malause/horaire
 FR,Malesherbes,"https://www.garesetconnexions.sncf/fr/gares-services/malesherbes/horaires#main-content",2.4012177,48.2934325
 FR,Malling,"https://www.garesetconnexions.sncf/fr/gares-services/malling/horaires#main-content",6.302207,49.42152
 FR,Mamirolle,"https://www.garesetconnexions.sncf/fr/gares-services/mamirolle/horaires#main-content",6.1617411,47.1998712
-FR,Mandelieu-la-Napoule,"https://www.garesetconnexions.sncf/fr/gares-services/mandelieu-la-napoule/horaires#main-content",6.941313,43.523903
+FR,Mandelieu-la-Napoule,"https://www.garesetconnexions.sncf/fr/gares-services/mandelieu-napoule/horaires#main-content",6.941313,43.523903
 FR,Manosque - Gréoux-les-Bains,"https://www.garesetconnexions.sncf/fr/gares-services/manosque-greoux-bains/horaires#main-content",5.7933241,43.8231945
 FR,Mantes Station,"https://www.garesetconnexions.sncf/fr/gares-services/mantes-station/horaires#main-content",1.71581,48.98366
-FR,Mantes-la-Jolie,"https://www.garesetconnexions.sncf/fr/gares-services/mantes-la-jolie/horaires#main-content",1.70337,48.98984
+FR,Mantes-la-Jolie,"https://www.garesetconnexions.sncf/fr/gares-services/mantes-jolie/horaires#main-content",1.70337,48.98984
 FR,Marans,"https://www.garesetconnexions.sncf/fr/gares-services/marans/horaires#main-content",,
 FR,Marbache,"https://www.garesetconnexions.sncf/fr/gares-services/marbache/horaires#main-content",6.1091755,48.8010405
 FR,Marcelcave,"https://www.garesetconnexions.sncf/fr/gares-services/marcelcave/horaires#main-content",2.5819031,49.8532165
@@ -1650,7 +1650,7 @@ FR,Marly-le-Roi,"https://www.garesetconnexions.sncf/fr/gares-services/marly-roi/
 FR,Marmagne,"https://www.garesetconnexions.sncf/fr/gares-services/marmagne/horaires#main-content",2.2819971,47.1001505
 FR,Marmagne sous Creusot,"https://www.garesetconnexions.sncf/fr/gares-services/marmagne-sous-creusot/horaires#main-content",4.3601911,46.8334607
 FR,Marmande,"https://www.garesetconnexions.sncf/fr/gares-services/marmande/horaires#main-content",0.168044,44.503019
-FR,Marne-la-Vallée Chessy,"https://www.garesetconnexions.sncf/fr/gares-services/marne-la-vallee-chessy/horaires#main-content",2.78272,48.869856
+FR,Marne-la-Vallée Chessy,"https://www.garesetconnexions.sncf/fr/gares-services/marne-vallee-chessy/horaires#main-content",2.78272,48.869856
 FR,Maroeuil,"https://www.garesetconnexions.sncf/fr/gares-services/maroeuil/horaires#main-content",2.6983279,50.322603
 FR,Marolles-en-Hurepoix,"https://www.garesetconnexions.sncf/fr/gares-services/marolles-hurepoix/horaires#main-content",2.290327,48.565345
 FR,Maromme,"https://www.garesetconnexions.sncf/fr/gares-services/maromme/horaires#main-content",1.050485,49.479935
@@ -1739,7 +1739,7 @@ FR,Mitry - Claye,"https://www.garesetconnexions.sncf/fr/gares-services/mitry-cla
 FR,Modane,"https://www.garesetconnexions.sncf/fr/gares-services/modane/horaires#main-content",6.658161,45.193365
 FR,Mohon,"https://www.garesetconnexions.sncf/fr/gares-services/mohon/horaires#main-content",4.73313,49.752584
 FR,Moirans,"https://www.garesetconnexions.sncf/fr/gares-services/moirans/horaires#main-content",5.581915,45.322185
-FR,Moirans La Galifette,"https://www.garesetconnexions.sncf/fr/gares-services/moirans-la-galifette/horaires#main-content",5.56517,45.324154
+FR,Moirans La Galifette,"https://www.garesetconnexions.sncf/fr/gares-services/moirans-galifette/horaires#main-content",5.56517,45.324154
 FR,Moissac,"https://www.garesetconnexions.sncf/fr/gares-services/moissac/horaires#main-content",1.077345,44.1024178
 FR,Molsheim,"https://www.garesetconnexions.sncf/fr/gares-services/molsheim/horaires#main-content",7.50044,48.53705
 FR,Mommenheim,"https://www.garesetconnexions.sncf/fr/gares-services/mommenheim/horaires#main-content",7.6422273,48.7561587
@@ -1752,14 +1752,14 @@ FR,Monsempron-Libos,"https://www.garesetconnexions.sncf/fr/gares-services/monsem
 FR,Mont de Terre,"https://www.garesetconnexions.sncf/fr/gares-services/mont-terre/horaires#main-content",3.0966031,50.6176672
 FR,Mont-Dauphin - Guillestre,"https://www.garesetconnexions.sncf/fr/gares-services/mont-dauphin-guillestre/horaires#main-content",6.6156027,44.6746283
 FR,Mont-Dore,"https://www.garesetconnexions.sncf/fr/gares-services/mont-dore/horaires#main-content",,
-FR,Mont-Louis - La Cabanasse,"https://www.garesetconnexions.sncf/fr/gares-services/mont-louis-la-cabanasse/horaires#main-content",2.1131379,42.5020902
+FR,Mont-Louis - La Cabanasse,"https://www.garesetconnexions.sncf/fr/gares-services/mont-louis-cabanasse/horaires#main-content",2.1131379,42.5020902
 FR,Mont-de-Marsan,"https://www.garesetconnexions.sncf/fr/gares-services/mont-marsan/horaires#main-content",-0.50466,43.884898
 FR,Mont-sur-Meurthe,"https://www.garesetconnexions.sncf/fr/gares-services/mont-meurthe/horaires#main-content",6.4496444,48.5599456
 FR,Montaignac-Saint-Hippolyte,"https://www.garesetconnexions.sncf/fr/gares-services/montaignac-saint-hippolyte/horaires#main-content",,
 FR,Montaigu,"https://www.garesetconnexions.sncf/fr/gares-services/montaigu/horaires#main-content",-1.316236,46.983705
 FR,Montaigut-le-Blanc,"https://www.garesetconnexions.sncf/fr/gares-services/montaigut-blanc/horaires#main-content",1.7339815,46.1367425
 FR,Montargis,"https://www.garesetconnexions.sncf/fr/gares-services/montargis/horaires#main-content",2.742783,48.006862
-FR,Montastruc-la-Conseillère,"https://www.garesetconnexions.sncf/fr/gares-services/montastruc-la-conseillere/horaires#main-content",1.5979,43.715985
+FR,Montastruc-la-Conseillère,"https://www.garesetconnexions.sncf/fr/gares-services/montastruc-conseillere/horaires#main-content",1.5979,43.715985
 FR,Montataire,"https://www.garesetconnexions.sncf/fr/gares-services/montataire/horaires#main-content",2.4362155,49.2510365
 FR,Montauban Ville Bourbon,"https://www.garesetconnexions.sncf/fr/gares-services/montauban-ville-bourbon/horaires#main-content",1.341496,44.014387
 FR,Montauban-de-Bretagne,"https://www.garesetconnexions.sncf/fr/gares-services/montauban-bretagne/horaires#main-content",-2.052675,48.190241
@@ -1783,7 +1783,7 @@ FR,Montescourt-Lizerolles,"https://www.garesetconnexions.sncf/fr/gares-services/
 FR,Monteux,"https://www.garesetconnexions.sncf/fr/gares-services/monteux/horaires#main-content",4.9947813,44.0374619
 FR,Montfavet,"https://www.garesetconnexions.sncf/fr/gares-services/montfavet/horaires#main-content",4.873943,43.932635
 FR,Montferrand - Thoraise,"https://www.garesetconnexions.sncf/fr/gares-services/montferrand-thoraise/horaires#main-content",5.9074815,47.1847414
-FR,Montfort-l'Amaury - Méré,"https://www.garesetconnexions.sncf/fr/gares-services/montfort-l'amaury-mere/horaires#main-content",1.8153507,48.80224
+FR,Montfort-l'Amaury - Méré,"https://www.garesetconnexions.sncf/fr/gares-services/montfort-amaury-mere/horaires#main-content",1.8153507,48.80224
 FR,Montfort-le-Gesnois,"https://www.garesetconnexions.sncf/fr/gares-services/montfort-gesnois/horaires#main-content",0.4064237,48.0405657
 FR,Montfort-sur-Meu,"https://www.garesetconnexions.sncf/fr/gares-services/montfort-meu/horaires#main-content",-1.949141,48.138878
 FR,Montgeron - Crosne,"https://www.garesetconnexions.sncf/fr/gares-services/montgeron-crosne/horaires#main-content",2.462224,48.708094
@@ -1833,7 +1833,7 @@ FR,Morcenx,"https://www.garesetconnexions.sncf/fr/gares-services/morcenx/horaire
 FR,Moret - Veneux-les-Sablons,"https://www.garesetconnexions.sncf/fr/gares-services/moret-veneux-sablons/horaires#main-content",2.79941,48.37838
 FR,Moreuil,"https://www.garesetconnexions.sncf/fr/gares-services/moreuil/horaires#main-content",2.47582,49.77699
 FR,Morez,"https://www.garesetconnexions.sncf/fr/gares-services/morez/horaires#main-content",6.023578,46.5262166
-FR,Morgny-la-Pommeraye,"https://www.garesetconnexions.sncf/fr/gares-services/morgny-la-pommeraye/horaires#main-content",1.2478526,49.5232183
+FR,Morgny-la-Pommeraye,"https://www.garesetconnexions.sncf/fr/gares-services/morgny-pommeraye/horaires#main-content",1.2478526,49.5232183
 FR,Morhange,"https://www.garesetconnexions.sncf/fr/gares-services/morhange/horaires#main-content",6.6590266,48.9366239
 FR,Morières-lès-Avignon,"https://www.garesetconnexions.sncf/fr/gares-services/morieres-avignon/horaires#main-content",4.9082052,43.9414696
 FR,Morlaix,"https://www.garesetconnexions.sncf/fr/gares-services/morlaix/horaires#main-content",-3.832514,48.57797
@@ -1891,7 +1891,7 @@ FR,Najac,"https://www.garesetconnexions.sncf/fr/gares-services/najac/horaires#ma
 FR,Namps - Quevauvillers,"https://www.garesetconnexions.sncf/fr/gares-services/namps-quevauvillers/horaires#main-content",2.1053184,49.8082274
 FR,Nancy,"https://www.garesetconnexions.sncf/fr/gares-services/nancy/horaires#main-content",6.174583,48.689861
 FR,Nangis,"https://www.garesetconnexions.sncf/fr/gares-services/nangis/horaires#main-content",3.012619,48.561336
-FR,Nanterre La Folie,"https://www.garesetconnexions.sncf/fr/gares-services/nanterre-la-folie/horaires#main-content",2.224397,48.897377
+FR,Nanterre La Folie,"https://www.garesetconnexions.sncf/fr/gares-services/nanterre-folie/horaires#main-content",2.224397,48.897377
 FR,Nanterre Université,"https://www.garesetconnexions.sncf/fr/gares-services/nanterre-universite/horaires#main-content",2.2158277,48.90122
 FR,Nantes,"https://www.garesetconnexions.sncf/fr/gares-services/nantes/horaires#main-content",-1.542356,47.216148
 FR,Nanteuil - Saâcy,"https://www.garesetconnexions.sncf/fr/gares-services/nanteuil-saacy/horaires#main-content",3.2200172,48.9738082
@@ -1930,7 +1930,7 @@ FR,Niort,"https://www.garesetconnexions.sncf/fr/gares-services/niort/horaires#ma
 FR,Nissan,"https://www.garesetconnexions.sncf/fr/gares-services/nissan/horaires#main-content",,
 FR,Niversac,"https://www.garesetconnexions.sncf/fr/gares-services/niversac/horaires#main-content",0.8082195,45.1383083
 FR,Nogent - Le Perreux,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-perreux/horaires#main-content",2.494331,48.838846
-FR,Nogent-l'Artaud - Charly,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-l'artaud-charly/horaires#main-content",3.3220981,48.968872
+FR,Nogent-l'Artaud - Charly,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-artaud-charly/horaires#main-content",3.3220981,48.968872
 FR,Nogent-le-Rotrou,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-rotrou/horaires#main-content",0.8103045,48.3255926
 FR,Nogent-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-seine/horaires#main-content",3.49372888,48.49783878
 FR,Nogent-sur-Vernisson,"https://www.garesetconnexions.sncf/fr/gares-services/nogent-vernisson/horaires#main-content",2.7375773,47.8527938
@@ -1991,7 +1991,7 @@ FR,Origny-en-Thiérache,"https://www.garesetconnexions.sncf/fr/gares-services/or
 FR,Orly Ville,"https://www.garesetconnexions.sncf/fr/gares-services/orly-ville/horaires#main-content",2.40265,48.741815
 FR,Orléans,"https://www.garesetconnexions.sncf/fr/gares-services/orleans/horaires#main-content",1.904666,47.90796
 FR,Ormoy-Villers,"https://www.garesetconnexions.sncf/fr/gares-services/ormoy-villers/horaires#main-content",2.8379502,49.2003204
-FR,Orry-la-Ville - Coye,"https://www.garesetconnexions.sncf/fr/gares-services/orry-la-ville-coye/horaires#main-content",2.49,49.13895
+FR,Orry-la-Ville - Coye,"https://www.garesetconnexions.sncf/fr/gares-services/orry-ville-coye/horaires#main-content",2.49,49.13895
 FR,Ors,"https://www.garesetconnexions.sncf/fr/gares-services/ors/horaires#main-content",3.626754,50.1031718
 FR,Orthez,"https://www.garesetconnexions.sncf/fr/gares-services/orthez/horaires#main-content",-0.76776,43.484242
 FR,Osny,"https://www.garesetconnexions.sncf/fr/gares-services/osny/horaires#main-content",2.05771,49.06283
@@ -2004,7 +2004,7 @@ FR,Ouges,"https://www.garesetconnexions.sncf/fr/gares-services/ouges/horaires#ma
 FR,Oullins,"https://www.garesetconnexions.sncf/fr/gares-services/oullins/horaires#main-content",4.8135793,45.7166261
 FR,Ourscamp,"https://www.garesetconnexions.sncf/fr/gares-services/ourscamp/horaires#main-content",2.9540017,49.5341405
 FR,Oyonnax,"https://www.garesetconnexions.sncf/fr/gares-services/oyonnax/horaires#main-content",5.653338,46.259742
-FR,Ozoir-la-Ferrière,"https://www.garesetconnexions.sncf/fr/gares-services/ozoir-la-ferriere/horaires#main-content",2.689841,48.77072
+FR,Ozoir-la-Ferrière,"https://www.garesetconnexions.sncf/fr/gares-services/ozoir-ferriere/horaires#main-content",2.689841,48.77072
 FR,Pagny-le-Château,"https://www.garesetconnexions.sncf/fr/gares-services/pagny-chateau/horaires#main-content",5.2010538,47.0462492
 FR,Pagny-sur-Meuse,"https://www.garesetconnexions.sncf/fr/gares-services/pagny-meuse/horaires#main-content",5.7336468,48.6965426
 FR,Pagny-sur-Moselle,"https://www.garesetconnexions.sncf/fr/gares-services/pagny-moselle/horaires#main-content",6.0250346,48.9852003
@@ -2124,7 +2124,7 @@ FR,Pont-de-Veyle,"https://www.garesetconnexions.sncf/fr/gares-services/pont-veyl
 FR,Pont-de-l'Arche,"https://www.garesetconnexions.sncf/fr/gares-services/pont-l'arche/horaires#main-content",1.1596559,49.3170928
 FR,Pont-du-Casse,"https://www.garesetconnexions.sncf/fr/gares-services/pont-du-casse/horaires#main-content",,
 FR,Pont-du-Château,"https://www.garesetconnexions.sncf/fr/gares-services/pont-du-chateau/horaires#main-content",3.2377829,45.7885543
-FR,Pont-l'Évêque,"https://www.garesetconnexions.sncf/fr/gares-services/pont-l'eveque/horaires#main-content",0.1921947,49.2870379
+FR,Pont-l'Évêque,"https://www.garesetconnexions.sncf/fr/gares-services/pont-eveque/horaires#main-content",0.1921947,49.2870379
 FR,Pont-sur-Yonne,"https://www.garesetconnexions.sncf/fr/gares-services/pont-yonne/horaires#main-content",3.201463,48.286287
 FR,Pont-à-Mousson,"https://www.garesetconnexions.sncf/fr/gares-services/pont-a-mousson/horaires#main-content",6.050842,48.90058
 FR,Pont-à-Vendin,"https://www.garesetconnexions.sncf/fr/gares-services/pont-a-vendin/horaires#main-content",2.8751938,50.4713812
@@ -2153,7 +2153,7 @@ FR,Port-Sainte-Marie,"https://www.garesetconnexions.sncf/fr/gares-services/port-
 FR,Port-Vendres,"https://www.garesetconnexions.sncf/fr/gares-services/port-vendres/horaires#main-content",3.1025762,42.5136077
 FR,Port-de-Bouc,"https://www.garesetconnexions.sncf/fr/gares-services/port-bouc/horaires#main-content",4.9846006,43.4071317
 FR,Port-de-Piles,"https://www.garesetconnexions.sncf/fr/gares-services/port-piles/horaires#main-content",0.5989179,47.0102599
-FR,Port-la-Nouvelle,"https://www.garesetconnexions.sncf/fr/gares-services/port-la-nouvelle/horaires#main-content",3.0388188,43.0199342
+FR,Port-la-Nouvelle,"https://www.garesetconnexions.sncf/fr/gares-services/port-nouvelle/horaires#main-content",3.0388188,43.0199342
 FR,Porta,"https://www.garesetconnexions.sncf/fr/gares-services/porta/horaires#main-content",,
 FR,Porte de Clichy,"https://www.garesetconnexions.sncf/fr/gares-services/porte-clichy/horaires#main-content",2.31462,48.89399
 FR,Portet Saint-Simon,"https://www.garesetconnexions.sncf/fr/gares-services/portet-saint-simon/horaires#main-content",1.389243,43.527904
@@ -2171,7 +2171,7 @@ FR,Preignac,"https://www.garesetconnexions.sncf/fr/gares-services/preignac/horai
 FR,Presles Courcelles,"https://www.garesetconnexions.sncf/fr/gares-services/presles-courcelles/horaires#main-content",2.28759,49.11346
 FR,Prin-Deyrançon,"https://www.garesetconnexions.sncf/fr/gares-services/prin-deyrancon/horaires#main-content",-0.6365007,46.2190177
 FR,Pringy,"https://www.garesetconnexions.sncf/fr/gares-services/pringy/horaires#main-content",6.1232736,45.9395239
-FR,Prissé-la-Charrière,"https://www.garesetconnexions.sncf/fr/gares-services/prisse-la-charriere/horaires#main-content",-0.4936249,46.15277
+FR,Prissé-la-Charrière,"https://www.garesetconnexions.sncf/fr/gares-services/prisse-charriere/horaires#main-content",-0.4936249,46.15277
 FR,Prouvy - Thiant,"https://www.garesetconnexions.sncf/fr/gares-services/prouvy-thiant/horaires#main-content",3.4610838,50.3167933
 FR,Provenchères-sur-Fave,"https://www.garesetconnexions.sncf/fr/gares-services/provencheres-fave/horaires#main-content",7.0854904,48.3046291
 FR,Provins,"https://www.garesetconnexions.sncf/fr/gares-services/provins/horaires#main-content",3.302822,48.55577
@@ -2206,7 +2206,7 @@ FR,Ranchot,"https://www.garesetconnexions.sncf/fr/gares-services/ranchot/horaire
 FR,Rang-du-Fliers - Verton - Berck,"https://www.garesetconnexions.sncf/fr/gares-services/rang-du-fliers-verton-berck/horaires#main-content",1.64805,50.41579
 FR,Ranguin,"https://www.garesetconnexions.sncf/fr/gares-services/ranguin/horaires#main-content",6.9693134,43.5691636
 FR,Ranspach,"https://www.garesetconnexions.sncf/fr/gares-services/ranspach/horaires#main-content",7.01266,47.88157
-FR,Raon-l'Étape,"https://www.garesetconnexions.sncf/fr/gares-services/raon-l'etape/horaires#main-content",6.837302,48.404002
+FR,Raon-l'Étape,"https://www.garesetconnexions.sncf/fr/gares-services/raon-etape/horaires#main-content",6.837302,48.404002
 FR,Rassuen,"https://www.garesetconnexions.sncf/fr/gares-services/rassuen/horaires#main-content",4.9731266,43.4966716
 FR,Razac-sur-l'Isle,"https://www.garesetconnexions.sncf/fr/gares-services/razac-l'isle/horaires#main-content",0.5992849,45.1659287
 FR,Recquignies,"https://www.garesetconnexions.sncf/fr/gares-services/recquignies/horaires#main-content",4.0445029,50.2840466
@@ -2235,7 +2235,7 @@ FR,Ribécourt-Dreslincourt,"https://www.garesetconnexions.sncf/fr/gares-services
 FR,Richwiller,"https://www.garesetconnexions.sncf/fr/gares-services/richwiller/horaires#main-content",,
 FR,Riedseltz,"https://www.garesetconnexions.sncf/fr/gares-services/riedseltz/horaires#main-content",7.962988,48.991063
 FR,Rieux - Angicourt,"https://www.garesetconnexions.sncf/fr/gares-services/rieux-angicourt/horaires#main-content",2.5214,49.29866
-FR,Rilly-la-Montagne,"https://www.garesetconnexions.sncf/fr/gares-services/rilly-la-montagne/horaires#main-content",4.0408608,49.1664524
+FR,Rilly-la-Montagne,"https://www.garesetconnexions.sncf/fr/gares-services/rilly-montagne/horaires#main-content",4.0408608,49.1664524
 FR,Riom - Châtel-Guyon,"https://www.garesetconnexions.sncf/fr/gares-services/riom-chatel-guyon/horaires#main-content",3.120498,45.889965
 FR,Ris-Orangis,"https://www.garesetconnexions.sncf/fr/gares-services/ris-orangis/horaires#main-content",2.41442,48.659442
 FR,Rivarennes,"https://www.garesetconnexions.sncf/fr/gares-services/rivarennes/horaires#main-content",0.3618999,47.2677425
@@ -2256,7 +2256,7 @@ FR,Rolleville,"https://www.garesetconnexions.sncf/fr/gares-services/rolleville/h
 FR,Romans - Bourg-de-Péage,"https://www.garesetconnexions.sncf/fr/gares-services/romans-bourg-peage/horaires#main-content",5.0498,45.048857
 FR,Romanèche-Thorins,"https://www.garesetconnexions.sncf/fr/gares-services/romaneche-thorins/horaires#main-content",4.7421014,46.1763913
 FR,Rombas - Clouange,"https://www.garesetconnexions.sncf/fr/gares-services/rombas-clouange/horaires#main-content",6.0990538,49.2560553
-FR,Romilly-la-Puthenaye,"https://www.garesetconnexions.sncf/fr/gares-services/romilly-la-puthenaye/horaires#main-content",0.8548621,49.0039213
+FR,Romilly-la-Puthenaye,"https://www.garesetconnexions.sncf/fr/gares-services/romilly-puthenaye/horaires#main-content",0.8548621,49.0039213
 FR,Romilly-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/romilly-seine/horaires#main-content",3.728887,48.514433
 FR,Romorantin-Lanthenay,"https://www.garesetconnexions.sncf/fr/gares-services/romorantin-lanthenay/horaires#main-content",1.7390137,47.3554468
 FR,Ronchamp,"https://www.garesetconnexions.sncf/fr/gares-services/ronchamp/horaires#main-content",6.6232791,47.6990308
@@ -2294,7 +2294,7 @@ FR,Ruffey-lès-Echirey,"https://www.garesetconnexions.sncf/fr/gares-services/ruf
 FR,Rully,"https://www.garesetconnexions.sncf/fr/gares-services/rully/horaires#main-content",4.761033,46.8804303
 FR,Rumilly,"https://www.garesetconnexions.sncf/fr/gares-services/rumilly/horaires#main-content",5.947938,45.862989
 FR,Ruminghem,"https://www.garesetconnexions.sncf/fr/gares-services/ruminghem/horaires#main-content",2.1576706,50.8620636
-FR,Rungis La Fraternelle,"https://www.garesetconnexions.sncf/fr/gares-services/rungis-la-fraternelle/horaires#main-content",2.35298,48.74032
+FR,Rungis La Fraternelle,"https://www.garesetconnexions.sncf/fr/gares-services/rungis-fraternelle/horaires#main-content",2.35298,48.74032
 FR,Russ Hersbach,"https://www.garesetconnexions.sncf/fr/gares-services/russ-hersbach/horaires#main-content",7.2519246,48.4982211
 FR,Réaumont - Saint-Cassien,"https://www.garesetconnexions.sncf/fr/gares-services/reaumont-saint-cassien/horaires#main-content",5.5346895,45.3688217
 FR,Réding,"https://www.garesetconnexions.sncf/fr/gares-services/reding/horaires#main-content",7.095885,48.7429595
@@ -2313,7 +2313,7 @@ FR,Sains-du-Nord,"https://www.garesetconnexions.sncf/fr/gares-services/sains-du-
 FR,Saint-Agnan,"https://www.garesetconnexions.sncf/fr/gares-services/saint-agnan/horaires#main-content",3.8788002,46.5020038
 FR,Saint-Agne,"https://www.garesetconnexions.sncf/fr/gares-services/saint-agne/horaires#main-content",1.450209,43.579674
 FR,Saint-Aignan - Noyers,"https://www.garesetconnexions.sncf/fr/gares-services/saint-aignan-noyers/horaires#main-content",1.3838369,47.2869126
-FR,Saint-Aigulin - La Roche-Chalais,"https://www.garesetconnexions.sncf/fr/gares-services/saint-aigulin-la-roche-chalais/horaires#main-content",-0.0189768,45.1573163
+FR,Saint-Aigulin - La Roche-Chalais,"https://www.garesetconnexions.sncf/fr/gares-services/saint-aigulin-roche-chalais/horaires#main-content",-0.0189768,45.1573163
 FR,Saint-Amand-Longpré,"https://www.garesetconnexions.sncf/fr/gares-services/saint-amand-longpre/horaires#main-content",1.0119896,47.693141
 FR,Saint-Amand-Montrond - Orval,"https://www.garesetconnexions.sncf/fr/gares-services/saint-amand-montrond-orval/horaires#main-content",2.4859441,46.7265409
 FR,Saint-Amand-les-Eaux,"https://www.garesetconnexions.sncf/fr/gares-services/saint-amand-eaux/horaires#main-content",3.41952,50.44331
@@ -2333,13 +2333,13 @@ FR,Saint-Aubin-sur-Scie,"https://www.garesetconnexions.sncf/fr/gares-services/sa
 FR,Saint-Aulaire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-aulaire/horaires#main-content",1.3986965,45.2488414
 FR,Saint-Aunès,"https://www.garesetconnexions.sncf/fr/gares-services/saint-aunes/horaires#main-content",3.9628994,43.6354383
 FR,Saint-Avold,"https://www.garesetconnexions.sncf/fr/gares-services/saint-avold/horaires#main-content",6.7206141,49.085873
-FR,Saint-Avre - La Chambre,"https://www.garesetconnexions.sncf/fr/gares-services/saint-avre-la-chambre/horaires#main-content",6.3028277,45.3530978
+FR,Saint-Avre - La Chambre,"https://www.garesetconnexions.sncf/fr/gares-services/saint-avre-chambre/horaires#main-content",6.3028277,45.3530978
 FR,Saint-Ay,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ay/horaires#main-content",1.7499597,47.863133
-FR,Saint-Blaise-la-Roche Poutay,"https://www.garesetconnexions.sncf/fr/gares-services/saint-blaise-la-roche-poutay/horaires#main-content",7.165329,48.4076094
+FR,Saint-Blaise-la-Roche Poutay,"https://www.garesetconnexions.sncf/fr/gares-services/saint-blaise-roche-poutay/horaires#main-content",7.165329,48.4076094
 FR,Saint-Bonnet-de-Rochefort,"https://www.garesetconnexions.sncf/fr/gares-services/saint-bonnet-rochefort/horaires#main-content",3.1393877,46.1483796
 FR,Saint-Brice-sur-Vienne,"https://www.garesetconnexions.sncf/fr/gares-services/saint-brice-vienne/horaires#main-content",0.9523481,45.8781476
 FR,Saint-Brieuc,"https://www.garesetconnexions.sncf/fr/gares-services/saint-brieuc/horaires#main-content",-2.765,48.50758
-FR,Saint-Béron - La Bridoire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-beron-la-bridoire/horaires#main-content",5.7319345,45.5038935
+FR,Saint-Béron - La Bridoire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-beron-bridoire/horaires#main-content",5.7319345,45.5038935
 FR,Saint-Chamas,"https://www.garesetconnexions.sncf/fr/gares-services/saint-chamas/horaires#main-content",5.0402963,43.5511577
 FR,Saint-Chamond,"https://www.garesetconnexions.sncf/fr/gares-services/saint-chamond/horaires#main-content",4.51695,45.47257
 FR,Saint-Christophe-Vallon,"https://www.garesetconnexions.sncf/fr/gares-services/saint-christophe-vallon/horaires#main-content",2.4077585,44.464619
@@ -2351,9 +2351,9 @@ FR,Saint-Cloud,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cloud
 FR,Saint-Clément - Laronxe,"https://www.garesetconnexions.sncf/fr/gares-services/saint-clement-laronxe/horaires#main-content",6.6081108,48.5312283
 FR,Saint-Cyprien,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyprien/horaires#main-content",1.0434666,44.8632733
 FR,Saint-Cyprien Arènes,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyprien-arenes/horaires#main-content",1.417986,43.593438
-FR,Saint-Cyr Les Lecques - La Cadière,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-lecques-la-cadiere/horaires#main-content",5.703858,43.185509
-FR,Saint-Cyr-en-Val La Source,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-val-la-source/horaires#main-content",1.9476045,47.8192
-FR,Saint-Cyr-l'École,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-l'ecole/horaires#main-content",2.0733739,48.7990666
+FR,Saint-Cyr Les Lecques - La Cadière,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-lecques-cadiere/horaires#main-content",5.703858,43.185509
+FR,Saint-Cyr-en-Val La Source,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-val-source/horaires#main-content",1.9476045,47.8192
+FR,Saint-Cyr-l'École,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cyr-ecole/horaires#main-content",2.0733739,48.7990666
 FR,Saint-Césaire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-cesaire/horaires#main-content",4.3276399,43.8133863
 FR,Saint-Dalmas de Tende,"https://www.garesetconnexions.sncf/fr/gares-services/saint-dalmas-tende/horaires#main-content",,
 FR,Saint-Denis,"https://www.garesetconnexions.sncf/fr/gares-services/saint-denis/horaires#main-content",2.3459524,48.9354933
@@ -2416,11 +2416,11 @@ FR,Saint-Laurent-de-la-Prée - Fouras,"https://www.garesetconnexions.sncf/fr/gar
 FR,Saint-Laurent-du-Var,"https://www.garesetconnexions.sncf/fr/gares-services/saint-laurent-du-var/horaires#main-content",7.194413,43.662451
 FR,Saint-Laurent-en-Grandvaux,"https://www.garesetconnexions.sncf/fr/gares-services/saint-laurent-grandvaux/horaires#main-content",5.9512119,46.5747975
 FR,Saint-Leu-d'Esserent,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leu-d'esserent/horaires#main-content",2.4177845,49.2140819
-FR,Saint-Leu-la-Forêt,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leu-la-foret/horaires#main-content",2.24264,49.01571
+FR,Saint-Leu-la-Forêt,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leu-foret/horaires#main-content",2.24264,49.01571
 FR,Saint-Lothain,"https://www.garesetconnexions.sncf/fr/gares-services/saint-lothain/horaires#main-content",5.6439849,46.8231806
 FR,Saint-Loubès,"https://www.garesetconnexions.sncf/fr/gares-services/saint-loubes/horaires#main-content",-0.4333056,44.9224009
 FR,Saint-Louis,"https://www.garesetconnexions.sncf/fr/gares-services/saint-louis/horaires#main-content",7.5559882,47.5906094
-FR,Saint-Louis La Chaussée,"https://www.garesetconnexions.sncf/fr/gares-services/saint-louis-la-chaussee/horaires#main-content",7.5312095,47.6094781
+FR,Saint-Louis La Chaussée,"https://www.garesetconnexions.sncf/fr/gares-services/saint-louis-chaussee/horaires#main-content",7.5312095,47.6094781
 FR,Saint-Louis les Aygalades,"https://www.garesetconnexions.sncf/fr/gares-services/saint-louis-aygalades/horaires#main-content",,
 FR,Saint-Léger-sur-Dheune,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leger-dheune/horaires#main-content",4.6286039,46.8484526
 FR,Saint-Léon-sur-l'Isle,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leon-l'isle/horaires#main-content",0.4923106,45.1233004
@@ -2428,14 +2428,14 @@ FR,Saint-Léonard,"https://www.garesetconnexions.sncf/fr/gares-services/saint-le
 FR,Saint-Léonard-de-Noblat,"https://www.garesetconnexions.sncf/fr/gares-services/saint-leonard-noblat/horaires#main-content",1.481686,45.8320199
 FR,Saint-Lô,"https://www.garesetconnexions.sncf/fr/gares-services/saint-lo/horaires#main-content",-1.099525,49.116975
 FR,Saint-Macaire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-macaire/horaires#main-content",-0.2270601,44.5686216
-FR,Saint-Maixent-L'École,"https://www.garesetconnexions.sncf/fr/gares-services/saint-maixent-l'ecole/horaires#main-content",-0.201073,46.406607
+FR,Saint-Maixent-L'École,"https://www.garesetconnexions.sncf/fr/gares-services/saint-maixent-ecole/horaires#main-content",-0.201073,46.406607
 FR,Saint-Malo,"https://www.garesetconnexions.sncf/fr/gares-services/saint-malo/horaires#main-content",-2.004158,48.646859
 FR,Saint-Mammès,"https://www.garesetconnexions.sncf/fr/gares-services/saint-mammes/horaires#main-content",2.81593,48.382171
 FR,Saint-Marcel,"https://www.garesetconnexions.sncf/fr/gares-services/saint-marcel/horaires#main-content",5.4671155,43.28818
 FR,Saint-Marcel en Dombes,"https://www.garesetconnexions.sncf/fr/gares-services/saint-marcel-dombes/horaires#main-content",4.9775148,45.9503701
 FR,Saint-Marcellin,"https://www.garesetconnexions.sncf/fr/gares-services/saint-marcellin/horaires#main-content",5.323649,45.150898
 FR,Saint-Mariens - Saint-Yzan,"https://www.garesetconnexions.sncf/fr/gares-services/saint-mariens-saint-yzan/horaires#main-content",-0.3917824,45.139072
-FR,Saint-Mars-la-Brière,"https://www.garesetconnexions.sncf/fr/gares-services/saint-mars-la-briere/horaires#main-content",0.3656778,48.0285239
+FR,Saint-Mars-la-Brière,"https://www.garesetconnexions.sncf/fr/gares-services/saint-mars-briere/horaires#main-content",0.3656778,48.0285239
 FR,Saint-Martin d'Étampes,"https://www.garesetconnexions.sncf/fr/gares-services/saint-martin-d'etampes/horaires#main-content",2.145401,48.42747
 FR,Saint-Martin du Touch,"https://www.garesetconnexions.sncf/fr/gares-services/saint-martin-du-touch/horaires#main-content",1.3718548,43.5997881
 FR,Saint-Martin-Bellevue,"https://www.garesetconnexions.sncf/fr/gares-services/saint-martin-bellevue/horaires#main-content",,
@@ -2456,14 +2456,14 @@ FR,Saint-Médard-de-Guizières,"https://www.garesetconnexions.sncf/fr/gares-serv
 FR,Saint-Médard-sur-Ille,"https://www.garesetconnexions.sncf/fr/gares-services/saint-medard-ille/horaires#main-content",-1.6674886,48.2742219
 FR,Saint-Nabord,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nabord/horaires#main-content",6.5818945,48.0461722
 FR,Saint-Nazaire,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nazaire/horaires#main-content",-2.211096,47.286412
-FR,Saint-Nom-la-Bretèche Forêt de Marly,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nom-la-breteche-foret-marly/horaires#main-content",2.0509372,48.8677671
-FR,Saint-Nom-la-Bretèche Forêt de Marly T13,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nom-la-breteche-foret-marly-t13/horaires#main-content",2.05094,48.86794
+FR,Saint-Nom-la-Bretèche Forêt de Marly,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nom-breteche-foret-marly/horaires#main-content",2.0509372,48.8677671
+FR,Saint-Nom-la-Bretèche Forêt de Marly T13,"https://www.garesetconnexions.sncf/fr/gares-services/saint-nom-breteche-foret-marly-t13/horaires#main-content",2.05094,48.86794
 FR,Saint-Omer,"https://www.garesetconnexions.sncf/fr/gares-services/saint-omer/horaires#main-content",2.2667624,50.7536204
 FR,Saint-Omer-en-Chaussée,"https://www.garesetconnexions.sncf/fr/gares-services/saint-omer-chaussee/horaires#main-content",1.9970829,49.5306261
 FR,Saint-Ouen,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen/horaires#main-content",2.32257,48.90531
-FR,Saint-Ouen-l'Aumône,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-l'aumone/horaires#main-content",2.10651,49.04527
-FR,Saint-Ouen-l'Aumône Liesse,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-l'aumone-liesse/horaires#main-content",2.1279345,49.0338707
-FR,Saint-Ouen-l'Aumône Quartier de l'Église,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-l'aumone-quartier-l'eglise/horaires#main-content",2.10369,49.03997
+FR,Saint-Ouen-l'Aumône,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-aumone/horaires#main-content",2.10651,49.04527
+FR,Saint-Ouen-l'Aumône Liesse,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-aumone-liesse/horaires#main-content",2.1279345,49.0338707
+FR,Saint-Ouen-l'Aumône Quartier de l'Église,"https://www.garesetconnexions.sncf/fr/gares-services/saint-ouen-aumone-quartier-l'eglise/horaires#main-content",2.10369,49.03997
 FR,Saint-Paterne-Racan,"https://www.garesetconnexions.sncf/fr/gares-services/saint-paterne-racan/horaires#main-content",0.4783289,47.6042003
 FR,Saint-Patrice,"https://www.garesetconnexions.sncf/fr/gares-services/saint-patrice/horaires#main-content",0.3096916,47.2855394
 FR,Saint-Paul-de-Varax,"https://www.garesetconnexions.sncf/fr/gares-services/saint-paul-varax/horaires#main-content",5.1282046,46.1000331
@@ -2475,7 +2475,7 @@ FR,Saint-Pierre-de-Chignac,"https://www.garesetconnexions.sncf/fr/gares-services
 FR,Saint-Pierre-des-Corps,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-des-corps/horaires#main-content",0.72355,47.386099
 FR,Saint-Pierre-du-Vauvray,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-du-vauvray/horaires#main-content",,
 FR,Saint-Pierre-en-Faucigny,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-faucigny/horaires#main-content",6.3757533,46.0593442
-FR,Saint-Pierre-la-Cour,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-la-cour/horaires#main-content",-1.0252972,48.1135968
+FR,Saint-Pierre-la-Cour,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-cour/horaires#main-content",-1.0252972,48.1135968
 FR,Saint-Pierre-le-Moûtier,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-moutier/horaires#main-content",3.1117427,46.7932373
 FR,Saint-Pierre-sur-Dives,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pierre-dives/horaires#main-content",-0.0405855,49.0231057
 FR,Saint-Pol-de-Léon,"https://www.garesetconnexions.sncf/fr/gares-services/saint-pol-leon/horaires#main-content",,
@@ -2512,18 +2512,18 @@ FR,Saint-Sébastien Pas Enchantés,"https://www.garesetconnexions.sncf/fr/gares-
 FR,Saint-Thégonnec,"https://www.garesetconnexions.sncf/fr/gares-services/saint-thegonnec/horaires#main-content",-3.9483116,48.4942082
 FR,Saint-Vallier sur Rhône,"https://www.garesetconnexions.sncf/fr/gares-services/saint-vallier-rhone/horaires#main-content",4.81439,45.186395
 FR,Saint-Victor - Thizy,"https://www.garesetconnexions.sncf/fr/gares-services/saint-victor-thizy/horaires#main-content",4.2810245,46.0024781
-FR,Saint-Victor-l'Abbaye,"https://www.garesetconnexions.sncf/fr/gares-services/saint-victor-l'abbaye/horaires#main-content",1.1097122,49.6770346
+FR,Saint-Victor-l'Abbaye,"https://www.garesetconnexions.sncf/fr/gares-services/saint-victor-abbaye/horaires#main-content",1.1097122,49.6770346
 FR,Saint-Victurnien,"https://www.garesetconnexions.sncf/fr/gares-services/saint-victurnien/horaires#main-content",1.0095737,45.8765887
 FR,Saint-Vincent le Château,"https://www.garesetconnexions.sncf/fr/gares-services/saint-vincent-chateau/horaires#main-content",3.9186273,45.1488794
 FR,Saint-Vincent-de-Tyrosse,"https://www.garesetconnexions.sncf/fr/gares-services/saint-vincent-tyrosse/horaires#main-content",-1.306493,43.657736
 FR,Saint-Vit,"https://www.garesetconnexions.sncf/fr/gares-services/saint-vit/horaires#main-content",5.809057,47.183507
-FR,Saint-Yrieix-la-Perche,"https://www.garesetconnexions.sncf/fr/gares-services/saint-yrieix-la-perche/horaires#main-content",1.2053608,45.5192516
+FR,Saint-Yrieix-la-Perche,"https://www.garesetconnexions.sncf/fr/gares-services/saint-yrieix-perche/horaires#main-content",1.2053608,45.5192516
 FR,Saint-Égrève Saint-Robert,"https://www.garesetconnexions.sncf/fr/gares-services/saint-egreve-saint-robert/horaires#main-content",5.6712687,45.2357234
 FR,Saint-Émilion,"https://www.garesetconnexions.sncf/fr/gares-services/saint-emilion/horaires#main-content",-0.1592003,44.8811665
 FR,Saint-Étienne Bellevue,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-bellevue/horaires#main-content",4.392734,45.417128
 FR,Saint-Étienne Carnot,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-carnot/horaires#main-content",4.385317,45.446976
 FR,Saint-Étienne Châteaucreux,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-chateaucreux/horaires#main-content",4.399722,45.443366
-FR,Saint-Étienne La Terrasse,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-la-terrasse/horaires#main-content",4.379601,45.464843
+FR,Saint-Étienne La Terrasse,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-terrasse/horaires#main-content",4.379601,45.464843
 FR,Saint-Étienne Le Clapier,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-clapier/horaires#main-content",4.3782267,45.4371122
 FR,Saint-Étienne-de-Montluc,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-montluc/horaires#main-content",-1.7857107,47.2747167
 FR,Saint-Étienne-du-Rouvray,"https://www.garesetconnexions.sncf/fr/gares-services/saint-etienne-du-rouvray/horaires#main-content",1.1095673,49.3771553
@@ -2533,7 +2533,7 @@ FR,Sainte-Colombe,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-c
 FR,Sainte-Colombe Septveilles,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-colombe-septveilles/horaires#main-content",3.25602,48.52959
 FR,Sainte-Cécile-d'Andorge,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-cecile-d'andorge/horaires#main-content",3.9758497,44.2554362
 FR,Sainte-Eulalie - Carbon-Blanc,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-eulalie-carbon-blanc/horaires#main-content",-0.4939737,44.8978327
-FR,Sainte-Foy-la-Grande,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-foy-la-grande/horaires#main-content",0.221519,44.836886
+FR,Sainte-Foy-la-Grande,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-foy-grande/horaires#main-content",0.221519,44.836886
 FR,Sainte-Gauburge,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-gauburge/horaires#main-content",0.4281082,48.7172632
 FR,Sainte-Geneviève-des-Bois,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-genevieve-des-bois/horaires#main-content",2.313161,48.653245
 FR,Sainte-Lizaigne,"https://www.garesetconnexions.sncf/fr/gares-services/sainte-lizaigne/horaires#main-content",2.0298004,47.002251
@@ -2557,7 +2557,7 @@ FR,Santenay les Bains,"https://www.garesetconnexions.sncf/fr/gares-services/sant
 FR,Santes,"https://www.garesetconnexions.sncf/fr/gares-services/santes/horaires#main-content",2.961977,50.5920123
 FR,Santeuil - Le Perchay,"https://www.garesetconnexions.sncf/fr/gares-services/santeuil-perchay/horaires#main-content",1.94893,49.12416
 FR,Sarcelles - Saint-Brice,"https://www.garesetconnexions.sncf/fr/gares-services/sarcelles-saint-brice/horaires#main-content",2.36867,48.99529
-FR,Sarlat-la-Canéda,"https://www.garesetconnexions.sncf/fr/gares-services/sarlat-la-caneda/horaires#main-content",1.220328,44.8770213
+FR,Sarlat-la-Canéda,"https://www.garesetconnexions.sncf/fr/gares-services/sarlat-caneda/horaires#main-content",1.220328,44.8770213
 FR,Sarliève - Cournon,"https://www.garesetconnexions.sncf/fr/gares-services/sarlieve-cournon/horaires#main-content",3.1681196,45.7387697
 FR,Sarralbe,"https://www.garesetconnexions.sncf/fr/gares-services/sarralbe/horaires#main-content",,
 FR,Sarrance,"https://www.garesetconnexions.sncf/fr/gares-services/sarrance/horaires#main-content",-0.599962,43.0496
@@ -2574,7 +2574,7 @@ FR,Saulxures,"https://www.garesetconnexions.sncf/fr/gares-services/saulxures/hor
 FR,Saumur,"https://www.garesetconnexions.sncf/fr/gares-services/saumur/horaires#main-content",-0.07136,47.269
 FR,Sausset-les-Pins,"https://www.garesetconnexions.sncf/fr/gares-services/sausset-pins/horaires#main-content",5.110001,43.332864
 FR,Sauto,"https://www.garesetconnexions.sncf/fr/gares-services/sauto/horaires#main-content",,
-FR,Sauveterre-la-Lémance,"https://www.garesetconnexions.sncf/fr/gares-services/sauveterre-la-lemance/horaires#main-content",1.0115419,44.5893893
+FR,Sauveterre-la-Lémance,"https://www.garesetconnexions.sncf/fr/gares-services/sauveterre-lemance/horaires#main-content",1.0115419,44.5893893
 FR,Savenay,"https://www.garesetconnexions.sncf/fr/gares-services/savenay/horaires#main-content",-1.950957,47.35859
 FR,Savennières - Béhuard,"https://www.garesetconnexions.sncf/fr/gares-services/savennieres-behuard/horaires#main-content",-0.6540004,47.3817332
 FR,Saverdun,"https://www.garesetconnexions.sncf/fr/gares-services/saverdun/horaires#main-content",1.570616,43.239357
@@ -2586,7 +2586,7 @@ FR,Savy-Berlette,"https://www.garesetconnexions.sncf/fr/gares-services/savy-berl
 FR,Saône,"https://www.garesetconnexions.sncf/fr/gares-services/saone/horaires#main-content",6.1013089,47.2097669
 FR,Sceaux - Boëssé,"https://www.garesetconnexions.sncf/fr/gares-services/sceaux-boesse/horaires#main-content",0.5724063,48.1221004
 FR,Scherwiller,"https://www.garesetconnexions.sncf/fr/gares-services/scherwiller/horaires#main-content",7.4301867,48.2869344
-FR,Schirmeck - La Broque,"https://www.garesetconnexions.sncf/fr/gares-services/schirmeck-la-broque/horaires#main-content",7.21594,48.47973
+FR,Schirmeck - La Broque,"https://www.garesetconnexions.sncf/fr/gares-services/schirmeck-broque/horaires#main-content",7.21594,48.47973
 FR,Schopperten,"https://www.garesetconnexions.sncf/fr/gares-services/schopperten/horaires#main-content",,
 FR,Schweighouse-sur-Moder,"https://www.garesetconnexions.sncf/fr/gares-services/schweighouse-moder/horaires#main-content",7.7425635,48.8286765
 FR,Schwindratzheim,"https://www.garesetconnexions.sncf/fr/gares-services/schwindratzheim/horaires#main-content",7.6005468,48.7536468
@@ -2640,7 +2640,7 @@ FR,Sous le Bois,"https://www.garesetconnexions.sncf/fr/gares-services/sous-bois/
 FR,St-Eulien,"https://www.garesetconnexions.sncf/fr/gares-services/st-eulien/horaires#main-content",,
 FR,Stade de France Saint-Denis,"https://www.garesetconnexions.sncf/fr/gares-services/stade-france-saint-denis/horaires#main-content",2.35134,48.91779
 FR,Staffelfelden,"https://www.garesetconnexions.sncf/fr/gares-services/staffelfelden/horaires#main-content",7.2651657,47.8279612
-FR,Stains La Cerisaie T11,"https://www.garesetconnexions.sncf/fr/gares-services/stains-la-cerisaie-t11/horaires#main-content",2.39209,48.9548
+FR,Stains La Cerisaie T11,"https://www.garesetconnexions.sncf/fr/gares-services/stains-cerisaie-t11/horaires#main-content",2.39209,48.9548
 FR,Steenbecque,"https://www.garesetconnexions.sncf/fr/gares-services/steenbecque/horaires#main-content",2.510089,50.6806568
 FR,Steenwerck,"https://www.garesetconnexions.sncf/fr/gares-services/steenwerck/horaires#main-content",2.7855769,50.713459
 FR,Steinbourg,"https://www.garesetconnexions.sncf/fr/gares-services/steinbourg/horaires#main-content",7.416299,48.7635292
@@ -2670,7 +2670,7 @@ FR,Tacoignières - Richebourg,"https://www.garesetconnexions.sncf/fr/gares-servi
 FR,Taconnaz,"https://www.garesetconnexions.sncf/fr/gares-services/taconnaz/horaires#main-content",6.8258755,45.8992065
 FR,Tagolsheim,"https://www.garesetconnexions.sncf/fr/gares-services/tagolsheim/horaires#main-content",,
 FR,Taillebourg,"https://www.garesetconnexions.sncf/fr/gares-services/taillebourg/horaires#main-content",,
-FR,Tain-l'Hermitage - Tournon,"https://www.garesetconnexions.sncf/fr/gares-services/tain-l'hermitage-tournon/horaires#main-content",4.839967,45.072183
+FR,Tain-l'Hermitage - Tournon,"https://www.garesetconnexions.sncf/fr/gares-services/tain-hermitage-tournon/horaires#main-content",4.839967,45.072183
 FR,Talence Médoquine,"https://www.garesetconnexions.sncf/fr/gares-services/talence-medoquine/horaires#main-content",-0.60062,44.81649
 FR,Talence Médoquine,"https://www.garesetconnexions.sncf/fr/gares-services/talence-medoquine/horaires#main-content",,
 FR,Tantonville,"https://www.garesetconnexions.sncf/fr/gares-services/tantonville/horaires#main-content",,
@@ -2733,7 +2733,7 @@ FR,Tournemire - Roquefort,"https://www.garesetconnexions.sncf/fr/gares-services/
 FR,Tournon,"https://www.garesetconnexions.sncf/fr/gares-services/tournon/horaires#main-content",,
 FR,Tournus,"https://www.garesetconnexions.sncf/fr/gares-services/tournus/horaires#main-content",4.906647,46.56668
 FR,Tours,"https://www.garesetconnexions.sncf/fr/gares-services/tours/horaires#main-content",0.693703,47.389781
-FR,Tourville-la-Rivière,"https://www.garesetconnexions.sncf/fr/gares-services/tourville-la-riviere/horaires#main-content",1.098964,49.3248177
+FR,Tourville-la-Rivière,"https://www.garesetconnexions.sncf/fr/gares-services/tourville-riviere/horaires#main-content",1.098964,49.3248177
 FR,Toury,"https://www.garesetconnexions.sncf/fr/gares-services/toury/horaires#main-content",1.939565,48.193606
 FR,Touët-de-l'Escarène,"https://www.garesetconnexions.sncf/fr/gares-services/touet-l'escarene/horaires#main-content",,
 FR,Tracy - Sancerre,"https://www.garesetconnexions.sncf/fr/gares-services/tracy-sancerre/horaires#main-content",2.8804164,47.3376398
@@ -2762,7 +2762,7 @@ FR,Uckange,"https://www.garesetconnexions.sncf/fr/gares-services/uckange/horaire
 FR,Ur - Les Escaldes,"https://www.garesetconnexions.sncf/fr/gares-services/ur-escaldes/horaires#main-content",,
 FR,Urmatt,"https://www.garesetconnexions.sncf/fr/gares-services/urmatt/horaires#main-content",7.3385385,48.5257763
 FR,Urt,"https://www.garesetconnexions.sncf/fr/gares-services/urt/horaires#main-content",-1.3005564,43.4993785
-FR,Urçay - La Perche,"https://www.garesetconnexions.sncf/fr/gares-services/urcay-la-perche/horaires#main-content",2.5865708,46.6295123
+FR,Urçay - La Perche,"https://www.garesetconnexions.sncf/fr/gares-services/urcay-perche/horaires#main-content",2.5865708,46.6295123
 FR,Us,"https://www.garesetconnexions.sncf/fr/gares-services/us/horaires#main-content",1.97076,49.09969
 FR,Ussel,"https://www.garesetconnexions.sncf/fr/gares-services/ussel/horaires#main-content",2.3143439,45.5574383
 FR,Ustaritz Jatxou,"https://www.garesetconnexions.sncf/fr/gares-services/ustaritz-jatxou/horaires#main-content",-1.4489654,43.4048083
@@ -2824,12 +2824,12 @@ FR,Vergèze - Codognan,"https://www.garesetconnexions.sncf/fr/gares-services/ver
 FR,Vermenton,"https://www.garesetconnexions.sncf/fr/gares-services/vermenton/horaires#main-content",3.7320212,47.6605943
 FR,Vern-sur-Seiche,"https://www.garesetconnexions.sncf/fr/gares-services/vern-seiche/horaires#main-content",-1.5966524,48.0469707
 FR,Vernaison,"https://www.garesetconnexions.sncf/fr/gares-services/vernaison/horaires#main-content",4.8132908,45.6456478
-FR,Verneuil-l'Étang,"https://www.garesetconnexions.sncf/fr/gares-services/verneuil-l'etang/horaires#main-content",2.825006,48.644689
+FR,Verneuil-l'Étang,"https://www.garesetconnexions.sncf/fr/gares-services/verneuil-etang/horaires#main-content",2.825006,48.644689
 FR,Verneuil-sur-Avre,"https://www.garesetconnexions.sncf/fr/gares-services/verneuil-avre/horaires#main-content",0.9291925,48.7424857
 FR,Verneuil-sur-Serre,"https://www.garesetconnexions.sncf/fr/gares-services/verneuil-serre/horaires#main-content",,
 FR,Verneuil-sur-Vienne,"https://www.garesetconnexions.sncf/fr/gares-services/verneuil-vienne/horaires#main-content",,
 FR,Vernon - Giverny,"https://www.garesetconnexions.sncf/fr/gares-services/vernon-giverny/horaires#main-content",1.47857,49.091336
-FR,Vernou-la-Celle-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/vernou-la-celle-seine/horaires#main-content",2.8424649,48.3864547
+FR,Vernou-la-Celle-sur-Seine,"https://www.garesetconnexions.sncf/fr/gares-services/vernou-celle-seine/horaires#main-content",2.8424649,48.3864547
 FR,Vernouillet - Verneuil,"https://www.garesetconnexions.sncf/fr/gares-services/vernouillet-verneuil/horaires#main-content",1.9828731,48.9811884
 FR,Verrey-sous-Salmaise,"https://www.garesetconnexions.sncf/fr/gares-services/verrey-sous-salmaise/horaires#main-content",4.6700223,47.4385905
 FR,Versailles Chantiers,"https://www.garesetconnexions.sncf/fr/gares-services/versailles-chantiers/horaires#main-content",2.1358827,48.7958264
@@ -2883,8 +2883,8 @@ FR,Villenave-d'Ornon,"https://www.garesetconnexions.sncf/fr/gares-services/ville
 FR,Villeneuve Triage,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-triage/horaires#main-content",2.438192,48.745198
 FR,Villeneuve-Loubet,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-loubet/horaires#main-content",7.134066,43.629928
 FR,Villeneuve-Saint-Georges,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-saint-georges/horaires#main-content",2.446011,48.730113
-FR,Villeneuve-la-Comtesse,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-la-comtesse/horaires#main-content",-0.5130717,46.0986599
-FR,Villeneuve-la-Guyard,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-la-guyard/horaires#main-content",3.071655,48.342425
+FR,Villeneuve-la-Comtesse,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-comtesse/horaires#main-content",-0.5130717,46.0986599
+FR,Villeneuve-la-Guyard,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-guyard/horaires#main-content",3.071655,48.342425
 FR,Villeneuve-le-Roi,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-roi/horaires#main-content",2.426084,48.739908
 FR,Villeneuve-lès-Maguelone,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-maguelone/horaires#main-content",3.849917,43.5438231
 FR,Villeneuve-sur-Allier,"https://www.garesetconnexions.sncf/fr/gares-services/villeneuve-allier/horaires#main-content",3.2469557,46.6592073

@@ -32,12 +32,15 @@ copy (
     concat('https://www.garesetconnexions.sncf/fr/gares-services/',
         replace(
             regexp_replace(
-                replace(
+                regexp_replace(
                     replace(
-                        strip_accents(lower(nom)),
-                    ' - ', ' '),
-                '-', ' '),
-            ' en | sur | de | et | le | les ', ' ', 'g')
+                        replace(
+                            strip_accents(lower(nom)),
+                        ' - ', ' '),
+                    '-', ' '),
+                -- '' is a special escape sequence for '
+                '^l''', ''),
+            ' en | sur | de | la | et | le | les | l''', ' ', 'gi')
         , ' ', '-')
     , '/horaires#main-content')
     as url, lon, lat from stations
