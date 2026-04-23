@@ -3,4 +3,4 @@ cat */*-stations.csv | ssh vauban 'cat - > /mnt/chungus/clickhouse_files/friendl
 
 # ... do your clickhouse stuff
 
-scp vauban:friendly_stations_with_pop.csv .
+scp vauban:friendly_stations_with_pop.json .

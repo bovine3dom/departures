@@ -1,10 +1,14 @@
 -- clickhouse
 -- kontur population grid left as exercise for the reader
-select c1 country, c2 name, c3 url, c4 lon, c5 lat, geoToH3(lat, lon, 8) h3, p.population
-from file('chungus/friendly_stations.csv') fs
-left join public_kontur_population_20231101 p on p.h3 = h3
-order by name asc
-into outfile 'friendly_stations_with_pop.csv' truncate format CSVWithNames; -- always a surprise: goes in working dir
+select * except h3 from (
+    select concat(c2, ', ', c1) name, c3 url, geoToH3(c5, c4, 8) h3, p.population
+    --select c1 country, c2 name, c3 url, c4 lon, c5 lat, geoToH3(lat, lon, 8) h3, p.population
+    from file('chungus/friendly_stations.csv') fs
+    left join public_kontur_population_20231101 p on p.h3 = h3
+    order by name asc
+)
+into outfile 'friendly_stations_with_pop.json' truncate format JSONEachRow -- always a surprise: goes in working dir
+settings output_format_json_array_of_rows=1;
 
 -- this needs loads of memory and is it really better?
  --left join (
