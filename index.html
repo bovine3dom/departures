@@ -82,7 +82,7 @@ input:focus {
     background-color: var(--bg-color);
     border: 2px solid var(--input-bg);
     border-radius: 12px;
-    max-height: 250px;
+    max-height: 35vh;
     overflow-y: auto;
     z-index: 10;
     display: none;
@@ -104,9 +104,10 @@ input:focus {
     background-color: var(--input-bg);
 }
 
-@media (max-width: 480px) {
-    body { padding: 15px; }
-    h1 { font-size: 1.5rem; }
+@media (max-width: 768px) {
+    body {
+        justify-content: inherit;
+    }
 }
 
 .footer-link {
