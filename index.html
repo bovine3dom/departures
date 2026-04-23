@@ -1,10 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>document.documentElement.className = 'js';</script>
         <title>Departures</title>
 <style>
+html.no-js .jspls {
+    display: none !important;
+}
+
+html.js .no-js-warning {
+    display: none !important;
+}
+
 :root {
     --bg-color: #ffffff;
     --text-color: #000000;
@@ -135,22 +144,13 @@ input:focus {
     }
 }
 </style>
-<noscript>
-    <style>
-        .jspls {
-            display: none !important;
-        }
-    </style>
-</noscript>
     </head>
     <body>
         <h1>Departures 🚂</h1>
-        <noscript>
-            <div class="no-js-warning">
-                ⚠️ <strong> please enable javascript </strong> <br/><br/>
-                i promise you it is better than manually scrolling through ten thousand stations
-            </div>
-        </noscript>
+        <div class="no-js-warning">
+            ⚠️ <strong> please enable javascript </strong> <br/><br/>
+            i promise you it is better than manually scrolling through ten thousand stations
+        </div>
         <div class="jspls" style="display: contents;">
             <div class="input-container">
                 <label for="station-search">Pick a station in France, Italy, Austria, Germany, Spain or the UK:</label>
