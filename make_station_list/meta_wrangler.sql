@@ -6,7 +6,12 @@ select * except h3 from (
         select concat(c2, ', ', c1) name, c3 url, if(c4 is null, null, arrayJoin(h3kRing(geoToH3(assumeNotNull(c5), assumeNotNull(c4), 10), 2))) h3
         from file('chungus/friendly_stations.csv') fs
     ) stations
-    left join (select crow_km, geoToH3(stop_lat, stop_lon, 10) h3 from transitous_everything_20260218_stop_statistics_unmerged3) stats using h3
+    left join (
+        select crow_km, geoToH3(stop_lat, stop_lon, 10) h3
+        from transitous_everything_20260218_stop_statistics_unmerged3
+        -- only trains (we had loads of coaches before lol)
+        where route_type = 2 or route_type between 100 and 117
+    ) stats using h3
     group by name, url
     order by name asc
 )
