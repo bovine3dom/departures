@@ -90,7 +90,7 @@ input:focus {
     border-bottom: none;
 }
 
-.dropdown li:hover {
+.dropdown li:hover, li.active {
     background-color: var(--input-bg);
 }
 
@@ -8177,21 +8177,32 @@ function getStations(query) {
 const input = document.getElementById('station-search');
 const list = document.getElementById('station-results');
 
+let activeIndex = -1; 
+
 function updateList(query) {
     list.innerHTML = ''; 
+    activeIndex = -1;
+    
     if (query.length < 1) {
         list.style.display = 'none';
         return[]; 
     }
+    
     const matches = getStations(query);
     if (matches.length > 0) {
         list.style.display = 'block';
-        matches.forEach(station => {
+        matches.forEach((station, index) => {
             const li = document.createElement('li');
             li.textContent = station.name;
+            li.dataset.url = station.url;
             
             li.addEventListener('mousedown', () => {
                 window.location.href = station.url;
+            });
+
+            li.addEventListener('mouseenter', () => {
+                activeIndex = index;
+                updateActiveVisuals();
             });
             
             list.appendChild(li);
@@ -8203,15 +8214,48 @@ function updateList(query) {
     return matches; 
 }
 
+function updateActiveVisuals() {
+    const items = list.querySelectorAll('li');
+    items.forEach(item => item.classList.remove('active'));
+    if (activeIndex >= 0 && activeIndex < items.length) {
+        const activeItem = items[activeIndex];
+        activeItem.classList.add('active');
+        activeItem.scrollIntoView({ block: 'nearest' });
+    }
+}
+
 input.addEventListener('input', (e) => {
     updateList(e.target.value);
 });
 
 input.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-        const query = input.value;
-        const matches = getStations(query);
-        
+    const items = list.querySelectorAll('li');
+    const isDropdownOpen = list.style.display === 'block' && items.length > 0;
+
+    if (isDropdownOpen) {
+        if (e.key === 'ArrowDown' || (e.key === 'Tab' && !e.shiftKey)) {
+            e.preventDefault();
+            activeIndex++;
+            if (activeIndex >= items.length) activeIndex = 0;
+            updateActiveVisuals();
+            
+        } else if (e.key === 'ArrowUp' || (e.key === 'Tab' && e.shiftKey)) {
+            e.preventDefault();
+            activeIndex--;
+            if (activeIndex < 0) activeIndex = items.length - 1;
+            updateActiveVisuals();
+            
+        } else if (e.key === 'Enter') {
+            e.preventDefault();
+            if (activeIndex >= 0 && activeIndex < items.length) {
+                window.location.href = items[activeIndex].dataset.url;
+            } else {
+                window.location.href = items[0].dataset.url;
+            }
+        }
+    } else if (e.key === 'Enter') {
+        e.preventDefault();
+        const matches = getStations(input.value);
         if (matches.length > 0) {
             window.location.href = matches[0].url;
         }
