@@ -16192,11 +16192,11 @@ input.addEventListener('focus', () => {
 
 const feelingLucky = new URL(document.location.href).searchParams.get("s") ?? window.location.hash.substring(1);
 if (feelingLucky !== "") {
+    input.value = feelingLucky;
     try {
         window.location.href = getStations(feelingLucky)[0].url;
     } catch (e) {
         updateList(feelingLucky);
-        input.value = feelingLucky;
     }
 }
    </script>
