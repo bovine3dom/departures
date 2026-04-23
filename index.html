@@ -16189,5 +16189,15 @@ input.addEventListener('focus', () => {
         list.style.display = 'block';
     }
 });
+
+const feelingLucky = new URL(document.location.href).searchParams.get("s") ?? window.location.hash.substring(1);
+if (feelingLucky !== "") {
+    try {
+        window.location.href = getStations(feelingLucky)[0].url;
+    } catch (e) {
+        updateList(feelingLucky);
+        input.value = feelingLucky;
+    }
+}
    </script>
 </html>
