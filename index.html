@@ -16068,8 +16068,16 @@ input:focus {
 ]
 function getStations(query) {
     const toCase = query.toLowerCase() == query ? s => s.toLowerCase() : s => s;
-    const toAccented = query.normalize("NFD").replace(/[\u0300-\u036f]/g, "") == query ? s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "") : s => s;
-    const results = stations.filter(s => toAccented(toCase(s.name)).includes(toAccented(toCase(query))));
+
+    const stripAccents = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    const toAccented = stripAccents(query) === query ? stripAccents : s => s;
+
+    const stripPunc = s => s.replace(/\p{P}/gu, "");
+    const stripPuncSpace = s => s.replace(/\p{P}/gu, " ");
+    const toPunctuation = stripPunc(query) === query ? s => stripPunc(s) + " " + stripPuncSpace(s) : s => s; // this is silly
+
+    const norm = s => toPunctuation(toAccented(toCase(s)));
+    const results = stations.filter(s => norm(s.name).includes(query));
     return results.sort((l, r) => r.longest_route_km - l.longest_route_km).slice(0,20)
 }
 
