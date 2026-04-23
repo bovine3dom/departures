@@ -115,16 +115,50 @@ input:focus {
     opacity: 1;
     color: var(--accent);
 }
+
+.no-js-warning {
+    color: var(--text-color);
+    border: 1px solid #f87171;
+    padding: 16px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+    font-size: 0.95rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    .no-js-warning {
+        border-color: #7f1d1d;
+    }
+}
 </style>
+<noscript>
+    <style>
+        .jspls {
+            display: none;
+        }
+    </style>
+</noscript>
     </head>
     <body>
         <h1>Departures 🚂</h1>
-        <div class="input-container">
-            <label for="station-search">Pick a station in France, Italy or the UK:</label>
-            <input type="search" autocomplete="off" spellcheck="false" id="station-search" placeholder="Type a station name...">
-            <ul id="station-results" class="dropdown"></ul>
+        <noscript>
+            <div class="no-js-warning">
+                ⚠️ <strong> please enable javascript </strong> <br/><br/>
+                i promise you it is better than manually scrolling through ten thousand stations
+            </div>
+        </noscript>
+        <div class="jspls" style="display: contents;">
+            <div class="input-container">
+                <label for="station-search">Pick a station in France, Italy or the UK:</label>
+                <input type="search" autocomplete="off" spellcheck="false" id="station-search" placeholder="Type a station name...">
+                <ul id="station-results" class="dropdown"></ul>
+            </div>
+            <a href="https://github.com/bovine3dom/departures" target="_blank" class="footer-link">made with love by bovine3dom ❤️</a>
         </div>
-        <a href="https://github.com/bovine3dom/departures" target="_blank" class="footer-link">made with love by bovine3dom ❤️</a>
     </body>
    <script>
        const stations =
