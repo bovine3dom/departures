@@ -10,3 +10,10 @@ https://data.sncf.com/explore/dataset/gares-de-voyageurs/export/?disjunctive.seg
 
 
 infuriatingly this seems to exclude monaco
+
+
+---
+
+lol. obviously the data about their railway stations DOESN'T INCLUDE ALL THE RAILWAY STATIONS
+
+https://ressources.data.sncf.com/explore/dataset/frequentation-gares/export/?disjunctive.nom_gare&disjunctive.code_postal&sort=nom_gare is much better
