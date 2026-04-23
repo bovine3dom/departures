@@ -7,7 +7,7 @@ After some horrific string matching and hacking around, I've made a dead simple 
 # Todo
 
 - make the pipeline less horrific so you don't hate the idea of adding new countries
-- add switzerland, austria, germany
+- add switzerland, spain, poland, czechia...
 
 # Contributing
 
@@ -21,4 +21,4 @@ i do _not_ suggest trying to open `index.html` in a modern professional 10x engi
 
 # Data sources
 
-This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB and RFI. All data is licenced under ODbL.
+This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB, DB and RFI. All data is licensed under ODbL.
