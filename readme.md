@@ -21,4 +21,4 @@ i do _not_ suggest trying to open `index.html` in a modern professional 10x engi
 
 # Data sources
 
-This project uses data from Network Rail, Trainline, SNCF, Kontur, GHSL and RFI. All data is licenced under ODbL.
+This project uses data from Network Rail, Trainline, SNCF, Kontur, GHSL, ÖBB and RFI. All data is licenced under ODbL.
