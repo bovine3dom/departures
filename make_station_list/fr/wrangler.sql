@@ -40,7 +40,7 @@ copy (
                     '-', ' '),
                 -- '' is a special escape sequence for '
                 '^l''', ''),
-            ' en | sur | de | la | et | le | les | l''', ' ', 'gi')
+            ' en | sur | de | la | et | le | les | l'' | d''', ' ', 'gi')
         , ' ', '-')
     , '/horaires#main-content')
     as url, lon, lat from stations
