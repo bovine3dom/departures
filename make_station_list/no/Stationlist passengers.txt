@@ -1,0 +1,346 @@
+RTD's for passenger trains are available for the following stations (if marked as "no line" no line column is shown in layout):
+
+ADL (no line)
+ALA
+ALV (no line)
+ARN (no line)
+ASM
+ASR
+ATN (no line)
+AUD (no line)
+AUL
+AUM (no line)
+BEG (no line)
+BER (no line)
+BJE (no line)
+BJF (no line)
+BJO (no line)
+BLA (no line)
+BLE
+BLH (no line)
+BLK
+BLO
+BMO (no line)
+BO (no line)
+BOD
+BOL (no line)
+BON
+BR
+BRA
+BRD
+BRG (no line)
+BRL (no line)
+BRS (no line)
+BRY (no line)
+BST
+BUL (no line)
+BØ (no line)
+BØY (no line)
+BÅK (no line)
+BÅS (no line)
+CG (no line)
+DAL
+DAR
+DL (no line)
+DOM (no line)
+DOV (no line)
+DRD (no line)
+DRM
+DUN (no line)
+DVT (no line)
+EBE (no line)
+EBG
+EGS (no line)
+EIK (no line)
+EIN
+ELV (no line)
+EVE (no line)
+EVG (no line)
+EVL
+EVV
+FAU (no line)
+FET
+FIN (no line)
+FJE
+FLA (no line)
+FLÅ (no line)
+FM (no line)
+FRE
+FRL (no line)
+FRO
+GAN (no line)
+GAR
+GAU (no line)
+GHA
+GJE (no line)
+GJØ
+GJÅ (no line)
+GLO (no line)
+GOL (no line)
+GOS (no line)
+GRA
+GRE
+GRG (no line)
+GRO
+GRU
+GU (no line)
+GUD
+GUL
+GYL (no line)
+HAB
+HAG
+HAK
+HAL (no line)
+HAN (no line)
+HAR (no line)
+HAU (no line)
+HDN (no line)
+HEG
+HEI
+HEL (no line)
+HEV (no line)
+HFS (no line)
+HGA
+HJN (no line)
+HLD
+HMA
+HMD (no line)
+HMR
+HMV (no line)
+HOI (no line)
+HOK
+HRA (no line)
+HSD
+HSG
+HSR
+HSS (no line)
+HST
+HTO
+HVA
+HVK
+HØB
+HØN
+HÅR (no line)
+ILS (no line)
+JAR
+JEH
+JØR (no line)
+JÅT (no line)
+KAM
+KAT (no line)
+KBG
+KJE (no line)
+KJF (no line)
+KJS
+KLP (no line)
+KLV (no line)
+KLØ
+KNA
+KOL
+KOP (no line)
+KOT (no line)
+KPR (no line)
+KRH (no line)
+KRS (no line)
+KRÅ
+KTD (no line)
+KVA (no line)
+KVG
+KVI (no line)
+KVL (no line)
+KVÅ (no line)
+LAN
+LBG
+LDM (no line)
+LEA (no line)
+LER (no line)
+LES (no line)
+LEV (no line)
+LHM
+LIE
+LJA
+LJB (no line)
+LLE (no line)
+LLS
+LMO (no line)
+LND (no line)
+LRK (no line)
+LSD
+LSM (no line)
+LSV (no line)
+LU (no line)
+LUN
+LVK
+LYS
+LØN (no line)
+LØR
+LØT (no line)
+MAJ (no line)
+MDL (no line)
+MER (no line)
+MFJ (no line)
+MJD
+MLV
+MO (no line)
+MOI (no line)
+MOS
+MRO (no line)
+MSJ (no line)
+MSK (no line)
+MVT
+MYR (no line)
+MYS
+MYV
+MØR (no line)
+NBY
+NBØ (no line)
+NDL (no line)
+NEL (no line)
+NER
+NES (no line)
+NGU (no line)
+NIT
+NK (no line)
+NNN (no line)
+NSK (no line)
+NST
+NTD (no line)
+NTH
+NTR (no line)
+NVT (no line)
+NYD
+NYL
+OGN (no line)
+OKL (no line)
+OPD
+OPG (no line)
+OPH (no line)
+OS (no line)
+OSL
+OTA (no line)
+PAR (no line)
+PG
+RAD (no line)
+RAU
+RBU (no line)
+REI (no line)
+REN (no line)
+RFS
+RGN (no line)
+RIS (no line)
+RLA (no line)
+RMG (no line)
+RNU (no line)
+ROA
+ROG (no line)
+ROM (no line)
+ROS (no line)
+ROT (no line)
+RSH
+RST
+RVO
+RYG
+RØ (no line)
+RØK (no line)
+RØY
+RÅD
+SAS (no line)
+SBG
+SBO
+SBU
+SDA
+SEG (no line)
+SFJ
+SGD (no line)
+SGN (no line)
+Page 21 of 25
+SGR (no line)
+SIN (no line)
+SIR (no line)
+SKA
+SKI
+SKK
+SKN
+SKP
+SKS (no line)
+SKV (no line)
+SKØ (no line)
+SLB (no line)
+SLE
+SLU
+SNA (no line)
+SND
+SNI
+SNV (no line)
+SNÅ (no line)
+SOA (no line)
+SOL
+SON
+SPB (no line)
+SPG
+SPI
+SPL (no line)
+SSE (no line)
+STA (no line)
+STB
+STG
+STH (no line)
+STJ (no line)
+STK (no line)
+STN
+STO (no line)
+STV (no line)
+STØ (no line)
+SV
+SVI
+SVN (no line)
+SVÅ (no line)
+SY
+SØR
+SØS (no line)
+TAN
+TBG
+TND (no line)
+TOL (no line)
+TOM
+TOR
+TRD (no line)
+TRO (no line)
+TRY (no line)
+TUE
+TUE
+TYN (no line)
+TØY
+UPS (no line)
+URD (no line)
+UST (no line)
+VAD (no line)
+VAK
+VAL (no line)
+VAR
+VBY
+VDL (no line)
+VEV
+VFS
+VGH (no line)
+VHG (no line)
+VHR (no line)
+VIG (no line)
+VIN (no line)
+VKS (no line)
+VNL (no line)
+VOS (no line)
+VRN (no line)
+VTH (no line)
+VÆR (no line)
+YGH (no line)
+ØBG (no line)
+ØFL (no line)
+ØKP (no line)
+ÅBY
+ÅL (no line)
+ÅLN (no line)
+ÅND (no line)
+ÅRN
+ÅS
+ÅSE (no line)
