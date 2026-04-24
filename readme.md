@@ -4,10 +4,24 @@ I really hate having to remember like a billion different departure board websit
 
 After some horrific string matching and hacking around, I've made a dead simple single HTML page with a JS search box that will open the best national departure board for a given station.
 
+# Interface
+
+You can jump directly to a station by giving a URL anchor or search parameter like this:
+
+```
+# Only works on new pages / hard refresh
+https://dpartu.re/#gare du nord
+
+# Works anywhere but more annoying to type
+https://dpartu.re/?s=gare du nord
+```
+
+Some web browsers demand a slash, some demand a protocol. The coolest will work just with `dparu.re#oulu`.
+
 # Todo
 
 - make the pipeline less horrific so you don't hate the idea of adding new countries
-- add switzerland, spain, poland, czechia...
+- add switzerland, poland, czechia...
 
 # Contributing
 
@@ -21,4 +35,4 @@ i do _not_ suggest trying to open `index.html` in a modern professional 10x engi
 
 # Data sources
 
-This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB, DB, Entur and RFI. All data is licensed under ODbL.
+This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB, DB, Entur, Fintraffic, Trafikverket and RFI. All data is licensed under ODbL.
