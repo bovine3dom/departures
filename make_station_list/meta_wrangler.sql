@@ -13,7 +13,7 @@ select * except h3 from (
         where route_type = 2 or route_type between 100 and 117
     ) stats using h3
     group by name, url
-    order by name asc
+    order by name asc, longest_route_km desc
 )
 into outfile 'friendly_stations_with_distance.json' truncate format JSONEachRow -- always a surprise: goes in working dir
 settings output_format_json_array_of_rows=1;
