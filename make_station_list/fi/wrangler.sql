@@ -13,9 +13,22 @@
 -- i guess let's try NetEx again
 -- https://mobility.mobility-database.fintraffic.fi/static/finland_netex.zip (big)
 
--- json yey https://rata.digitraffic.fi/api/v1/metadata/stations
+-- json yey https://junalahdot.fi/turku?command=main&action=sbd'
 -- lol they don't like curl. why would u want to fetch json from curl. really json is for humans to read.
 -- 
+-- curl 'https://junalahdot.fi/turku?command=main&action=sbd' \
+--   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0' \
+--   -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+--   -H 'Accept-Language: en-GB,en;q=0.9' \
+--   -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+--   -H 'X-Requested-With: XMLHttpRequest' \
+--   -H 'Connection: keep-alive' \
+--   -H 'Referer: https://junalahdot.fi/turku' \
+--   -H 'Sec-Fetch-Dest: empty' \
+--   -H 'Sec-Fetch-Mode: cors' \
+--   -H 'Sec-Fetch-Site: same-origin' \
+--   -H 'TE: trailers' > raw-stations-ids.json
+
 -- curl 'https://rata.digitraffic.fi/api/v1/metadata/stations' \
 --   --compressed \
 --   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0' \
@@ -29,15 +42,17 @@
 --   -H 'Sec-Fetch-Mode: navigate' \
 --   -H 'Sec-Fetch-Site: same-origin' \
 --   -H 'Sec-Fetch-User: ?1' \
---   -H 'Priority: u=0, i'
+--   -H 'Priority: u=0, i' > raw-stations.json
+
 
 
 --- eugghghghg enfin
 copy (
     select countryCode country, stationName as name,
-    concat('https://junalahdot.fi/', stationShortCode, '?lang=3#content') as url,
+    concat('https://junalahdot.fi/', stationShortCode, '?command=fs&lang=3&id=', id, '#content') as url,
     longitude lon, latitude lat
-    from 'raw-stations.json'
+    from 'raw-stations-ids.json' ids
+    left join 'raw-stations.json' locs on lower(stationShortCode) = lower(code)
     where countryCode = 'FI'
-    and passengerTraffic
+    and ids.type = 'station'
 ) to 'fi-stations.csv' (header false);

@@ -1,209 +1,246 @@
-FI,Ainola,"https://junalahdot.fi/AIN?lang=3#content",25.101895,60.455619
-FI,Alavus,"https://junalahdot.fi/ALV?lang=3#content",23.600437,62.617769
-FI,Aviapolis,"https://junalahdot.fi/AVP?lang=3#content",24.956191,60.30435
-FI,Dragsvik,"https://junalahdot.fi/DRA?lang=3#content",23.488607,59.990199
-FI,Eläinpuisto-Zoo,"https://junalahdot.fi/EPZ?lang=3#content",24.191479,62.540677
-FI,Eno,"https://junalahdot.fi/ENO?lang=3#content",30.141691,62.806375
-FI,Espoo,"https://junalahdot.fi/EPO?lang=3#content",24.655992,60.205067
-FI,Haapajärvi,"https://junalahdot.fi/HPJ?lang=3#content",25.33434,63.754515
-FI,Haapamäki,"https://junalahdot.fi/HPK?lang=3#content",24.455067,62.246476
-FI,Haarajoki,"https://junalahdot.fi/HAA?lang=3#content",25.13382,60.496261
-FI,Haksi,"https://junalahdot.fi/HSI?lang=3#content",25.554663,60.408207
-FI,Hankasalmi,"https://junalahdot.fi/HKS?lang=3#content",26.478116,62.302807
-FI,Hanko asema,"https://junalahdot.fi/HNK?lang=3#content",22.968291,59.826865
-FI,Hanko-Pohjoinen,"https://junalahdot.fi/HKP?lang=3#content",22.988361,59.830141
-FI,Harjavalta,"https://junalahdot.fi/HVA?lang=3#content",22.133261,61.309689
-FI,Heinävesi,"https://junalahdot.fi/HNV?lang=3#content",28.643419,62.382542
-FI,Helsinki asema,"https://junalahdot.fi/HKI?lang=3#content",24.941444,60.171356
-FI,Henna,"https://junalahdot.fi/HNN?lang=3#content",25.494389,60.799132
-FI,Herrala,"https://junalahdot.fi/HR?lang=3#content",25.475624,60.896944
-FI,Hiekkaharju,"https://junalahdot.fi/HKH?lang=3#content",25.049296,60.303067
-FI,Hikiä,"https://junalahdot.fi/HK?lang=3#content",24.919201,60.752588
-FI,Hillosensalmi,"https://junalahdot.fi/HLS?lang=3#content",26.789163,61.193088
-FI,Hinthaara,"https://junalahdot.fi/HH?lang=3#content",25.477951,60.399764
-FI,Humppila,"https://junalahdot.fi/HP?lang=3#content",23.362536,60.919507
-FI,Huopalahti,"https://junalahdot.fi/HPL?lang=3#content",24.893523,60.21835
-FI,Hyvinkää asema,"https://junalahdot.fi/HY?lang=3#content",24.857481,60.63126
-FI,Hämeenlinna,"https://junalahdot.fi/HL?lang=3#content",24.478851,61.002368
-FI,Härmä,"https://junalahdot.fi/HM?lang=3#content",22.876631,63.234321
-FI,Höljäkkä,"https://junalahdot.fi/HÖL?lang=3#content",29.44413,63.454874
-FI,Iisalmi,"https://junalahdot.fi/ILM?lang=3#content",27.201109,63.560099
-FI,Iittala,"https://junalahdot.fi/ITA?lang=3#content",24.140789,61.090616
-FI,Ilmala asema,"https://junalahdot.fi/ILA?lang=3#content",24.920829,60.207808
-FI,Imatra asema,"https://junalahdot.fi/IMR?lang=3#content",28.776017,61.195914
-FI,Inkeroinen,"https://junalahdot.fi/IKR?lang=3#content",26.839178,60.696674
-FI,Inkoo,"https://junalahdot.fi/IKO?lang=3#content",23.93585,60.061511
-FI,Isokyrö,"https://junalahdot.fi/IKY?lang=3#content",22.394797,62.951072
-FI,Joensuu asema,"https://junalahdot.fi/JNS?lang=3#content",29.777033,62.599536
-FI,Jokela,"https://junalahdot.fi/JK?lang=3#content",24.970682,60.552798
-FI,Jorvas,"https://junalahdot.fi/JRS?lang=3#content",24.512776,60.137885
-FI,Joutseno,"https://junalahdot.fi/JTS?lang=3#content",28.488252,61.120291
-FI,Juupajoki,"https://junalahdot.fi/JJ?lang=3#content",24.365046,61.796788
-FI,Jyväskylä,"https://junalahdot.fi/JY?lang=3#content",25.754984,62.241455
-FI,Jämsä,"https://junalahdot.fi/JÄS?lang=3#content",25.173294,61.865627
-FI,Järvelä,"https://junalahdot.fi/JR?lang=3#content",25.274659,60.867325
-FI,Järvenpää asema,"https://junalahdot.fi/JP?lang=3#content",25.090796,60.473684
-FI,Kajaani,"https://junalahdot.fi/KAJ?lang=3#content",27.738374,64.219716
-FI,Kannelmäki,"https://junalahdot.fi/KAN?lang=3#content",24.877004,60.239562
-FI,Kannus,"https://junalahdot.fi/KNS?lang=3#content",23.915361,63.898425
-FI,Karjaa,"https://junalahdot.fi/KR?lang=3#content",23.66126,60.068724
-FI,Karkku,"https://junalahdot.fi/KRU?lang=3#content",23.049129,61.443314
-FI,Kauhava,"https://junalahdot.fi/KHA?lang=3#content",23.0353,63.099643
-FI,Kauklahti asema,"https://junalahdot.fi/KLH?lang=3#content",24.600354,60.189456
-FI,Kauniainen,"https://junalahdot.fi/KNI?lang=3#content",24.730884,60.211939
-FI,Kausala,"https://junalahdot.fi/KA?lang=3#content",26.329366,60.885347
-FI,Kemi asema,"https://junalahdot.fi/KEM?lang=3#content",24.574339,65.736749
-FI,Kemijärvi,"https://junalahdot.fi/KJÄ?lang=3#content",27.403715,66.724273
-FI,Kempele,"https://junalahdot.fi/KML?lang=3#content",25.514546,64.912904
-FI,Kera,"https://junalahdot.fi/KEA?lang=3#content",24.75564,60.216573
-FI,Kerava asema,"https://junalahdot.fi/KE?lang=3#content",25.106028,60.404297
-FI,Kerimäki,"https://junalahdot.fi/KIÄ?lang=3#content",29.114053,61.861412
-FI,Kesälahti,"https://junalahdot.fi/KTI?lang=3#content",29.802865,61.887467
-FI,Keuruu,"https://junalahdot.fi/KEU?lang=3#content",24.707325,62.255309
-FI,Kiiala,"https://junalahdot.fi/KIA?lang=3#content",25.613204,60.406719
-FI,Kilo,"https://junalahdot.fi/KIL?lang=3#content",24.782393,60.217939
-FI,Kirkkonummi,"https://junalahdot.fi/KKN?lang=3#content",24.438814,60.119648
-FI,Kitee,"https://junalahdot.fi/KIT?lang=3#content",30.049014,62.142774
-FI,Kiuruvesi,"https://junalahdot.fi/KRV?lang=3#content",26.611334,63.640907
-FI,Kivistö,"https://junalahdot.fi/KTÖ?lang=3#content",24.846938,60.314607
-FI,Kohtavaara,"https://junalahdot.fi/KOH?lang=3#content",29.287006,63.514758
-FI,Koivuhovi,"https://junalahdot.fi/KVH?lang=3#content",24.701273,60.207144
-FI,Koivukylä,"https://junalahdot.fi/KVY?lang=3#content",25.059797,60.323284
-FI,Kokemäki,"https://junalahdot.fi/KKI?lang=3#content",22.30335,61.254199
-FI,Kokkola,"https://junalahdot.fi/KOK?lang=3#content",23.131096,63.834429
-FI,Kolari,"https://junalahdot.fi/KLI?lang=3#content",23.836254,67.348706
-FI,Kolho,"https://junalahdot.fi/KLO?lang=3#content",24.507444,62.128049
-FI,Kontiomäki,"https://junalahdot.fi/KON?lang=3#content",28.114694,64.338219
-FI,Koria,"https://junalahdot.fi/KRA?lang=3#content",26.60131,60.847067
-FI,Korso,"https://junalahdot.fi/KRS?lang=3#content",25.078507,60.35129
-FI,Kotka asema,"https://junalahdot.fi/KTA?lang=3#content",26.928611,60.464388
-FI,Kotkan satama,"https://junalahdot.fi/KTS?lang=3#content",26.934952,60.466492
-FI,Kouvola asema,"https://junalahdot.fi/KV?lang=3#content",26.704588,60.865613
-FI,Kuopio asema,"https://junalahdot.fi/KUO?lang=3#content",27.679581,62.897218
-FI,Kupittaa,"https://junalahdot.fi/KUT?lang=3#content",22.297114,60.450274
-FI,Kylänlahti,"https://junalahdot.fi/KYN?lang=3#content",29.75243,63.361403
-FI,Kymi,"https://junalahdot.fi/KY?lang=3#content",26.90714,60.539229
-FI,Kyminlinna,"https://junalahdot.fi/KLN?lang=3#content",26.895812,60.508258
-FI,Käpylä,"https://junalahdot.fi/KÄP?lang=3#content",24.946034,60.22017
-FI,Lahti,"https://junalahdot.fi/LH?lang=3#content",25.657397,60.97647
-FI,Laihia,"https://junalahdot.fi/LAI?lang=3#content",22.003444,62.990138
-FI,Lapinlahti,"https://junalahdot.fi/LNA?lang=3#content",27.393552,63.360666
-FI,Lappeenranta,"https://junalahdot.fi/LR?lang=3#content",28.195304,61.047973
-FI,Lappila,"https://junalahdot.fi/LAA?lang=3#content",25.17423,60.848954
-FI,Lappohja,"https://junalahdot.fi/LPO?lang=3#content",23.236919,59.904082
-FI,Lapua,"https://junalahdot.fi/LPA?lang=3#content",23.015112,62.971338
-FI,Leinelä,"https://junalahdot.fi/LNÄ?lang=3#content",25.039419,60.322641
-FI,Lempäälä,"https://junalahdot.fi/LPÄ?lang=3#content",23.755094,61.314233
-FI,Lentoasema,"https://junalahdot.fi/LEN?lang=3#content",24.968343,60.315732
-FI,Leppävaara,"https://junalahdot.fi/LPV?lang=3#content",24.813541,60.21948
-FI,Lieksa,"https://junalahdot.fi/LIS?lang=3#content",30.016394,63.318195
-FI,Lievestuore,"https://junalahdot.fi/LVT?lang=3#content",26.195893,62.259872
-FI,Loimaa,"https://junalahdot.fi/LM?lang=3#content",23.060408,60.847378
-FI,Louhela,"https://junalahdot.fi/LOH?lang=3#content",24.853299,60.270798
-FI,Lusto,"https://junalahdot.fi/LUS?lang=3#content",29.322269,61.800548
-FI,Malmi,"https://junalahdot.fi/ML?lang=3#content",25.011468,60.25166
-FI,Malminkartano,"https://junalahdot.fi/MLO?lang=3#content",24.861283,60.249316
-FI,Martinlaakso,"https://junalahdot.fi/MRL?lang=3#content",24.852604,60.27808
-FI,Masala,"https://junalahdot.fi/MAS?lang=3#content",24.539106,60.158661
-FI,Mikkeli,"https://junalahdot.fi/MI?lang=3#content",27.277969,61.687818
-FI,Misi,"https://junalahdot.fi/MIS?lang=3#content",26.687235,66.617923
-FI,Mommila,"https://junalahdot.fi/MLA?lang=3#content",25.075141,60.821177
-FI,Muhos,"https://junalahdot.fi/MH?lang=3#content",25.991997,64.805398
-FI,Muurola,"https://junalahdot.fi/MUL?lang=3#content",25.37511,66.370875
-FI,Myllykoski,"https://junalahdot.fi/MKI?lang=3#content",26.78669,60.771013
-FI,Myllymäki,"https://junalahdot.fi/MY?lang=3#content",24.280965,62.524753
-FI,Myyrmäki,"https://junalahdot.fi/MYR?lang=3#content",24.854751,60.261327
-FI,Mäkkylä,"https://junalahdot.fi/MÄK?lang=3#content",24.842976,60.22131
-FI,Mäntsälä,"https://junalahdot.fi/MLÄ?lang=3#content",25.307475,60.647258
-FI,Mäntyharju,"https://junalahdot.fi/MR?lang=3#content",26.881746,61.421104
-FI,Nastola,"https://junalahdot.fi/NSL?lang=3#content",25.935467,60.935567
-FI,Nikkilä,"https://junalahdot.fi/NLÄ?lang=3#content",25.26654,60.38237
-FI,Nivala,"https://junalahdot.fi/NVL?lang=3#content",24.960768,63.936389
-FI,Nokia,"https://junalahdot.fi/NOA?lang=3#content",23.49917,61.481059
-FI,Nurmes,"https://junalahdot.fi/NRM?lang=3#content",29.137234,63.541078
-FI,Oitti,"https://junalahdot.fi/OI?lang=3#content",25.021316,60.789806
-FI,Orivesi,"https://junalahdot.fi/OV?lang=3#content",24.368047,61.650095
-FI,Orivesi keskusta,"https://junalahdot.fi/OVK?lang=3#content",24.369838,61.673906
-FI,Oulainen,"https://junalahdot.fi/OU?lang=3#content",24.82098,64.269509
-FI,Oulu asema,"https://junalahdot.fi/OL?lang=3#content",25.486121,65.012409
-FI,Oulunkylä,"https://junalahdot.fi/OLK?lang=3#content",24.967676,60.229
-FI,Paimenportti,"https://junalahdot.fi/PTI?lang=3#content",26.919372,60.479685
-FI,Paltamo,"https://junalahdot.fi/PTO?lang=3#content",27.82218,64.40061
-FI,Parikkala,"https://junalahdot.fi/PAR?lang=3#content",29.502884,61.55855
-FI,Parkano,"https://junalahdot.fi/PKO?lang=3#content",23.078439,62.051967
-FI,Parola,"https://junalahdot.fi/PRL?lang=3#content",24.366497,61.049922
-FI,Pasila asema,"https://junalahdot.fi/PSL?lang=3#content",24.933521,60.198689
-FI,Pasila autojuna-asema,"https://junalahdot.fi/PAU?lang=3#content",24.933169,60.208303
-FI,Pello,"https://junalahdot.fi/PEL?lang=3#content",23.993374,66.78466
-FI,Petäjävesi,"https://junalahdot.fi/PVI?lang=3#content",25.189337,62.256974
-FI,Pieksämäki asema,"https://junalahdot.fi/PM?lang=3#content",27.16753,62.301253
-FI,Pihlajavesi,"https://junalahdot.fi/PH?lang=3#content",24.395608,62.346234
-FI,Pitäjänmäki,"https://junalahdot.fi/PJM?lang=3#content",24.859649,60.223412
-FI,Pohjois-Haaga,"https://junalahdot.fi/POH?lang=3#content",24.883319,60.230156
-FI,Pori,"https://junalahdot.fi/PRI?lang=3#content",21.786607,61.477212
-FI,Porvoo,"https://junalahdot.fi/PRV?lang=3#content",25.648462,60.396602
-FI,Puistola,"https://junalahdot.fi/PLA?lang=3#content",25.036683,60.276313
-FI,Pukinmäki,"https://junalahdot.fi/PMK?lang=3#content",24.993288,60.242216
-FI,Punkaharju,"https://junalahdot.fi/PUN?lang=3#content",29.382354,61.761151
-FI,Purola,"https://junalahdot.fi/PUR?lang=3#content",25.050225,60.500329
-FI,Pyhäsalmi,"https://junalahdot.fi/PHÄ?lang=3#content",25.982615,63.682935
-FI,Pännäinen,"https://junalahdot.fi/PNÄ?lang=3#content",22.790363,63.595382
-FI,Pääskylahti,"https://junalahdot.fi/PKY?lang=3#content",28.924534,61.862291
-FI,Rekola,"https://junalahdot.fi/RKL?lang=3#content",25.068666,60.332871
-FI,Retretti,"https://junalahdot.fi/REE?lang=3#content",29.294294,61.803308
-FI,Riihimäki asema,"https://junalahdot.fi/RI?lang=3#content",24.781241,60.736078
-FI,Rovaniemi,"https://junalahdot.fi/ROI?lang=3#content",25.705329,66.497675
-FI,Runni,"https://junalahdot.fi/RNN?lang=3#content",26.886487,63.602052
-FI,Ruukki,"https://junalahdot.fi/RKI?lang=3#content",25.0982,64.660373
-FI,Ryttylä,"https://junalahdot.fi/RY?lang=3#content",24.758186,60.818048
-FI,Salo,"https://junalahdot.fi/SLO?lang=3#content",23.121448,60.384777
-FI,Santala,"https://junalahdot.fi/STA?lang=3#content",23.121052,59.875008
-FI,Saunakallio,"https://junalahdot.fi/SAU?lang=3#content",25.065568,60.487305
-FI,Savio,"https://junalahdot.fi/SAV?lang=3#content",25.097803,60.381296
-FI,Savonlinna asema,"https://junalahdot.fi/SL?lang=3#content",28.888266,61.8689
-FI,Seinäjoki asema,"https://junalahdot.fi/SK?lang=3#content",22.844217,62.792016
-FI,Siilinjärvi asema,"https://junalahdot.fi/SIJ?lang=3#content",27.666561,63.074953
-FI,Simpele,"https://junalahdot.fi/SPL?lang=3#content",29.371696,61.424787
-FI,Siuntio,"https://junalahdot.fi/STI?lang=3#content",24.221671,60.140648
-FI,Skogby,"https://junalahdot.fi/SGY?lang=3#content",23.312403,59.926668
-FI,Sukeva,"https://junalahdot.fi/SKV?lang=3#content",27.422313,63.864618
-FI,Suonenjoki,"https://junalahdot.fi/SNJ?lang=3#content",27.124495,62.623707
-FI,Tammisaari,"https://junalahdot.fi/TMS?lang=3#content",23.443501,59.979553
-FI,Tampere asema,"https://junalahdot.fi/TPE?lang=3#content",23.773454,61.498236
-FI,Tapanila,"https://junalahdot.fi/TNA?lang=3#content",25.030033,60.2639
-FI,Tavastila,"https://junalahdot.fi/TSL?lang=3#content",26.954701,60.573333
-FI,Tervajoki,"https://junalahdot.fi/TK?lang=3#content",22.171462,63.000773
-FI,Tervola,"https://junalahdot.fi/TRV?lang=3#content",24.772291,66.081811
-FI,Tesoma,"https://junalahdot.fi/TSO?lang=3#content",23.630271,61.503363
-FI,Tikkurila asema,"https://junalahdot.fi/TKL?lang=3#content",25.044055,60.292166
-FI,Toijala,"https://junalahdot.fi/TL?lang=3#content",23.860905,61.170611
-FI,Tolsa,"https://junalahdot.fi/TOL?lang=3#content",24.472724,60.118558
-FI,Tornio,"https://junalahdot.fi/TOR?lang=3#content",24.163576,65.84534
-FI,Tornio-Itäinen,"https://junalahdot.fi/TRI?lang=3#content",24.18508,65.850823
-FI,Tuomarila,"https://junalahdot.fi/TRL?lang=3#content",24.681767,60.20605
-FI,Turenki,"https://junalahdot.fi/TU?lang=3#content",24.63865,60.918387
-FI,Turku asema,"https://junalahdot.fi/TKU?lang=3#content",22.260867,60.456488
-FI,Turku satama,"https://junalahdot.fi/TUS?lang=3#content",22.226894,60.434245
-FI,Tuuri,"https://junalahdot.fi/TUU?lang=3#content",23.722323,62.605349
-FI,Uimaharju,"https://junalahdot.fi/UIM?lang=3#content",30.241497,62.912482
-FI,Utajärvi,"https://junalahdot.fi/UTJ?lang=3#content",26.413565,64.758926
-FI,Uusikylä,"https://junalahdot.fi/UKÄ?lang=3#content",25.993966,60.927722
-FI,Vaala,"https://junalahdot.fi/VAA?lang=3#content",26.842702,64.558015
-FI,Vaasa,"https://junalahdot.fi/VS?lang=3#content",21.621824,63.097786
-FI,Vainikkala asema,"https://junalahdot.fi/VNA?lang=3#content",28.303201,60.863835
-FI,Valimo,"https://junalahdot.fi/VMO?lang=3#content",24.87583,60.222028
-FI,Vammala,"https://junalahdot.fi/VMA?lang=3#content",22.887664,61.349519
-FI,Vantaankoski,"https://junalahdot.fi/VKS?lang=3#content",24.847966,60.286119
-FI,Varkaus,"https://junalahdot.fi/VAR?lang=3#content",27.873415,62.312389
-FI,Vehkala,"https://junalahdot.fi/VEH?lang=3#content",24.843716,60.295054
-FI,Vihanti,"https://junalahdot.fi/VTI?lang=3#content",24.993624,64.48451
-FI,Vihtari,"https://junalahdot.fi/VIH?lang=3#content",29.029282,62.380739
-FI,Viiala,"https://junalahdot.fi/VIA?lang=3#content",23.770683,61.211787
-FI,Viinijärvi,"https://junalahdot.fi/VNJ?lang=3#content",29.237166,62.641687
-FI,Villähde,"https://junalahdot.fi/VLH?lang=3#content",25.833724,60.946379
-FI,Vilppula,"https://junalahdot.fi/VLP?lang=3#content",24.506956,62.025888
-FI,Vuonislahti,"https://junalahdot.fi/VSL?lang=3#content",29.99331,63.152636
-FI,Ylistaro,"https://junalahdot.fi/YST?lang=3#content",22.532729,62.917801
-FI,Ylitornio,"https://junalahdot.fi/YTR?lang=3#content",23.682508,66.324438
-FI,Ylivieska,"https://junalahdot.fi/YV?lang=3#content",24.540593,64.071898
-FI,Ähtäri,"https://junalahdot.fi/ÄHT?lang=3#content",24.064036,62.553265
+FI,Ainola,"https://junalahdot.fi/AIN?command=fs&lang=3&id=219#content",25.101895,60.455619
+FI,Alavus,"https://junalahdot.fi/ALV?command=fs&lang=3&id=6#content",23.600437,62.617769
+FI,Aviapolis,"https://junalahdot.fi/AVP?command=fs&lang=3&id=603#content",24.956191,60.30435
+FI,Dragsvik,"https://junalahdot.fi/DRA?command=fs&lang=3&id=10#content",23.488607,59.990199
+FI,Eläinpuisto-Zoo,"https://junalahdot.fi/EPZ?command=fs&lang=3&id=13#content",24.191479,62.540677
+FI,Eno,"https://junalahdot.fi/ENO?command=fs&lang=3&id=14#content",30.141691,62.806375
+FI,Espoo,"https://junalahdot.fi/EPO?command=fs&lang=3&id=18#content",24.655992,60.205067
+FI,Haapajärvi,"https://junalahdot.fi/HPJ?command=fs&lang=3&id=20#content",25.33434,63.754515
+FI,Haapamäki,"https://junalahdot.fi/HPK?command=fs&lang=3&id=23#content",24.455067,62.246476
+FI,Haarajoki,"https://junalahdot.fi/HAA?command=fs&lang=3&id=24#content",25.13382,60.496261
+FI,Hankasalmi,"https://junalahdot.fi/HKS?command=fs&lang=3&id=32#content",26.478116,62.302807
+FI,Hanko asema,"https://junalahdot.fi/HNK?command=fs&lang=3&id=33#content",22.968291,59.826865
+FI,Hanko-Pohjoinen,"https://junalahdot.fi/HKP?command=fs&lang=3&id=34#content",22.988361,59.830141
+FI,Harjavalta,"https://junalahdot.fi/HVA?command=fs&lang=3&id=35#content",22.133261,61.309689
+FI,Heinävesi,"https://junalahdot.fi/HNV?command=fs&lang=3&id=46#content",28.643419,62.382542
+FI,Helsinki asema,"https://junalahdot.fi/HKI?command=fs&lang=3&id=47#content",24.941444,60.171356
+FI,Henna,"https://junalahdot.fi/HNN?command=fs&lang=3&id=262#content",25.494389,60.799132
+FI,Herrala,"https://junalahdot.fi/HR?command=fs&lang=3&id=60#content",25.475624,60.896944
+FI,Hiekkaharju,"https://junalahdot.fi/HKH?command=fs&lang=3&id=61#content",25.049296,60.303067
+FI,Hikiä,"https://junalahdot.fi/HK?command=fs&lang=3&id=63#content",24.919201,60.752588
+FI,Hillosensalmi,"https://junalahdot.fi/HLS?command=fs&lang=3&id=64#content",26.789163,61.193088
+FI,Humppila,"https://junalahdot.fi/HP?command=fs&lang=3&id=67#content",23.362536,60.919507
+FI,Huopalahti,"https://junalahdot.fi/HPL?command=fs&lang=3&id=68#content",24.893523,60.21835
+FI,Hyvinkää asema,"https://junalahdot.fi/HY?command=fs&lang=3&id=71#content",24.857481,60.63126
+FI,Hämeenlinna,"https://junalahdot.fi/HL?command=fs&lang=3&id=72#content",24.478851,61.002368
+FI,Höljäkkä,"https://junalahdot.fi/HÖL?command=fs&lang=3&id=74#content",29.44413,63.454874
+FI,Iisalmi,"https://junalahdot.fi/ILM?command=fs&lang=3&id=78#content",27.201109,63.560099
+FI,Iittala,"https://junalahdot.fi/ITA?command=fs&lang=3&id=80#content",24.140789,61.090616
+FI,Ilmala asema,"https://junalahdot.fi/ILA?command=fs&lang=3&id=53#content",24.920829,60.207808
+FI,Imatra asema,"https://junalahdot.fi/IMR?command=fs&lang=3&id=83#content",28.776017,61.195914
+FI,Inkeroinen,"https://junalahdot.fi/IKR?command=fs&lang=3&id=89#content",26.839178,60.696674
+FI,Inkoo,"https://junalahdot.fi/IKO?command=fs&lang=3&id=90#content",23.93585,60.061511
+FI,Joensuu asema,"https://junalahdot.fi/JNS?command=fs&lang=3&id=96#content",29.777033,62.599536
+FI,Jokela,"https://junalahdot.fi/JK?command=fs&lang=3&id=99#content",24.970682,60.552798
+FI,Jorvas,"https://junalahdot.fi/JRS?command=fs&lang=3&id=102#content",24.512776,60.137885
+FI,Joutseno,"https://junalahdot.fi/JTS?command=fs&lang=3&id=104#content",28.488252,61.120291
+FI,Juupajoki,"https://junalahdot.fi/JJ?command=fs&lang=3&id=109#content",24.365046,61.796788
+FI,Jyväskylä,"https://junalahdot.fi/JY?command=fs&lang=3&id=112#content",25.754984,62.241455
+FI,Jämsä,"https://junalahdot.fi/JÄS?command=fs&lang=3&id=113#content",25.173294,61.865627
+FI,Järvelä,"https://junalahdot.fi/JR?command=fs&lang=3&id=115#content",25.274659,60.867325
+FI,Järvenpää asema,"https://junalahdot.fi/JP?command=fs&lang=3&id=116#content",25.090796,60.473684
+FI,Kajaani,"https://junalahdot.fi/KAJ?command=fs&lang=3&id=121#content",27.738374,64.219716
+FI,Kannelmäki,"https://junalahdot.fi/KAN?command=fs&lang=3&id=128#content",24.877004,60.239562
+FI,Kannus,"https://junalahdot.fi/KNS?command=fs&lang=3&id=130#content",23.915361,63.898425
+FI,Karjaa,"https://junalahdot.fi/KR?command=fs&lang=3&id=133#content",23.66126,60.068724
+FI,Karkku,"https://junalahdot.fi/KRU?command=fs&lang=3&id=134#content",23.049129,61.443314
+FI,Kauhava,"https://junalahdot.fi/KHA?command=fs&lang=3&id=138#content",23.0353,63.099643
+FI,Kauklahti asema,"https://junalahdot.fi/KLH?command=fs&lang=3&id=139#content",24.600354,60.189456
+FI,Kauniainen,"https://junalahdot.fi/KNI?command=fs&lang=3&id=141#content",24.730884,60.211939
+FI,Kausala,"https://junalahdot.fi/KA?command=fs&lang=3&id=143#content",26.329366,60.885347
+FI,Kemi asema,"https://junalahdot.fi/KEM?command=fs&lang=3&id=151#content",24.574339,65.736749
+FI,Kemijärvi,"https://junalahdot.fi/KJÄ?command=fs&lang=3&id=152#content",27.403715,66.724273
+FI,Kempele,"https://junalahdot.fi/KML?command=fs&lang=3&id=154#content",25.514546,64.912904
+FI,Kera,"https://junalahdot.fi/KEA?command=fs&lang=3&id=155#content",24.75564,60.216573
+FI,Kerava asema,"https://junalahdot.fi/KE?command=fs&lang=3&id=156#content",25.106028,60.404297
+FI,Kerimäki,"https://junalahdot.fi/KIÄ?command=fs&lang=3&id=158#content",29.114053,61.861412
+FI,Kesälahti,"https://junalahdot.fi/KTI?command=fs&lang=3&id=159#content",29.802865,61.887467
+FI,Keuruu,"https://junalahdot.fi/KEU?command=fs&lang=3&id=160#content",24.707325,62.255309
+FI,Kilo,"https://junalahdot.fi/KIL?command=fs&lang=3&id=163#content",24.782393,60.217939
+FI,Kirkkonummi,"https://junalahdot.fi/KKN?command=fs&lang=3&id=168#content",24.438814,60.119648
+FI,Kitee,"https://junalahdot.fi/KIT?command=fs&lang=3&id=170#content",30.049014,62.142774
+FI,Kiuruvesi,"https://junalahdot.fi/KRV?command=fs&lang=3&id=172#content",26.611334,63.640907
+FI,Kivistö,"https://junalahdot.fi/KTÖ?command=fs&lang=3&id=602#content",24.846938,60.314607
+FI,Kohtavaara,"https://junalahdot.fi/KOH?command=fs&lang=3&id=174#content",29.287006,63.514758
+FI,Koivuhovi,"https://junalahdot.fi/KVH?command=fs&lang=3&id=176#content",24.701273,60.207144
+FI,Koivukylä,"https://junalahdot.fi/KVY?command=fs&lang=3&id=177#content",25.059797,60.323284
+FI,Kokemäki,"https://junalahdot.fi/KKI?command=fs&lang=3&id=178#content",22.30335,61.254199
+FI,Kokkola,"https://junalahdot.fi/KOK?command=fs&lang=3&id=179#content",23.131096,63.834429
+FI,Kolari,"https://junalahdot.fi/KLI?command=fs&lang=3&id=180#content",23.836254,67.348706
+FI,Kolho,"https://junalahdot.fi/KLO?command=fs&lang=3&id=181#content",24.507444,62.128049
+FI,Kontiomäki,"https://junalahdot.fi/KON?command=fs&lang=3&id=186#content",28.114694,64.338219
+FI,Koria,"https://junalahdot.fi/KRA?command=fs&lang=3&id=188#content",26.60131,60.847067
+FI,Korso,"https://junalahdot.fi/KRS?command=fs&lang=3&id=191#content",25.078507,60.35129
+FI,Kotka asema,"https://junalahdot.fi/KTA?command=fs&lang=3&id=194#content",26.928611,60.464388
+FI,Kotkan satama,"https://junalahdot.fi/KTS?command=fs&lang=3&id=197#content",26.934952,60.466492
+FI,Kouvola asema,"https://junalahdot.fi/KV?command=fs&lang=3&id=200#content",26.704588,60.865613
+FI,Kuopio asema,"https://junalahdot.fi/KUO?command=fs&lang=3&id=208#content",27.679581,62.897218
+FI,Kupittaa,"https://junalahdot.fi/KUT?command=fs&lang=3&id=487#content",22.297114,60.450274
+FI,Kylänlahti,"https://junalahdot.fi/KYN?command=fs&lang=3&id=215#content",29.75243,63.361403
+FI,Kymi,"https://junalahdot.fi/KY?command=fs&lang=3&id=216#content",26.90714,60.539229
+FI,Kyminlinna,"https://junalahdot.fi/KLN?command=fs&lang=3&id=217#content",26.895812,60.508258
+FI,Käpylä,"https://junalahdot.fi/KÄP?command=fs&lang=3&id=55#content",24.946034,60.22017
+FI,Lahti,"https://junalahdot.fi/LH?command=fs&lang=3&id=225#content",25.657397,60.97647
+FI,Lapinlahti,"https://junalahdot.fi/LNA?command=fs&lang=3&id=230#content",27.393552,63.360666
+FI,Lappeenranta,"https://junalahdot.fi/LR?command=fs&lang=3&id=232#content",28.195304,61.047973
+FI,Lappila,"https://junalahdot.fi/LAA?command=fs&lang=3&id=233#content",25.17423,60.848954
+FI,Lappohja,"https://junalahdot.fi/LPO?command=fs&lang=3&id=234#content",23.236919,59.904082
+FI,Lapua,"https://junalahdot.fi/LPA?command=fs&lang=3&id=235#content",23.015112,62.971338
+FI,Leinelä,"https://junalahdot.fi/LNÄ?command=fs&lang=3&id=605#content",25.039419,60.322641
+FI,Lempäälä,"https://junalahdot.fi/LPÄ?command=fs&lang=3&id=242#content",23.755094,61.314233
+FI,Lentoasema,"https://junalahdot.fi/LEN?command=fs&lang=3&id=604#content",24.968343,60.315732
+FI,Leppävaara,"https://junalahdot.fi/LPV?command=fs&lang=3&id=244#content",24.813541,60.21948
+FI,Lieksa,"https://junalahdot.fi/LIS?command=fs&lang=3&id=246#content",30.016394,63.318195
+FI,Loimaa,"https://junalahdot.fi/LM?command=fs&lang=3&id=254#content",23.060408,60.847378
+FI,Louhela,"https://junalahdot.fi/LOH?command=fs&lang=3&id=255#content",24.853299,60.270798
+FI,Lusto,"https://junalahdot.fi/LUS?command=fs&lang=3&id=260#content",29.322269,61.800548
+FI,Malmi,"https://junalahdot.fi/ML?command=fs&lang=3&id=268#content",25.011468,60.25166
+FI,Malminkartano,"https://junalahdot.fi/MLO?command=fs&lang=3&id=269#content",24.861283,60.249316
+FI,Martinlaakso,"https://junalahdot.fi/MRL?command=fs&lang=3&id=272#content",24.852604,60.27808
+FI,Masala,"https://junalahdot.fi/MAS?command=fs&lang=3&id=273#content",24.539106,60.158661
+FI,Mikkeli,"https://junalahdot.fi/MI?command=fs&lang=3&id=278#content",27.277969,61.687818
+FI,Misi,"https://junalahdot.fi/MIS?command=fs&lang=3&id=279#content",26.687235,66.617923
+FI,Mommila,"https://junalahdot.fi/MLA?command=fs&lang=3&id=280#content",25.075141,60.821177
+FI,Muhos,"https://junalahdot.fi/MH?command=fs&lang=3&id=281#content",25.991997,64.805398
+FI,Muurola,"https://junalahdot.fi/MUL?command=fs&lang=3&id=288#content",25.37511,66.370875
+FI,Myllykoski,"https://junalahdot.fi/MKI?command=fs&lang=3&id=290#content",26.78669,60.771013
+FI,Myllymäki,"https://junalahdot.fi/MY?command=fs&lang=3&id=291#content",24.280965,62.524753
+FI,Myyrmäki,"https://junalahdot.fi/MYR?command=fs&lang=3&id=296#content",24.854751,60.261327
+FI,Mäkkylä,"https://junalahdot.fi/MÄK?command=fs&lang=3&id=297#content",24.842976,60.22131
+FI,Mäntsälä,"https://junalahdot.fi/MLÄ?command=fs&lang=3&id=298#content",25.307475,60.647258
+FI,Mäntyharju,"https://junalahdot.fi/MR?command=fs&lang=3&id=300#content",26.881746,61.421104
+FI,Nastola,"https://junalahdot.fi/NSL?command=fs&lang=3&id=305#content",25.935467,60.935567
+FI,Nivala,"https://junalahdot.fi/NVL?command=fs&lang=3&id=313#content",24.960768,63.936389
+FI,Nokia,"https://junalahdot.fi/NOA?command=fs&lang=3&id=314#content",23.49917,61.481059
+FI,Nurmes,"https://junalahdot.fi/NRM?command=fs&lang=3&id=317#content",29.137234,63.541078
+FI,Oitti,"https://junalahdot.fi/OI?command=fs&lang=3&id=320#content",25.021316,60.789806
+FI,Orivesi,"https://junalahdot.fi/OV?command=fs&lang=3&id=324#content",24.368047,61.650095
+FI,Orivesi keskusta,"https://junalahdot.fi/OVK?command=fs&lang=3&id=325#content",24.369838,61.673906
+FI,Oulainen,"https://junalahdot.fi/OU?command=fs&lang=3&id=330#content",24.82098,64.269509
+FI,Oulu asema,"https://junalahdot.fi/OL?command=fs&lang=3&id=331#content",25.486121,65.012409
+FI,Oulunkylä,"https://junalahdot.fi/OLK?command=fs&lang=3&id=56#content",24.967676,60.229
+FI,Paimenportti,"https://junalahdot.fi/PTI?command=fs&lang=3&id=199#content",26.919372,60.479685
+FI,Paltamo,"https://junalahdot.fi/PTO?command=fs&lang=3&id=339#content",27.82218,64.40061
+FI,Parikkala,"https://junalahdot.fi/PAR?command=fs&lang=3&id=341#content",29.502884,61.55855
+FI,Parkano,"https://junalahdot.fi/PKO?command=fs&lang=3&id=342#content",23.078439,62.051967
+FI,Parola,"https://junalahdot.fi/PRL?command=fs&lang=3&id=343#content",24.366497,61.049922
+FI,Pasila asema,"https://junalahdot.fi/PSL?command=fs&lang=3&id=58#content",24.933521,60.198689
+FI,Pello,"https://junalahdot.fi/PEL?command=fs&lang=3&id=344#content",23.993374,66.78466
+FI,Petäjävesi,"https://junalahdot.fi/PVI?command=fs&lang=3&id=349#content",25.189337,62.256974
+FI,Pieksämäki asema,"https://junalahdot.fi/PM?command=fs&lang=3&id=350#content",27.16753,62.301253
+FI,Pihlajavesi,"https://junalahdot.fi/PH?command=fs&lang=3&id=355#content",24.395608,62.346234
+FI,Pitäjänmäki,"https://junalahdot.fi/PJM?command=fs&lang=3&id=360#content",24.859649,60.223412
+FI,Pohjois-Haaga,"https://junalahdot.fi/POH?command=fs&lang=3&id=362#content",24.883319,60.230156
+FI,Pori,"https://junalahdot.fi/PRI?command=fs&lang=3&id=366#content",21.786607,61.477212
+FI,Puistola,"https://junalahdot.fi/PLA?command=fs&lang=3&id=370#content",25.036683,60.276313
+FI,Pukinmäki,"https://junalahdot.fi/PMK?command=fs&lang=3&id=371#content",24.993288,60.242216
+FI,Punkaharju,"https://junalahdot.fi/PUN?command=fs&lang=3&id=373#content",29.382354,61.761151
+FI,Pyhäsalmi,"https://junalahdot.fi/PHÄ?command=fs&lang=3&id=377#content",25.982615,63.682935
+FI,Pännäinen,"https://junalahdot.fi/PNÄ?command=fs&lang=3&id=378#content",22.790363,63.595382
+FI,Pääskylahti,"https://junalahdot.fi/PKY?command=fs&lang=3&id=379#content",28.924534,61.862291
+FI,Rekola,"https://junalahdot.fi/RKL?command=fs&lang=3&id=395#content",25.068666,60.332871
+FI,Retretti,"https://junalahdot.fi/REE?command=fs&lang=3&id=396#content",29.294294,61.803308
+FI,Riihimäki asema,"https://junalahdot.fi/RI?command=fs&lang=3&id=398#content",24.781241,60.736078
+FI,Rovaniemi,"https://junalahdot.fi/ROI?command=fs&lang=3&id=404#content",25.705329,66.497675
+FI,Runni,"https://junalahdot.fi/RNN?command=fs&lang=3&id=406#content",26.886487,63.602052
+FI,Ruukki,"https://junalahdot.fi/RKI?command=fs&lang=3&id=408#content",25.0982,64.660373
+FI,Ryttylä,"https://junalahdot.fi/RY?command=fs&lang=3&id=410#content",24.758186,60.818048
+FI,Salo,"https://junalahdot.fi/SLO?command=fs&lang=3&id=419#content",23.121448,60.384777
+FI,Santala,"https://junalahdot.fi/STA?command=fs&lang=3&id=422#content",23.121052,59.875008
+FI,Saunakallio,"https://junalahdot.fi/SAU?command=fs&lang=3&id=423#content",25.065568,60.487305
+FI,Savio,"https://junalahdot.fi/SAV?command=fs&lang=3&id=424#content",25.097803,60.381296
+FI,Savonlinna asema,"https://junalahdot.fi/SL?command=fs&lang=3&id=600#content",28.888266,61.8689
+FI,Seinäjoki asema,"https://junalahdot.fi/SK?command=fs&lang=3&id=428#content",22.844217,62.792016
+FI,Siilinjärvi asema,"https://junalahdot.fi/SIJ?command=fs&lang=3&id=434#content",27.666561,63.074953
+FI,Simpele,"https://junalahdot.fi/SPL?command=fs&lang=3&id=436#content",29.371696,61.424787
+FI,Siuntio,"https://junalahdot.fi/STI?command=fs&lang=3&id=439#content",24.221671,60.140648
+FI,Skogby,"https://junalahdot.fi/SGY?command=fs&lang=3&id=441#content",23.312403,59.926668
+FI,Sukeva,"https://junalahdot.fi/SKV?command=fs&lang=3&id=445#content",27.422313,63.864618
+FI,Suonenjoki,"https://junalahdot.fi/SNJ?command=fs&lang=3&id=447#content",27.124495,62.623707
+FI,Tammisaari,"https://junalahdot.fi/TMS?command=fs&lang=3&id=461#content",23.443501,59.979553
+FI,Tampere asema,"https://junalahdot.fi/TPE?command=fs&lang=3&id=462#content",23.773454,61.498236
+FI,Tapanila,"https://junalahdot.fi/TNA?command=fs&lang=3&id=466#content",25.030033,60.2639
+FI,Tavastila,"https://junalahdot.fi/TSL?command=fs&lang=3&id=468#content",26.954701,60.573333
+FI,Tervajoki,"https://junalahdot.fi/TK?command=fs&lang=3&id=469#content",22.171462,63.000773
+FI,Tervola,"https://junalahdot.fi/TRV?command=fs&lang=3&id=471#content",24.772291,66.081811
+FI,Tesoma,"https://junalahdot.fi/TSO?command=fs&lang=3&id=720#content",23.630271,61.503363
+FI,Tikkurila asema,"https://junalahdot.fi/TKL?command=fs&lang=3&id=474#content",25.044055,60.292166
+FI,Toijala,"https://junalahdot.fi/TL?command=fs&lang=3&id=476#content",23.860905,61.170611
+FI,Tolsa,"https://junalahdot.fi/TOL?command=fs&lang=3&id=478#content",24.472724,60.118558
+FI,Tornio-Itäinen,"https://junalahdot.fi/TRI?command=fs&lang=3&id=565#content",24.18508,65.850823
+FI,Tuomarila,"https://junalahdot.fi/TRL?command=fs&lang=3&id=483#content",24.681767,60.20605
+FI,Turenki,"https://junalahdot.fi/TU?command=fs&lang=3&id=485#content",24.63865,60.918387
+FI,Turku asema,"https://junalahdot.fi/TKU?command=fs&lang=3&id=486#content",22.260867,60.456488
+FI,Turku satama,"https://junalahdot.fi/TUS?command=fs&lang=3&id=488#content",22.226894,60.434245
+FI,Tuuri,"https://junalahdot.fi/TUU?command=fs&lang=3&id=492#content",23.722323,62.605349
+FI,Uimaharju,"https://junalahdot.fi/UIM?command=fs&lang=3&id=496#content",30.241497,62.912482
+FI,Utajärvi,"https://junalahdot.fi/UTJ?command=fs&lang=3&id=499#content",26.413565,64.758926
+FI,Uusikylä,"https://junalahdot.fi/UKÄ?command=fs&lang=3&id=502#content",25.993966,60.927722
+FI,Vaala,"https://junalahdot.fi/VAA?command=fs&lang=3&id=504#content",26.842702,64.558015
+FI,Vaasa,"https://junalahdot.fi/VS?command=fs&lang=3&id=506#content",21.621824,63.097786
+FI,Valimo,"https://junalahdot.fi/VMO?command=fs&lang=3&id=511#content",24.87583,60.222028
+FI,Vammala,"https://junalahdot.fi/VMA?command=fs&lang=3&id=515#content",22.887664,61.349519
+FI,Vantaankoski,"https://junalahdot.fi/VKS?command=fs&lang=3&id=517#content",24.847966,60.286119
+FI,Varkaus,"https://junalahdot.fi/VAR?command=fs&lang=3&id=518#content",27.873415,62.312389
+FI,Vehkala,"https://junalahdot.fi/VEH?command=fs&lang=3&id=608#content",24.843716,60.295054
+FI,Vihanti,"https://junalahdot.fi/VTI?command=fs&lang=3&id=527#content",24.993624,64.48451
+FI,Vihtari,"https://junalahdot.fi/VIH?command=fs&lang=3&id=528#content",29.029282,62.380739
+FI,Viiala,"https://junalahdot.fi/VIA?command=fs&lang=3&id=529#content",23.770683,61.211787
+FI,Viinijärvi,"https://junalahdot.fi/VNJ?command=fs&lang=3&id=530#content",29.237166,62.641687
+FI,Villähde,"https://junalahdot.fi/VLH?command=fs&lang=3&id=566#content",25.833724,60.946379
+FI,Vilppula,"https://junalahdot.fi/VLP?command=fs&lang=3&id=532#content",24.506956,62.025888
+FI,Vuonislahti,"https://junalahdot.fi/VSL?command=fs&lang=3&id=539#content",29.99331,63.152636
+FI,Ylitornio,"https://junalahdot.fi/YTR?command=fs&lang=3&id=544#content",23.682508,66.324438
+FI,Ylivieska,"https://junalahdot.fi/YV?command=fs&lang=3&id=546#content",24.540593,64.071898
+FI,Ähtäri,"https://junalahdot.fi/ÄHT?command=fs&lang=3&id=552#content",24.064036,62.553265
+FI,Espoo,"https://junalahdot.fi/EPO?command=fs&lang=3&id=18#content",24.655992,60.205067
+FI,Hanko asema,"https://junalahdot.fi/HNK?command=fs&lang=3&id=33#content",22.968291,59.826865
+FI,Helsinki asema,"https://junalahdot.fi/HKI?command=fs&lang=3&id=47#content",24.941444,60.171356
+FI,Hiekkaharju,"https://junalahdot.fi/HKH?command=fs&lang=3&id=61#content",25.049296,60.303067
+FI,Huopalahti,"https://junalahdot.fi/HPL?command=fs&lang=3&id=68#content",24.893523,60.21835
+FI,Hyvinkää asema,"https://junalahdot.fi/HY?command=fs&lang=3&id=71#content",24.857481,60.63126
+FI,Hämeenlinna,"https://junalahdot.fi/HL?command=fs&lang=3&id=72#content",24.478851,61.002368
+FI,Inkoo,"https://junalahdot.fi/IKO?command=fs&lang=3&id=90#content",23.93585,60.061511
+FI,Kannelmäki,"https://junalahdot.fi/KAN?command=fs&lang=3&id=128#content",24.877004,60.239562
+FI,Karjaa,"https://junalahdot.fi/KR?command=fs&lang=3&id=133#content",23.66126,60.068724
+FI,Kauklahti asema,"https://junalahdot.fi/KLH?command=fs&lang=3&id=139#content",24.600354,60.189456
+FI,Kauniainen,"https://junalahdot.fi/KNI?command=fs&lang=3&id=141#content",24.730884,60.211939
+FI,Kerava asema,"https://junalahdot.fi/KE?command=fs&lang=3&id=156#content",25.106028,60.404297
+FI,Kirkkonummi,"https://junalahdot.fi/KKN?command=fs&lang=3&id=168#content",24.438814,60.119648
+FI,Koivukylä,"https://junalahdot.fi/KVY?command=fs&lang=3&id=177#content",25.059797,60.323284
+FI,Kokkola,"https://junalahdot.fi/KOK?command=fs&lang=3&id=179#content",23.131096,63.834429
+FI,Kupittaa,"https://junalahdot.fi/KUT?command=fs&lang=3&id=487#content",22.297114,60.450274
+FI,Käpylä,"https://junalahdot.fi/KÄP?command=fs&lang=3&id=55#content",24.946034,60.22017
+FI,Lahti,"https://junalahdot.fi/LH?command=fs&lang=3&id=225#content",25.657397,60.97647
+FI,Lappeenranta,"https://junalahdot.fi/LR?command=fs&lang=3&id=232#content",28.195304,61.047973
+FI,Leinelä,"https://junalahdot.fi/LNÄ?command=fs&lang=3&id=605#content",25.039419,60.322641
+FI,Leppävaara,"https://junalahdot.fi/LPV?command=fs&lang=3&id=244#content",24.813541,60.21948
+FI,Louhela,"https://junalahdot.fi/LOH?command=fs&lang=3&id=255#content",24.853299,60.270798
+FI,Malmi,"https://junalahdot.fi/ML?command=fs&lang=3&id=268#content",25.011468,60.25166
+FI,Malminkartano,"https://junalahdot.fi/MLO?command=fs&lang=3&id=269#content",24.861283,60.249316
+FI,Martinlaakso,"https://junalahdot.fi/MRL?command=fs&lang=3&id=272#content",24.852604,60.27808
+FI,Masala,"https://junalahdot.fi/MAS?command=fs&lang=3&id=273#content",24.539106,60.158661
+FI,Oulu asema,"https://junalahdot.fi/OL?command=fs&lang=3&id=331#content",25.486121,65.012409
+FI,Oulunkylä,"https://junalahdot.fi/OLK?command=fs&lang=3&id=56#content",24.967676,60.229
+FI,Pasila asema,"https://junalahdot.fi/PSL?command=fs&lang=3&id=58#content",24.933521,60.198689
+FI,Pitäjänmäki,"https://junalahdot.fi/PJM?command=fs&lang=3&id=360#content",24.859649,60.223412
+FI,Pohjois-Haaga,"https://junalahdot.fi/POH?command=fs&lang=3&id=362#content",24.883319,60.230156
+FI,Pori,"https://junalahdot.fi/PRI?command=fs&lang=3&id=366#content",21.786607,61.477212
+FI,Puistola,"https://junalahdot.fi/PLA?command=fs&lang=3&id=370#content",25.036683,60.276313
+FI,Pukinmäki,"https://junalahdot.fi/PMK?command=fs&lang=3&id=371#content",24.993288,60.242216
+FI,Pännäinen,"https://junalahdot.fi/PNÄ?command=fs&lang=3&id=378#content",22.790363,63.595382
+FI,Rekola,"https://junalahdot.fi/RKL?command=fs&lang=3&id=395#content",25.068666,60.332871
+FI,Siuntio,"https://junalahdot.fi/STI?command=fs&lang=3&id=439#content",24.221671,60.140648
+FI,Tammisaari,"https://junalahdot.fi/TMS?command=fs&lang=3&id=461#content",23.443501,59.979553
+FI,Tampere asema,"https://junalahdot.fi/TPE?command=fs&lang=3&id=462#content",23.773454,61.498236
+FI,Tapanila,"https://junalahdot.fi/TNA?command=fs&lang=3&id=466#content",25.030033,60.2639
+FI,Tikkurila asema,"https://junalahdot.fi/TKL?command=fs&lang=3&id=474#content",25.044055,60.292166
+FI,Tornio-Itäinen,"https://junalahdot.fi/TRI?command=fs&lang=3&id=565#content",24.18508,65.850823
+FI,Turku asema,"https://junalahdot.fi/TKU?command=fs&lang=3&id=486#content",22.260867,60.456488
+FI,Turku satama,"https://junalahdot.fi/TUS?command=fs&lang=3&id=488#content",22.226894,60.434245
+FI,Vaasa,"https://junalahdot.fi/VS?command=fs&lang=3&id=506#content",21.621824,63.097786
+FI,Valimo,"https://junalahdot.fi/VMO?command=fs&lang=3&id=511#content",24.87583,60.222028
+FI,Vantaankoski,"https://junalahdot.fi/VKS?command=fs&lang=3&id=517#content",24.847966,60.286119
+FI,Vehkala,"https://junalahdot.fi/VEH?command=fs&lang=3&id=608#content",24.843716,60.295054
+FI,Ylitornio,"https://junalahdot.fi/YTR?command=fs&lang=3&id=544#content",23.682508,66.324438
+FI,Ähtäri,"https://junalahdot.fi/ÄHT?command=fs&lang=3&id=552#content",24.064036,62.553265
