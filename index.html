@@ -17732,11 +17732,12 @@ input.addEventListener('focus', () => {
 
 const feelingLucky = new URL(document.location.href).searchParams.get("s") ?? window.location.hash.substring(1);
 if (feelingLucky !== "") {
-    input.value = feelingLucky;
+    decoded = decodeURIComponent(feelingLucky);
+    input.value = decoded;
     try {
-        window.location.href = getStations(feelingLucky)[0].url;
+        window.location.href = getStations(decoded)[0].url;
     } catch (e) {
-        updateList(feelingLucky);
+        updateList(decoded);
     }
 }
    </script>
