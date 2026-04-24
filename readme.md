@@ -35,4 +35,4 @@ i do _not_ suggest trying to open `index.html` in a modern professional 10x engi
 
 # Data sources
 
-This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB, DB, Entur, Fintraffic, Trafikverket and RFI. All data is licensed under ODbL.
+This project uses data from Network Rail, Trainline, SNCF, Transitous, GHSL, ÖBB, DB, Entur, Fintraffic, Trafikverket, traines.eu and RFI. All data is licensed under ODbL.
