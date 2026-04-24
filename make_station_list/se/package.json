@@ -1,0 +1,13 @@
+{
+  "name": "se",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "csv-stringify": "^6.7.0"
+  }
+}
