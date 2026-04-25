@@ -1,0 +1,42 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 12 44 44" width="100%" height="100%">
+  <style>
+    .w, .wi {
+      fill: none;
+      stroke: #0F172A;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .wi {
+      stroke-width: 3;
+    }
+    /*.f { fill: #AAAA00; } */
+    .f { fill: #0F172A; }
+    @media (prefers-color-scheme: dark) {
+      .w, .wi { stroke: #e0e0e0; }
+      .f { fill: #e0e0e0; }
+      /*.f { fill: #AAAA00; } */
+    }
+  </style>
+  
+  <!-- frame -->
+  <!-- <rect x="4" y="4" width="56" height="56" rx="8" class="w" /> -->
+  
+  <!-- split flap -->
+  <!-- <line x1="4" y1="32" x2="16" y2="32" class="w" /> -->
+  <!-- <line x1="48" y1="32" x2="60" y2="32" class="w" /> -->
+  
+  <!-- train -->
+  <rect x="20" y="16" width="24" height="32" rx="4" class="w" />
+  
+  <!-- window -->
+  <rect x="26" y="22" width="12" height="8" rx="2" class="wi" />
+  
+  <!-- lights -->
+  <circle cx="28" cy="38" r="2" class="f" />
+  <circle cx="36" cy="38" r="2" class="f" />
+  
+  <!-- tracks -->
+  <path d="M 24 48 L 24 52 M 40 48 L 40 52" class="w" />
+</svg>
