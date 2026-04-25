@@ -145,17 +145,28 @@ input:focus {
         border-color: #7f1d1d;
     }
 }
+h1 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
 </style>
     </head>
     <body>
-        <h1>Departures 🚂</h1>
+        <h1>
+            <img src="/favicon.svg" width="64" height="64" alt="departures logo">
+            <img src="/favicon.svg" width="64" height="64" alt="departures logo">
+            dpartu.re
+            <img src="/favicon.svg" width="64" height="64" alt="departures logo">
+            <img src="/favicon.svg" width="64" height="64" alt="departures logo">
+        </h1>
         <div class="no-js-warning">
             ⚠️ <strong> please enable javascript </strong> <br/><br/>
             i promise you it is better than manually scrolling through twenty thousand stations
         </div>
         <div class="jspls" style="display: contents;">
             <div class="input-container">
-                <label for="station-search">Pick a station in France, Italy, Austria, Germany, Spain, the Netherlands, Norway, Finland, Sweden, Czechia, Portugal or the UK:</label>
+                <label for="station-search">Find station departures in France, Italy, Austria, Germany, Spain, the Netherlands, Norway, Finland, Sweden, Czechia, Portugal or the UK:</label>
                 <input type="search" autocomplete="off" spellcheck="false" id="station-search" placeholder="Type a station name...">
                 <ul id="station-results" class="dropdown"></ul>
             </div>
