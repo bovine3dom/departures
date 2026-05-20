@@ -11,7 +11,7 @@ copy (
     with germany as (
         select geom from ST_Read('4_niedrig.geo.json')
     )
-    select 'DE' country, name, concat('https://bahn.expert/',name) url, location.longitude lon, location.latitude lat from (
+    select 'DE' country, name, concat('https://bahn.expert/',name) url, location.longitude lon, location.latitude lat, if(id::int between 8_000_000 and 8_100_000, id, '') uic from (
         select distinct unnest(station) from 'full.ndjson' 
         where station is not null
     )

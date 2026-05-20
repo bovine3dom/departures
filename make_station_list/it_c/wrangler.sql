@@ -16,7 +16,7 @@ copy (
     select 
     'IT_C' as country, titlecase(o."#text") as name,
     concat('https://orariotreni.eavsrl.it/teleindicatori/?tipo=P&stazione=', o."value") as url,
-    Longitudine lon, Latitudine lat
+    Longitudine lon, Latitudine lat, null uic
     from (
         select unnest(option) o from read_html('raw.html')
     )

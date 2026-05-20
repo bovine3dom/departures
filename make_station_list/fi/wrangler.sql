@@ -50,7 +50,7 @@
 copy (
     select countryCode country, stationName as name,
     concat('https://junalahdot.fi/', stationShortCode, '?command=fs&lang=3&id=', id, '#content') as url,
-    longitude lon, latitude lat
+    longitude lon, latitude lat, concat('1000', stationUICCode) as uic
     from 'raw-stations-ids.json' ids
     left join 'raw-stations.json' locs on lower(stationShortCode) = lower(code)
     where countryCode = 'FI'

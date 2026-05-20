@@ -6,7 +6,7 @@ copy (
         replace(replace(lower(name), ' ', '-'), '’', ''),
         '?style=tb'
     ) as url,
-    longitude lon, latitude lat
+    longitude lon, latitude lat, uic
     from '../stations.csv'
     where country = 'NL'
     and uic is not null

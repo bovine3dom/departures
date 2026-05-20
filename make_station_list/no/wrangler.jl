@@ -25,6 +25,8 @@ for sp in stops
     
     eva_node = findfirst(".//n:KeyValue[n:Key='jbvCode']/n:Value", sp, ns)
     eva = eva_node !== nothing ? nodecontent(eva_node) : missing
+    uic_node = findfirst(".//n:KeyValue[n:Key='uicCode']/n:Value", sp, ns)
+    uic = uic_node !== nothing ? nodecontent(uic_node) : missing
     
     # norway _does_ provide central locations but it's easier to take an average
     # than use our brains
@@ -46,6 +48,7 @@ for sp in stops
         code = ismissing(eva) ? "" : eva,
         lon = local_lon,
         lat = local_lat,
+        uic = ismissing(uic) ? "" : uic,
     ))
 end
 
@@ -59,4 +62,4 @@ df.url = "https://rtd.banenor.no/web_client/std?layout=portrait&station=" .* df.
 df.country .= "NO"
 
 # [cn]-stations.csv: country, name, url, lon, lat
-CSV.write("no-stations.csv", df[!, [:country, :name, :url, :lon, :lat]], writeheader = false)
+CSV.write("no-stations.csv", df[!, [:country, :name, :url, :lon, :lat, :uic]], writeheader = false)

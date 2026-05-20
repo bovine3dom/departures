@@ -43,6 +43,7 @@ copy (
             ' en | sur | sous | de | la | et | le | les | l'' | d''', ' ', 'gi')
         , ' ', '-')
     , '/horaires#main-content')
-    as url, lon, lat from stations
+    as url, lon, lat, uic
+    from stations
     order by name
 ) to 'fr-stations.csv' (header false);

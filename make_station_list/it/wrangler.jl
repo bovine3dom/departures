@@ -108,6 +108,9 @@ dfj.joinkey = ifelse.(ismissing.(dfj.trainline), dfj.norm, dfj.trainline)
 
 df_final = leftjoin(dfj, tl[!, [:norm, :latitude, :longitude]], on = :joinkey => :norm)
 CSV.write("interim_matches.csv", df_final)
+# df_final = CSV.read("interim_matches.csv", DataFrame)
+sort!(tl, :uic, rev=true) # ... assume biggest UIC is the best for now
+leftjoin!(df_final, tl[.!nonunique(tl, :norm, keep=:first) .&& (8_300_000 .< tl.uic .< 8_400_000), [:norm, :uic]], on = :joinkey => :norm, matchmissing=:notequal)
 
 stations2save = DataFrame()
 stations2save.url = "https://iechub.rfi.it/ArriviPartenze/ArrivalsDepartures/Monitor?placeId=" .* string.(df_final.placeid) .* "&arrivals=False"
@@ -115,5 +118,5 @@ stations2save.name = titlecase.(df_final.name)
 stations2save.lat = df_final.latitude
 stations2save.lon = df_final.longitude
 stations2save.country .= "IT"
-
-CSV.write("it-stations.csv", stations2save[!, [:country, :name, :url, :lon, :lat]], header=false)
+stations2save.uic = df_final.uic
+CSV.write("it-stations.csv", stations2save[!, [:country, :name, :url, :lon, :lat, :uic]], header=false)

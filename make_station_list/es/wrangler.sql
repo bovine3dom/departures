@@ -4,7 +4,7 @@
 copy (
     select country, name,
     concat('https://pantallas-estaciones.vercel.app/~/?station=', (uic::string)[3:-1]) as url,
-    longitude as lon, latitude as lat
+    longitude as lon, latitude as lat, uic
     from '../stations.csv'
     where country = 'ES' and uic is not null
     and (uic::string)[1:2] == '71'

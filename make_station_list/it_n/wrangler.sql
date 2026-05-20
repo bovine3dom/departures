@@ -12,7 +12,7 @@ CREATE MACRO titlecase(str) AS ( -- why on earth isn't this included
 copy (
     select 'IT_N' as country, titlecase(n.column0) as name,
     concat('https://www.trenord.it/en/routes-and-timetables/journey/real-time/?station=', i.column0, '&stationName=', n.column0) as url,
-    lon, lat
+    lon, lat, null uic
     from read_csv('ids.csv',header=false) i
     positional join read_csv('names.csv',header=false) n
     left join (

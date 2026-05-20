@@ -18,6 +18,10 @@ https://dpartu.re/?s=gare du nord
 
 Some web browsers demand a slash, some demand a protocol. The coolest will work just with `dparu.re#oulu`.
 
+# Open data
+
+`make_station_list/friendly_stations_with_distance.json` and `make_station_list/uic_departure_url.jsonl` are particularly suited for reuse and are licensed under ODbL.
+
 # Todo
 
 - make the pipeline less horrific so you don't hate the idea of adding new countries

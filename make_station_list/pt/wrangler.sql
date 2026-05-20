@@ -22,6 +22,6 @@
 copy (
   select 'PT' country, designation as name, 
   concat('https://www.cp.pt/en/pesquisa-estacao-detalhe/', code) url,
-  longitude lon, latitude lat
+  longitude lon, latitude lat, if(code[1:2] = 94, concat(code[1:2], code[4:]), null) uic
   from 'raw-stations.json'
 ) to 'pt-stations.csv' (header false);

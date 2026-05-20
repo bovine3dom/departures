@@ -30,6 +30,7 @@ const stations = json["RESPONSE"]["RESULT"][0]["TrainStation"].map(station => {
         url: "https://www.trafikverket.se/trafikinformation/tag/?Station=" + name.replace(/ /g, "+") + "&ArrDep=departure#stheader",
         lon,
         lat,
+        uic: null,
     }
 });
 writeFileSync('se-stations.csv', stringify(stations.filter(x=>x.country === 'SE')));

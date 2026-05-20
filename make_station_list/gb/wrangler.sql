@@ -12,9 +12,10 @@ CREATE MACRO titlecase(str) AS ( -- why on earth isn't this included
 copy (
     select 'GB' country, ifNull(name, titlecase(network_rail_name)) as name, url,
     longitude lon,
-    latitude lat 
+    latitude lat,
+    c.uic
     from (
-        select d.NLCDESC network_rail_name, d."3ALPHA" a3, concat('https://www.realtimetrains.co.uk/search/simple/gb-nr:', d."3ALPHA") as url, concat('70', d.UIC) as uic from (
+        select d.NLCDESC network_rail_name, d."3ALPHA" a3, concat('https://www.realtimetrains.co.uk/search/simple/gb-nr:', d."3ALPHA") as url, if(d.UIC != ' ', concat('70', d.UIC), null) as uic from (
             select unnest(TIPLOCDATA) d from read_json('CORPUSExtract.json.gz')
         ) c
         -- get actual stations using ORR data
