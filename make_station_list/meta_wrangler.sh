@@ -1,5 +1,5 @@
 #!/bin/fish
-cat */*-stations.csv | ssh vauban 'cat - > /mnt/chungus/clickhouse_files/friendly_stations.csv'
+cat gb/*-stations.csv | ssh vauban 'cat - > /mnt/chungus/clickhouse_files/friendly_stations.csv'
 
 # ... do your clickhouse stuff
 

@@ -3,7 +3,7 @@
 select * except h3 from (
     --select c1 country, c2 name, c3 url, c4 lon, c5 lat, geoToH3(lat, lon, 8) h3, p.population
     select name, url, round(max(crow_km)) longest_route_km from (
-        select concat(c2, ', ', c1) name, c3 url, if(c4 is null, null, arrayJoin(h3kRing(geoToH3(assumeNotNull(c5), assumeNotNull(c4), 10), 2))) h3
+        select c2, concat(c2, ', ', c6) name, c3 url, if(c4 is null, null, arrayJoin(h3kRing(geoToH3(assumeNotNull(c5), assumeNotNull(c4), 10), 2))) h3, c6 years
         from file('chungus/friendly_stations.csv') fs
     ) stations
     left join (
@@ -12,8 +12,8 @@ select * except h3 from (
         -- only trains (we had loads of coaches before lol)
         where route_type = 2 or route_type between 100 and 117
     ) stats using h3
-    group by name, url
-    order by name asc, longest_route_km desc
+    group by name, c2, url, years
+    order by c2 asc, longest_route_km desc, years desc
 )
 into outfile 'friendly_stations_with_distance.json' truncate format JSONEachRow -- always a surprise: goes in working dir
 settings output_format_json_array_of_rows=1;

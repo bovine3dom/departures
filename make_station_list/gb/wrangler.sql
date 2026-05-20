@@ -9,12 +9,14 @@ CREATE MACRO titlecase(str) AS ( -- why on earth isn't this included
     )
 );
 
+-- e.g. https://raw.githubusercontent.com/anisotropi4/kingfisher/refs/heads/main/image/A/AAP-20182019-rail.png
 copy (
-    select 'GB' country, ifNull(name, titlecase(network_rail_name)) as name, url,
+    select 'GB' country, concat(ifNull(name, titlecase(network_rail_name)), ', ', a3) as name, concat('https://raw.githubusercontent.com/anisotropi4/kingfisher/refs/heads/main/image/',a3[1],'/',a3,'-',years,'-rail.png') url,
     longitude lon,
-    latitude lat 
+    latitude lat,
+    years
     from (
-        select d.NLCDESC network_rail_name, d."3ALPHA" a3, concat('https://www.realtimetrains.co.uk/search/simple/gb-nr:', d."3ALPHA") as url, concat('70', d.UIC) as uic from (
+        select d.NLCDESC network_rail_name, d."3ALPHA" a3, concat('70', d.UIC) as uic from (
             select unnest(TIPLOCDATA) d from read_json('CORPUSExtract.json.gz')
         ) c
         -- get actual stations using ORR data
@@ -27,5 +29,6 @@ a3 from read_csv('table-1410-passenger-entries-and-exits-and-interchanges-by-sta
     ) c
     left join '../stations.csv' s on (s.uic = c.uic) --or (s.sncf_id = concat('GB', c.a3)) -- this is a trap
     --where latitude is not null and longitude is not null
-    order by name
+    cross join 'years.csv' y
+    order by name, years desc
 ) to 'gb-stations.csv' (header false);
