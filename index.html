@@ -23251,7 +23251,8 @@ h1 {
 function getStations(query) {
     const toCase = query.toLowerCase() == query ? s => s.toLowerCase() : s => s;
 
-    const stripAccents = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    const charMap = {'Æ':'AE','æ':'ae','Ð':'D','ð':'d','Ø':'O','ø':'o','Þ':'Th','þ':'th','ß':'ss','×':'x','Đ':'D','đ':'d','Ħ':'H','ħ':'h','ĸ':'k','Ł':'L','ł':'l','ŉ':'n','Œ':'OE','œ':'oe','Ŧ':'T','ŧ':'t','ſ':'s','Ƶ':'Z','ƶ':'z'};
+    const stripAccents = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^\x00-\x7F]/g, c => charMap[c] || c);
     const toAccented = stripAccents(query) === query ? stripAccents : s => s;
 
     const stripPunc = s => s.replace(/\p{P}/gu, "");
