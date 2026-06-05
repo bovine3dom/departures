@@ -1,5 +1,6 @@
 #!/bin/fish
-cat */*-stations.csv | ssh vauban 'cat - > /mnt/chungus/clickhouse_files/friendly_stations.csv'
+cat */*-stations.csv | qsv fixlengths -l8 | ssh vauban 'cat - > /mnt/chungus/clickhouse_files/friendly_stations.csv' # nb change if you need to change length
+ssh vauban
 
 # ... do your clickhouse stuff
 

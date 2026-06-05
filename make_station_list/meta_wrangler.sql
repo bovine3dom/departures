@@ -2,8 +2,8 @@
 -- kontur population grid left as exercise for the reader
 select * except h3 from (
     --select c1 country, c2 name, c3 url, c4 lon, c5 lat, geoToH3(lat, lon, 8) h3, p.population
-    select name, url, round(max(crow_km)) longest_route_km from (
-        select concat(c2, ', ', c1) name, c3 url, if(c4 is null, null, arrayJoin(h3kRing(geoToH3(assumeNotNull(c5), assumeNotNull(c4), 10), 2))) h3
+    select name, url, round(max(crow_km)) longest_route_km, method, body from (
+        select concat(c2, ', ', c1) name, c3 url, if(c4 is null, null, arrayJoin(h3kRing(geoToH3(assumeNotNull(c5), assumeNotNull(c4), 10), 2))) h3, c6 uic, c7 method, c8 body
         from file('chungus/friendly_stations.csv') fs
     ) stations
     left join (
@@ -12,7 +12,7 @@ select * except h3 from (
         -- only trains (we had loads of coaches before lol)
         where route_type = 2 or route_type between 100 and 117
     ) stats using h3
-    group by name, url
+    group by name, url, method, body
     order by name asc, longest_route_km desc
 )
 into outfile 'friendly_stations_with_distance.json' truncate format JSONEachRow -- always a surprise: goes in working dir
