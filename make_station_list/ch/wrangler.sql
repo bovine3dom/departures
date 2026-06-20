@@ -4,7 +4,7 @@
 -- [cn]-stations.csv: country, name, url, lon, lat
 select isoCountryCode country, 
 designationOfficial name,
-concat('https://mesdeparts.ch/?station=', uic) as url,
+concat('https://mesdeparts.ch/?station=', replace(sloid, ':', '-')) as url,
 wgs84East lon, wgs84North lat,
 number uic
 from '554d4d8a-3720-453d-8571-727e0a0a7097.csv'
