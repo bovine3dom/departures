@@ -24053,7 +24053,8 @@ function getStations(query) {
     const toPunctuation = stripPunc(query) === query ? s => stripPunc(s) + " " + stripPuncSpace(s) : s => s; // this is silly
 
     const norm = s => toPunctuation(toAccented(toCase(s)));
-    const onVoieTousRunning = window.__onVoieTousRunning === true;
+    const onVoieTousRunning = window.__onVoieTousRunning === true ||
+        document.documentElement?.getAttribute('data-on-voie-tous-running') === 'true';
     const results = stations.filter(s =>
         (onVoieTousRunning || !s.url.startsWith('https://www.b-europe.com/')) &&
         norm(s.name).includes(query));
@@ -24158,6 +24159,10 @@ input.addEventListener('input', (e) => {
 });
 
 window.addEventListener('on-voie-tous-running', () => updateList(input.value));
+new MutationObserver(() => updateList(input.value)).observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ['data-on-voie-tous-running'],
+});
 
 input.addEventListener('keydown', (e) => {
     const items = list.querySelectorAll('li');
