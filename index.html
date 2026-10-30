@@ -112,10 +112,24 @@ input:focus {
     }
 }
 
-.footer-link {
+.footer-links {
     position: fixed;
-    bottom: 20px;
     right: 20px;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    box-sizing: border-box;
+}
+
+.footer-link {
+    flex: 0 1 auto;
+    width: fit-content;
+    max-width: 40%;
+    min-width: 0;
+    box-sizing: border-box;
+    overflow-wrap: anywhere;
     font-size: 0.85rem;
     color: var(--text-color);
     opacity: 0.5;
@@ -123,9 +137,13 @@ input:focus {
     transition: opacity 0.2s, color 0.2s;
 }
 
-.footer-link--left {
-    left: 20px;
-    right: auto;
+.footer-link:first-child {
+    text-align: left;
+}
+
+.footer-link:last-child {
+    margin-left: auto;
+    text-align: right;
 }
 
 .footer-link:hover {
@@ -176,8 +194,10 @@ h1 {
                 <input type="search" autocomplete="off" spellcheck="false" id="station-search" placeholder="Type a station name...">
                 <ul id="station-results" class="dropdown"></ul>
             </div>
-            <a href="https://github.com/bovine3dom/departures" target="_blank" class="footer-link">made with love by bovine3dom ❤️</a>
-            <a href="https://github.com/bovine3dom/on_voie_tous" target="_blank" rel="noopener noreferrer" class="footer-link footer-link--left">add platform predictions and support for Belgium with On Voie Tous</a>
+            <div class="footer-links">
+                <a href="https://github.com/bovine3dom/on_voie_tous" target="_blank" class="footer-link">add platform predictions and support for Belgium with On Voie Tous</a>
+                <a href="https://github.com/bovine3dom/departures" target="_blank" class="footer-link">made with love by bovine3dom ❤️</a>
+            </div>
         </div>
     </body>
    <script>
