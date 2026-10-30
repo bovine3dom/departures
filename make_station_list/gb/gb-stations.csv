@@ -119,10 +119,10 @@ GB,Audley End,https://www.realtimetrains.co.uk/search/simple/gb-nr:AUD,0.20719,5
 GB,Aughton Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:AUG,-2.895095,53.55447,7022150
 GB,Aviemore,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVM,-3.828348,57.18914,7086100
 GB,Avoncliff,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVF,-2.281342,51.339596,7032650
-GB,Avonmouth,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVN,,,7032008
+GB,Avonmouth,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVN,-2.699332,51.500194,7032008
 GB,Axminster,https://www.realtimetrains.co.uk/search/simple/gb-nr:AXM,-3.005613,50.778976,7057140
 GB,Aylesbury,https://www.realtimetrains.co.uk/search/simple/gb-nr:AYS,-0.815048,51.813868,7014920
-GB,Aylesbury Vale Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVP,,,7010901
+GB,Aylesbury Vale Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:AVP,-0.8623,51.8327,7010901
 GB,Aylesford,https://www.realtimetrains.co.uk/search/simple/gb-nr:AYL,0.465964,51.301384,7051620
 GB,Aylesham,https://www.realtimetrains.co.uk/search/simple/gb-nr:AYH,1.209682,51.227185,7051970
 GB,Ayr Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:AYR,-4.626878,55.458248,7094630
@@ -282,8 +282,8 @@ GB,Blantyre,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLT,-4.086466,5
 GB,Blaydon,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLO,-1.712578,54.965813,7075030
 GB,Bleasby,https://www.realtimetrains.co.uk/search/simple/gb-nr:BSB,-0.942469,53.041649,7062040
 GB,Bletchley,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLY,-0.736368,51.995339,7013600
-GB,Bloxwich,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLX,,,7011412
 GB,Bloxwich North,https://www.realtimetrains.co.uk/search/simple/gb-nr:BWN,-2.019173,52.625637,7010180
+GB,Bloxwich Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLX,-2.011783,52.61853,7011412
 GB,Blundellsands & Crosby,https://www.realtimetrains.co.uk/search/simple/gb-nr:BLN,-3.039889,53.487675,7021230
 GB,Blythe Bridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:BYB,-2.066966,52.968124,7012820
 GB,Bodmin Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:BOD,-4.663026,50.445822,7035010
@@ -509,7 +509,7 @@ GB,Cheshunt,https://www.realtimetrains.co.uk/search/simple/gb-nr:CHN,-0.023171,5
 GB,Chessington North,https://www.realtimetrains.co.uk/search/simple/gb-nr:CSN,-0.300661,51.364483,7055820
 GB,Chessington South,https://www.realtimetrains.co.uk/search/simple/gb-nr:CSS,-0.308144,51.356491,7055540
 GB,Chester,https://www.realtimetrains.co.uk/search/simple/gb-nr:CTR,-2.880152,53.196815,7024120
-GB,Chester Road,https://www.realtimetrains.co.uk/search/simple/gb-nr:CRD,,,7011301
+GB,Chester Road,https://www.realtimetrains.co.uk/search/simple/gb-nr:CRD,-1.832582,52.535575,7011301
 GB,Chester-Le-Street,https://www.realtimetrains.co.uk/search/simple/gb-nr:CLS,-1.577847,54.854885,7077360
 GB,Chesterfield,https://www.realtimetrains.co.uk/search/simple/gb-nr:CHD,-1.42011,53.238209,7066150
 GB,Chestfield & Swalecliffe,https://www.realtimetrains.co.uk/search/simple/gb-nr:CSW,1.068182,51.360004,7052000
@@ -581,7 +581,7 @@ GB,Cooksbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:CBR,-0.01027
 GB,Coombe,https://www.realtimetrains.co.uk/search/simple/gb-nr:COE,-4.481655,50.44479,7035700
 GB,Copplestone,https://www.realtimetrains.co.uk/search/simple/gb-nr:COP,-3.751624,50.814228,7058210
 GB,Corbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:CRB,-2.017141,54.966152,7075040
-GB,Corby,https://www.realtimetrains.co.uk/search/simple/gb-nr:COR,,,7018472
+GB,Corby,https://www.realtimetrains.co.uk/search/simple/gb-nr:COR,-0.687944,52.489196,7018472
 GB,Corkerhill,https://www.realtimetrains.co.uk/search/simple/gb-nr:CKH,-4.323322,55.836494,7096270
 GB,Corkickle,https://www.realtimetrains.co.uk/search/simple/gb-nr:CKL,-3.582155,54.541657,7020490
 GB,Corpach,https://www.realtimetrains.co.uk/search/simple/gb-nr:CPA,-5.121662,56.842724,7088240
@@ -623,7 +623,7 @@ GB,Crookston,https://www.realtimetrains.co.uk/search/simple/gb-nr:CKT,-4.36049,5
 GB,Cross Gates,https://www.realtimetrains.co.uk/search/simple/gb-nr:CRG,-1.451798,53.804638,7084730
 GB,Crossflatts,https://www.realtimetrains.co.uk/search/simple/gb-nr:CFL,-1.844886,53.858829,7085540
 GB,Crosshill,https://www.realtimetrains.co.uk/search/simple/gb-nr:COI,-4.257648,55.833225,7098140
-GB,Crosskeys,https://www.realtimetrains.co.uk/search/simple/gb-nr:CKY,,,7099022
+GB,Crosskeys,https://www.realtimetrains.co.uk/search/simple/gb-nr:CKY,-3.1261,51.621,7099022
 GB,Crossmyloof,https://www.realtimetrains.co.uk/search/simple/gb-nr:CMY,-4.284813,55.833626,7097960
 GB,Croston,https://www.realtimetrains.co.uk/search/simple/gb-nr:CSO,-2.777717,53.66756,7023130
 GB,Crouch Hill,https://www.realtimetrains.co.uk/search/simple/gb-nr:CRH,-0.116907,51.571205,7074060
@@ -707,7 +707,7 @@ GB,Doleham,https://www.realtimetrains.co.uk/search/simple/gb-nr:DLH,0.610732,50.
 GB,Dolgarrog,https://www.realtimetrains.co.uk/search/simple/gb-nr:DLG,-3.822808,53.186123,7025380
 GB,Dolwyddelan,https://www.realtimetrains.co.uk/search/simple/gb-nr:DWD,-3.884288,53.052105,7024520
 GB,Doncaster,https://www.realtimetrains.co.uk/search/simple/gb-nr:DON,-1.140225,53.521469,7064170
-GB,Dorchester South,https://www.realtimetrains.co.uk/search/simple/gb-nr:DCH,,,7059612
+GB,Dorchester South,https://www.realtimetrains.co.uk/search/simple/gb-nr:DCH,-2.437593,50.708752,7059612
 GB,Dorchester West,https://www.realtimetrains.co.uk/search/simple/gb-nr:DCW,-2.443274,50.710526,7059620
 GB,Dore & Totley,https://www.realtimetrains.co.uk/search/simple/gb-nr:DOR,-1.514997,53.327625,7066900
 GB,Dorking Deepdene,https://www.realtimetrains.co.uk/search/simple/gb-nr:DPD,-0.323921,51.238918,7054120
@@ -725,7 +725,7 @@ GB,Drayton Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:DYP,-0.1047
 GB,Drem,https://www.realtimetrains.co.uk/search/simple/gb-nr:DRM,-2.785752,56.005981,7093170
 GB,Driffield,https://www.realtimetrains.co.uk/search/simple/gb-nr:DRF,-0.434627,54.001526,7080570
 GB,Drigg,https://www.realtimetrains.co.uk/search/simple/gb-nr:DRI,-3.444066,54.376968,7019940
-GB,Droitwich Spa,https://www.realtimetrains.co.uk/search/simple/gb-nr:DTW,,,7048782
+GB,Droitwich Spa,https://www.realtimetrains.co.uk/search/simple/gb-nr:DTW,-2.158239,52.26862,7048782
 GB,Dronfield,https://www.realtimetrains.co.uk/search/simple/gb-nr:DRO,-1.468768,53.301357,7066160
 GB,Drumchapel,https://www.realtimetrains.co.uk/search/simple/gb-nr:DMC,-4.364204,55.904926,7099940
 GB,Drumfrochar,https://www.realtimetrains.co.uk/search/simple/gb-nr:DFR,-4.774822,55.941292,7099670
@@ -784,7 +784,7 @@ GB,Eastleigh,https://www.realtimetrains.co.uk/search/simple/gb-nr:ESL,-1.350563,
 GB,Eastrington,https://www.realtimetrains.co.uk/search/simple/gb-nr:EGN,-0.786612,53.75481,7081140
 GB,Ebbsfleet International,https://www.realtimetrains.co.uk/search/simple/gb-nr:EBD,,,
 GB,Ebbw Vale,https://www.realtimetrains.co.uk/search/simple/gb-nr:EBB,,,
-GB,Ebbw Vale Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:EBV,,,7099151
+GB,Ebbw Vale Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:EBV,-3.1965,51.7573,7099151
 GB,Eccles,https://www.realtimetrains.co.uk/search/simple/gb-nr:ECC,-2.333014,53.485443,7029500
 GB,Eccles Road,https://www.realtimetrains.co.uk/search/simple/gb-nr:ECS,0.969656,52.470585,7073700
 GB,Eccleston Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:ECL,-2.780555,53.430665,7022270
@@ -1058,7 +1058,7 @@ GB,Handforth,https://www.realtimetrains.co.uk/search/simple/gb-nr:HTH,-2.213263,
 GB,Hanwell,https://www.realtimetrains.co.uk/search/simple/gb-nr:HAN,-0.338432,51.511604,7031910
 GB,Hapton,https://www.realtimetrains.co.uk/search/simple/gb-nr:HPN,-2.318115,53.781393,7025570
 GB,Harlech,https://www.realtimetrains.co.uk/search/simple/gb-nr:HRL,-4.109248,52.861309,7044580
-GB,Harlesden,https://www.realtimetrains.co.uk/search/simple/gb-nr:HDN,,,7015212
+GB,Harlesden,https://www.realtimetrains.co.uk/search/simple/gb-nr:HDN,-0.258214,51.536518,7015212
 GB,Harling Road,https://www.realtimetrains.co.uk/search/simple/gb-nr:HRD,0.908188,52.454128,7073740
 GB,Harlington,https://www.realtimetrains.co.uk/search/simple/gb-nr:HLN,-0.495715,51.962012,7015330
 GB,Harlow Mill,https://www.realtimetrains.co.uk/search/simple/gb-nr:HWM,0.131497,51.790878,7068040
@@ -1110,8 +1110,8 @@ GB,Heald Green,https://www.realtimetrains.co.uk/search/simple/gb-nr:HDG,-2.23653
 GB,Healing,https://www.realtimetrains.co.uk/search/simple/gb-nr:HLI,-0.160163,53.581425,7062830
 GB,Heath High Level,https://www.realtimetrains.co.uk/search/simple/gb-nr:HHL,-3.181737,51.516518,7038450
 GB,Heath Low Level,https://www.realtimetrains.co.uk/search/simple/gb-nr:HLL,-3.183163,51.515606,7039080
-GB,Heathrow T5,https://www.realtimetrains.co.uk/search/simple/gb-nr:HWV,,,7098461
 GB,Heathrow Terminal 4 Rail,https://www.realtimetrains.co.uk/search/simple/gb-nr:HAF,-0.445447,51.458214,7070910
+GB,Heathrow Terminal 5 Rail,https://www.realtimetrains.co.uk/search/simple/gb-nr:HWV,-0.48,51.47,7098461
 GB,Heathrow Terminals 1-2-3 Rail,https://www.realtimetrains.co.uk/search/simple/gb-nr:HXX,-0.456,51.471,7070900
 GB,Heaton Chapel,https://www.realtimetrains.co.uk/search/simple/gb-nr:HTC,-2.179046,53.425556,7028610
 GB,Hebden Bridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:HBD,-2.009063,53.737587,7085240
@@ -1222,7 +1222,7 @@ GB,Ifield,https://www.realtimetrains.co.uk/search/simple/gb-nr:IFI,-0.215505,51.
 GB,Ilford,https://www.realtimetrains.co.uk/search/simple/gb-nr:IFD,0.068699,51.559078,7068810
 GB,Ilkeston,https://www.realtimetrains.co.uk/search/simple/gb-nr:ILN,,,7077830
 GB,Ilkley,https://www.realtimetrains.co.uk/search/simple/gb-nr:ILK,-1.821799,53.925304,7085680
-GB,Imperial Wharf,https://www.realtimetrains.co.uk/search/simple/gb-nr:IMW,,,7095861
+GB,Imperial Wharf,https://www.realtimetrains.co.uk/search/simple/gb-nr:IMW,-0.183026,51.475134,7095861
 GB,Ince,https://www.realtimetrains.co.uk/search/simple/gb-nr:INC,-2.611865,53.538975,7022360
 GB,Ince & Elton,https://www.realtimetrains.co.uk/search/simple/gb-nr:INE,-2.816234,53.276736,7021220
 GB,Ingatestone,https://www.realtimetrains.co.uk/search/simple/gb-nr:INT,0.384556,51.667301,7068820
@@ -1353,7 +1353,7 @@ GB,Lapworth,https://www.realtimetrains.co.uk/search/simple/gb-nr:LPW,-1.72549,52
 GB,Larbert,https://www.realtimetrains.co.uk/search/simple/gb-nr:LBT,-3.830604,56.022751,7098760
 GB,Largs,https://www.realtimetrains.co.uk/search/simple/gb-nr:LAR,-4.867942,55.792637,7095210
 GB,Larkhall,https://www.realtimetrains.co.uk/search/simple/gb-nr:LRH,-3.974445,55.739258,7097280
-GB,Laurencekirk,https://www.realtimetrains.co.uk/search/simple/gb-nr:LAU,,,7089313
+GB,Laurencekirk,https://www.realtimetrains.co.uk/search/simple/gb-nr:LAU,-2.466345,56.835945,7089313
 GB,Lawrence Hill,https://www.realtimetrains.co.uk/search/simple/gb-nr:LWH,-2.564183,51.458168,7032250
 GB,Layton,https://www.realtimetrains.co.uk/search/simple/gb-nr:LAY,-3.030249,53.835625,7026690
 GB,Lazonby & Kirkoswald,https://www.realtimetrains.co.uk/search/simple/gb-nr:LZB,-2.702207,54.750233,7020590
@@ -1406,7 +1406,7 @@ GB,Littlehaven,https://www.realtimetrains.co.uk/search/simple/gb-nr:LVN,-0.30827
 GB,Littleport,https://www.realtimetrains.co.uk/search/simple/gb-nr:LTP,0.316905,52.462696,7070720
 GB,Liverpool Central,https://www.realtimetrains.co.uk/search/simple/gb-nr:LVC,-2.977841,53.40525,7022420
 GB,Liverpool Lime Street,https://www.realtimetrains.co.uk/search/simple/gb-nr:LIV,-2.977746,53.407299,7022460
-GB,Liverpool South Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:LPY,,,7097091
+GB,Liverpool South Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:LPY,-2.8897,53.3577,7097091
 GB,Livingston North,https://www.realtimetrains.co.uk/search/simple/gb-nr:LSN,-3.543357,55.901736,7093710
 GB,Livingston South,https://www.realtimetrains.co.uk/search/simple/gb-nr:LVG,-3.503823,55.871712,7093720
 GB,Llanaber,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLA,-4.078263,52.741375,7043270
@@ -1429,12 +1429,12 @@ GB,Llangadog,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLG,-3.892638,
 GB,Llangammarch,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLM,-3.55528,52.113724,7041620
 GB,Llangennech,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLH,-4.078988,51.691093,7041380
 GB,Llangynllo,https://www.realtimetrains.co.uk/search/simple/gb-nr:LGO,-3.161273,52.350227,7042070
-GB,Llanharan,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLR,,,7099251
-GB,Llanhilleth,https://www.realtimetrains.co.uk/search/simple/gb-nr:LTH,,,7099161
+GB,Llanharan,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLR,-3.4408,51.53759,7099251
+GB,Llanhilleth,https://www.realtimetrains.co.uk/search/simple/gb-nr:LTH,-3.137033,51.700339,7099161
 GB,Llanishen,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLS,-3.182181,51.533592,7038470
 GB,Llanrwst,https://www.realtimetrains.co.uk/search/simple/gb-nr:LWR,-3.802844,53.14401,7024570
 GB,Llansamlet,https://www.realtimetrains.co.uk/search/simple/gb-nr:LAS,-3.892526,51.660973,7042230
-GB,Llantwit Major,https://www.realtimetrains.co.uk/search/simple/gb-nr:LWM,,,7096991
+GB,Llantwit Major,https://www.realtimetrains.co.uk/search/simple/gb-nr:LWM,-3.47503,51.40623,7096991
 GB,Llanwrda,https://www.realtimetrains.co.uk/search/simple/gb-nr:LNR,-3.871719,51.962551,7040610
 GB,Llanwrtyd,https://www.realtimetrains.co.uk/search/simple/gb-nr:LNW,-3.632354,52.104584,7041630
 GB,Llwyngwril,https://www.realtimetrains.co.uk/search/simple/gb-nr:LLW,-4.088024,52.66658,7044210
@@ -1468,7 +1468,7 @@ GB,Long Buckby,https://www.realtimetrains.co.uk/search/simple/gb-nr:LBK,-1.08646
 GB,Long Eaton,https://www.realtimetrains.co.uk/search/simple/gb-nr:LGE,-1.288114,52.885105,7018290
 GB,Long Preston,https://www.realtimetrains.co.uk/search/simple/gb-nr:LPR,-2.254533,54.017115,7026570
 GB,Longbeck,https://www.realtimetrains.co.uk/search/simple/gb-nr:LGK,-1.028041,54.592896,7079780
-GB,Longbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:LOB,,,7011101
+GB,Longbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:LOB,-1.980861,52.396385,7011101
 GB,Longcross,https://www.realtimetrains.co.uk/search/simple/gb-nr:LNG,-0.594536,51.384556,7056740
 GB,Longfield,https://www.realtimetrains.co.uk/search/simple/gb-nr:LGF,0.299994,51.396496,7051140
 GB,Longniddry,https://www.realtimetrains.co.uk/search/simple/gb-nr:LND,-2.889308,55.976524,7093540
@@ -1662,7 +1662,7 @@ GB,New Pudsey,https://www.realtimetrains.co.uk/search/simple/gb-nr:NPD,-1.679581
 GB,New Southgate,https://www.realtimetrains.co.uk/search/simple/gb-nr:NSG,-0.142586,51.613876,7060190
 GB,Newark Castle,https://www.realtimetrains.co.uk/search/simple/gb-nr:NCT,-0.813151,53.079987,7064980
 GB,Newark Northgate,https://www.realtimetrains.co.uk/search/simple/gb-nr:NNG,-0.799644,53.082542,7064990
-GB,Newbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:NBE,,,7099191
+GB,Newbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:NBE,-3.142116,51.665686,7099191
 GB,Newbury Racecourse,https://www.realtimetrains.co.uk/search/simple/gb-nr:NRC,-1.308549,51.39814,7030710
 GB,Newbury Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:NBY,-1.322608,51.397599,7030740
 GB,Newcastle,https://www.realtimetrains.co.uk/search/simple/gb-nr:NCL,-1.617264,54.968243,7077280
@@ -1678,7 +1678,7 @@ GB,Newquay,https://www.realtimetrains.co.uk/search/simple/gb-nr:NQY,-5.075769,50
 GB,Newsham,https://www.realtimetrains.co.uk/search/simple/gb-nr:NWH,,,7076680
 GB,Newstead,https://www.realtimetrains.co.uk/search/simple/gb-nr:NSD,-1.222036,53.069961,7018630
 GB,Newton,https://www.realtimetrains.co.uk/search/simple/gb-nr:NTN,-4.133907,55.819256,7097740
-GB,Newton Abbot,https://www.realtimetrains.co.uk/search/simple/gb-nr:NTA,,,7034262
+GB,Newton Abbot,https://www.realtimetrains.co.uk/search/simple/gb-nr:NTA,-3.599957,50.529507,7034262
 GB,Newton Aycliffe,https://www.realtimetrains.co.uk/search/simple/gb-nr:NAY,-1.5881,54.613171,7078340
 GB,Newton St Cyres,https://www.realtimetrains.co.uk/search/simple/gb-nr:NTC,-3.588594,50.77879,7058280
 GB,Newton for Hyde,https://www.realtimetrains.co.uk/search/simple/gb-nr:NWN,-2.067735,53.45623,7027890
@@ -1741,7 +1741,7 @@ GB,Oulton Broad South,https://www.realtimetrains.co.uk/search/simple/gb-nr:OUS,1
 GB,Outwood,https://www.realtimetrains.co.uk/search/simple/gb-nr:OUT,-1.512068,53.714115,7083090
 GB,Overpool,https://www.realtimetrains.co.uk/search/simple/gb-nr:OVE,-2.924788,53.284155,7021570
 GB,Overton,https://www.realtimetrains.co.uk/search/simple/gb-nr:OVR,-1.25913,51.253971,7055260
-GB,Oxenholme,https://www.realtimetrains.co.uk/search/simple/gb-nr:OXN,,,7020903
+GB,Oxenholme Lake District,https://www.realtimetrains.co.uk/search/simple/gb-nr:OXN,-2.722249,54.305169,7020903
 GB,Oxford,https://www.realtimetrains.co.uk/search/simple/gb-nr:OXF,-1.270037,51.753549,7031150
 GB,Oxford Parkway,https://www.realtimetrains.co.uk/search/simple/gb-nr:OXP,-1.2745,51.8042,7031210
 GB,Oxshott,https://www.realtimetrains.co.uk/search/simple/gb-nr:OXS,-0.361993,51.336578,7056020
@@ -1762,7 +1762,7 @@ GB,Park Street,https://www.realtimetrains.co.uk/search/simple/gb-nr:PKT,-0.34072
 GB,Parkstone (Dorset),https://www.realtimetrains.co.uk/search/simple/gb-nr:PKS,-1.94897,50.723049,7058820
 GB,Parson Street,https://www.realtimetrains.co.uk/search/simple/gb-nr:PSN,-2.60991,51.432758,7032460
 GB,Partick,https://www.realtimetrains.co.uk/search/simple/gb-nr:PTK,-4.310921,55.869987,7099170
-GB,Parton,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRN,,,7020322
+GB,Parton,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRN,-3.580867,54.569795,7020322
 GB,Patchway,https://www.realtimetrains.co.uk/search/simple/gb-nr:PWY,-2.562647,51.52578,7032130
 GB,Patricroft,https://www.realtimetrains.co.uk/search/simple/gb-nr:PAT,-2.357919,53.484745,7029160
 GB,Patterton,https://www.realtimetrains.co.uk/search/simple/gb-nr:PTT,-4.334935,55.790443,7097750
@@ -1858,7 +1858,7 @@ GB,Prescot,https://www.realtimetrains.co.uk/search/simple/gb-nr:PSC,-2.799022,53
 GB,Prestatyn,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRT,-3.407164,53.336491,7025210
 GB,Prestbury,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRB,-2.14549,53.293465,7028750
 GB,Preston,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRE,-2.707191,53.755721,7027530
-GB,Preston Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRP,,,7052852
+GB,Preston Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRP,-0.154787,50.846054,7052852
 GB,Prestonpans,https://www.realtimetrains.co.uk/search/simple/gb-nr:PST,-2.973665,55.953426,7093660
 GB,Prestwick International Airport,https://www.realtimetrains.co.uk/search/simple/gb-nr:PRA,-4.616166,55.511513,7095440
 GB,Prestwick Town,https://www.realtimetrains.co.uk/search/simple/gb-nr:PTW,-4.613935,55.501675,7095430
@@ -1909,7 +1909,7 @@ GB,Redcar East,https://www.realtimetrains.co.uk/search/simple/gb-nr:RCE,-1.05088
 GB,Reddish North,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDN,-2.15656,53.448956,7029790
 GB,Reddish South,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDS,-2.159028,53.435873,7028570
 GB,Redditch,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDC,-1.945248,52.306337,7012080
-GB,Redhill,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDH,,,7054782
+GB,Redhill,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDH,-0.164851,51.240124,7054782
 GB,Redland,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDA,-2.598875,51.468792,7032470
 GB,Redruth,https://www.realtimetrains.co.uk/search/simple/gb-nr:RED,-5.225877,50.233111,7035300
 GB,Reedham (London),https://www.realtimetrains.co.uk/search/simple/gb-nr:RHM,-0.123854,51.332108,7054310
@@ -1919,18 +1919,18 @@ GB,Renton,https://www.realtimetrains.co.uk/search/simple/gb-nr:RTN,-4.586181,55.
 GB,Reston,https://www.realtimetrains.co.uk/search/simple/gb-nr:RSN,,,7086340
 GB,Retford,https://www.realtimetrains.co.uk/search/simple/gb-nr:RET,-0.94772,53.315872,7065110
 GB,Rhiwbina,https://www.realtimetrains.co.uk/search/simple/gb-nr:RHI,-3.213561,51.520687,7039060
-GB,Rhoose (cardiff Intl Airport),https://www.realtimetrains.co.uk/search/simple/gb-nr:RIA,,,7038761
+GB,Rhoose Cardiff Airport,https://www.realtimetrains.co.uk/search/simple/gb-nr:RIA,-3.347599,51.387454,7038761
 GB,Rhosneigr,https://www.realtimetrains.co.uk/search/simple/gb-nr:RHO,-4.505768,53.234782,7025440
 GB,Rhyl,https://www.realtimetrains.co.uk/search/simple/gb-nr:RHL,-3.489144,53.318409,7024610
 GB,Rhymney,https://www.realtimetrains.co.uk/search/simple/gb-nr:RHY,-3.289494,51.759064,7040270
 GB,Ribblehead,https://www.realtimetrains.co.uk/search/simple/gb-nr:RHD,-2.36087,54.205776,7021060
 GB,Rice Lane,https://www.realtimetrains.co.uk/search/simple/gb-nr:RIL,-2.962253,53.457738,7021310
 GB,Richmond,https://www.realtimetrains.co.uk/search/simple/gb-nr:RMD,-0.301346,51.462505,7055700
-GB,Rickmansworth Lt,https://www.realtimetrains.co.uk/search/simple/gb-nr:RIC,,,7006871
+GB,Rickmansworth,https://www.realtimetrains.co.uk/search/simple/gb-nr:RIC,-0.473013,51.640447,7006871
 GB,Riddlesdown,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDD,-0.099436,51.332611,7054320
 GB,Ridgmont,https://www.realtimetrains.co.uk/search/simple/gb-nr:RID,-0.594903,52.026588,7015380
 GB,Riding Mill,https://www.realtimetrains.co.uk/search/simple/gb-nr:RDM,-1.97186,54.949066,7075100
-GB,Risca & Pontymister,https://www.realtimetrains.co.uk/search/simple/gb-nr:RCA,,,7099201
+GB,Risca & Pontymister,https://www.realtimetrains.co.uk/search/simple/gb-nr:RCA,-3.093533,51.60443,7099201
 GB,Rishton,https://www.realtimetrains.co.uk/search/simple/gb-nr:RIS,-2.420165,53.763813,7025800
 GB,Robertsbridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:RBR,0.469092,50.984726,7052260
 GB,Robroyston,https://www.realtimetrains.co.uk/search/simple/gb-nr:RRN,,,7077800
@@ -1941,7 +1941,7 @@ GB,Rochester,https://www.realtimetrains.co.uk/search/simple/gb-nr:RTR,0.510698,5
 GB,Rochford,https://www.realtimetrains.co.uk/search/simple/gb-nr:RFD,0.701959,51.581276,7068850
 GB,Rock Ferry,https://www.realtimetrains.co.uk/search/simple/gb-nr:RFY,-3.010898,53.372269,7021890
 GB,Rogart,https://www.realtimetrains.co.uk/search/simple/gb-nr:ROG,-4.158224,57.988979,7086710
-GB,Rogerstone,https://www.realtimetrains.co.uk/search/simple/gb-nr:ROR,,,7099212
+GB,Rogerstone,https://www.realtimetrains.co.uk/search/simple/gb-nr:ROR,-3.065478,51.593413,7099212
 GB,Rolleston,https://www.realtimetrains.co.uk/search/simple/gb-nr:ROL,-0.900095,53.065536,7063530
 GB,Roman Bridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:RMB,-3.92125,53.044319,7024440
 GB,Romford,https://www.realtimetrains.co.uk/search/simple/gb-nr:RMF,0.181986,51.575016,7068860
@@ -2040,7 +2040,7 @@ GB,Sheffield,https://www.realtimetrains.co.uk/search/simple/gb-nr:SHF,-1.463297,
 GB,Shelford,https://www.realtimetrains.co.uk/search/simple/gb-nr:SED,0.139805,52.149517,7070430
 GB,Shenfield,https://www.realtimetrains.co.uk/search/simple/gb-nr:SNF,0.330602,51.630615,7068880
 GB,Shenstone,https://www.realtimetrains.co.uk/search/simple/gb-nr:SEN,-1.844528,52.638985,7011780
-GB,Shepherds Bush,https://www.realtimetrains.co.uk/search/simple/gb-nr:SPB,,,7095871
+GB,Shepherds Bush,https://www.realtimetrains.co.uk/search/simple/gb-nr:SPB,-0.218,51.506,7095871
 GB,Shepherds Well,https://www.realtimetrains.co.uk/search/simple/gb-nr:SPH,1.229952,51.188339,7051860
 GB,Shepley,https://www.realtimetrains.co.uk/search/simple/gb-nr:SPY,-1.703863,53.588913,7084480
 GB,Shepperton,https://www.realtimetrains.co.uk/search/simple/gb-nr:SHP,-0.447521,51.397091,7056050
@@ -2119,7 +2119,7 @@ GB,Southampton Central,https://www.realtimetrains.co.uk/search/simple/gb-nr:SOU,
 GB,Southbourne,https://www.realtimetrains.co.uk/search/simple/gb-nr:SOB,-0.907601,50.848343,7052630
 GB,Southbury,https://www.realtimetrains.co.uk/search/simple/gb-nr:SBU,-0.052998,51.648396,7069470
 GB,Southease,https://www.realtimetrains.co.uk/search/simple/gb-nr:SEE,0.03066,50.831284,7053390
-GB,Southend Airport,https://www.realtimetrains.co.uk/search/simple/gb-nr:SIA,,,7047871
+GB,Southend Airport,https://www.realtimetrains.co.uk/search/simple/gb-nr:SIA,0.704084,51.5687,7047871
 GB,Southend Central,https://www.realtimetrains.co.uk/search/simple/gb-nr:SOC,0.712305,51.536972,7074560
 GB,Southend East,https://www.realtimetrains.co.uk/search/simple/gb-nr:SOE,0.731196,51.539234,7074570
 GB,Southend Victoria,https://www.realtimetrains.co.uk/search/simple/gb-nr:SOV,0.711184,51.542389,7074200
@@ -2163,7 +2163,7 @@ GB,St Mary Cray,https://www.realtimetrains.co.uk/search/simple/gb-nr:SMY,0.10726
 GB,St Michaels,https://www.realtimetrains.co.uk/search/simple/gb-nr:STM,-2.952704,53.375649,7022480
 GB,St Neots Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:SNO,-0.247244,52.231438,7061100
 GB,St Pancras London,https://www.realtimetrains.co.uk/search/simple/gb-nr:STP,,,7015550
-GB,Stafford,https://www.realtimetrains.co.uk/search/simple/gb-nr:STA,,,7012683
+GB,Stafford,https://www.realtimetrains.co.uk/search/simple/gb-nr:STA,-2.123088,52.804466,7012683
 GB,Staines,https://www.realtimetrains.co.uk/search/simple/gb-nr:SNS,-0.502415,51.432873,7056700
 GB,Stallingborough,https://www.realtimetrains.co.uk/search/simple/gb-nr:SLL,-0.182581,53.587158,7062870
 GB,Stalybridge,https://www.realtimetrains.co.uk/search/simple/gb-nr:SYB,-2.06264,53.484471,7029830
@@ -2323,7 +2323,7 @@ GB,Tottenham Court Road El,https://www.realtimetrains.co.uk/search/simple/gb-nr:
 GB,Tottenham Hale,https://www.realtimetrains.co.uk/search/simple/gb-nr:TOM,-0.059914,51.588257,7069510
 GB,Totton,https://www.realtimetrains.co.uk/search/simple/gb-nr:TTN,-1.482138,50.917953,7059210
 GB,Town Green,https://www.realtimetrains.co.uk/search/simple/gb-nr:TWN,-2.9045,53.542807,7022830
-GB,Trafford Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:TRA,,,7029691
+GB,Trafford Park,https://www.realtimetrains.co.uk/search/simple/gb-nr:TRA,-2.310836,53.454899,7029691
 GB,Trefforest Estate,https://www.realtimetrains.co.uk/search/simple/gb-nr:TRE,-3.2913,51.568417,7038860
 GB,Trefforest Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:TRF,-3.325157,51.591419,7038870
 GB,Trehafod,https://www.realtimetrains.co.uk/search/simple/gb-nr:TRH,-3.380569,51.609661,7038880
@@ -2440,7 +2440,7 @@ GB,West Croydon,https://www.realtimetrains.co.uk/search/simple/gb-nr:WCY,-0.1018
 GB,West Drayton,https://www.realtimetrains.co.uk/search/simple/gb-nr:WDT,-0.472515,51.509827,7031740
 GB,West Dulwich,https://www.realtimetrains.co.uk/search/simple/gb-nr:WDU,-0.090646,51.440388,7050860
 GB,West Ealing,https://www.realtimetrains.co.uk/search/simple/gb-nr:WEA,-0.320792,51.513123,7031880
-GB,West Ham,https://www.realtimetrains.co.uk/search/simple/gb-nr:WEH,,,7074741
+GB,West Ham,https://www.realtimetrains.co.uk/search/simple/gb-nr:WEH,0.005323,51.528709,7074741
 GB,West Hampstead,https://www.realtimetrains.co.uk/search/simple/gb-nr:WHD,-0.191016,51.54711,7014210
 GB,West Hampstead Thameslink,https://www.realtimetrains.co.uk/search/simple/gb-nr:WHP,-0.1924,51.548644,7015250
 GB,West Horndon,https://www.realtimetrains.co.uk/search/simple/gb-nr:WHR,0.341807,51.56744,7074660
@@ -2494,7 +2494,7 @@ GB,Whitton,https://www.realtimetrains.co.uk/search/simple/gb-nr:WTN,-0.356607,51
 GB,Whitwell,https://www.realtimetrains.co.uk/search/simple/gb-nr:WWL,-1.20055,53.280987,7065510
 GB,Whyteleafe South,https://www.realtimetrains.co.uk/search/simple/gb-nr:WHS,-0.077684,51.303474,7054390
 GB,Whyteleafe Station,https://www.realtimetrains.co.uk/search/simple/gb-nr:WHY,-0.081725,51.309834,7053960
-GB,Wick,https://www.realtimetrains.co.uk/search/simple/gb-nr:WCK,,,7086801
+GB,Wick,https://www.realtimetrains.co.uk/search/simple/gb-nr:WCK,-3.097965,58.441788,7086801
 GB,Wickford,https://www.realtimetrains.co.uk/search/simple/gb-nr:WIC,0.519052,51.615025,7068910
 GB,Wickham Market,https://www.realtimetrains.co.uk/search/simple/gb-nr:WCM,1.398685,52.151421,7072270
 GB,Widdrington,https://www.realtimetrains.co.uk/search/simple/gb-nr:WDD,-1.61623,55.241428,7076950
